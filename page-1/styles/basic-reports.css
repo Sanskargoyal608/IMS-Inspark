@@ -1,0 +1,1100 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 50.6rem;
+}.basic-reports-dTo {
+  box-sizing: border-box;
+  padding: 2rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  row-gap: 2rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: dashed 0.1rem #9747ff;
+  border-radius: 0.5rem;
+}
+.basic-reports-dTo .property-1default-KrR {
+  width: 100%;
+  height: 24.1rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.basic-reports-dTo .property-1default-KrR .rectangle-722-ETb {
+  width: 44.5rem;
+  height: 24.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #fffdfd;
+  border-radius: 2.5rem;
+}
+.basic-reports-dTo .property-1default-KrR .visits-YUH {
+  width: 4.9rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 5rem;
+  top: 0.9rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.7025;
+  color: rgba(0, 0, 0, 0.7300000191);
+  font-family: Harmattan, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.basic-reports-dTo .property-1default-KrR .cities-Ec1 {
+  width: 5rem;
+  height: 4.3rem;
+  cursor: pointer;
+  position: absolute;
+  left: 17.9rem;
+  top: 0.9rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.7025;
+  color: rgba(0, 0, 0, 0.7300000191);
+  font-family: Harmattan, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.basic-reports-dTo .property-1default-KrR .searches-jof {
+  width: 7.9rem;
+  height: 4.3rem;
+  cursor: pointer;
+  position: absolute;
+  left: 30.9rem;
+  top: 0.9rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.7025;
+  color: rgba(0, 0, 0, 0.7300000191);
+  font-family: Harmattan, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.basic-reports-dTo .property-1default-KrR .total-visits-3JZ {
+  width: 7rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 3.6rem;
+  top: 7rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.7348632812;
+  color: #000000;
+  font-family: Hannari, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.basic-reports-dTo .property-1default-KrR .product-visits-kim {
+  width: 8.6rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 3.6rem;
+  top: 11rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.7348632812;
+  color: #000000;
+  font-family: Hannari, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.basic-reports-dTo .property-1default-KrR .non-product-visits-sHb {
+  width: 11.7rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 3.6rem;
+  top: 15rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.7348632812;
+  color: #000000;
+  font-family: Hannari, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.basic-reports-dTo .property-1default-KrR .returned-visits-yrR {
+  width: 9.4rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 3.6rem;
+  top: 19rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.7348632812;
+  color: #000000;
+  font-family: Hannari, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.basic-reports-dTo .property-1default-KrR .item-25000-JNu {
+  width: 6.1rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 19.1rem;
+  top: 6.2rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.7025;
+  color: #000000;
+  font-family: Harmattan, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.basic-reports-dTo .property-1default-KrR .item-5000-oqT {
+  width: 5rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 19.1rem;
+  top: 14.2rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.7025;
+  color: #000000;
+  font-family: Harmattan, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.basic-reports-dTo .property-1default-KrR .item-10000-iSd {
+  width: 6.1rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 19.1rem;
+  top: 18.2rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.7025;
+  color: #000000;
+  font-family: Harmattan, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.basic-reports-dTo .property-1default-KrR .item-10000-1wX {
+  width: 6.1rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 19.1rem;
+  top: 10.2rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.7025;
+  color: #000000;
+  font-family: Harmattan, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.basic-reports-dTo .property-1default-KrR .line-289-j6q {
+  width: 44.6rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 0;
+  top: 4.5255rem;
+  background-color: rgba(0, 0, 0, 0.6499999762);
+}
+.basic-reports-dTo .property-1default-KrR .line-290-rx9 {
+  width: 5.9rem;
+  height: 0.3rem;
+  position: absolute;
+  left: 4.6rem;
+  top: 4.5rem;
+  background-color: rgba(12, 37, 255, 0.7200000286);
+}
+.basic-reports-dTo .property-1default-KrR .line-291-zoT {
+  width: 0.1rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 30.5rem;
+  top: 7.6rem;
+  background-color: #000000;
+}
+.basic-reports-dTo .property-1default-KrR .line-292-LcR {
+  width: 12.5rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 30.6rem;
+  top: 19.4rem;
+  background-color: #000000;
+}
+.basic-reports-dTo .property-1default-KrR .line-293-Uid {
+  width: 12.5rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 30.6rem;
+  top: 18.1rem;
+  background-color: rgba(0, 0, 0, 0.2599999905);
+}
+.basic-reports-dTo .property-1default-KrR .line-298-p1o {
+  width: 12.5rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 30.6rem;
+  top: 13.1rem;
+  background-color: rgba(0, 0, 0, 0.2599999905);
+}
+.basic-reports-dTo .property-1default-KrR .line-294-x81 {
+  width: 12.5rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 30.6rem;
+  top: 16.8rem;
+  background-color: rgba(0, 0, 0, 0.2599999905);
+}
+.basic-reports-dTo .property-1default-KrR .line-299-6V7 {
+  width: 12.5rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 30.5rem;
+  top: 10.6rem;
+  background-color: rgba(0, 0, 0, 0.2599999905);
+}
+.basic-reports-dTo .property-1default-KrR .line-295-39T {
+  width: 12.5rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 30.6rem;
+  top: 15.6rem;
+  background-color: rgba(0, 0, 0, 0.2599999905);
+}
+.basic-reports-dTo .property-1default-KrR .line-300-aQH {
+  width: 12.5rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 30.5rem;
+  top: 9.4rem;
+  background-color: rgba(0, 0, 0, 0.2599999905);
+}
+.basic-reports-dTo .property-1default-KrR .line-296-WYq {
+  width: 12.5rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 30.6rem;
+  top: 14.5rem;
+  background-color: rgba(0, 0, 0, 0.2599999905);
+}
+.basic-reports-dTo .property-1default-KrR .line-301-dtM {
+  width: 12.5rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 30.5rem;
+  top: 8.3rem;
+  background-color: rgba(0, 0, 0, 0.2599999905);
+}
+.basic-reports-dTo .property-1default-KrR .line-297-mDs {
+  width: 12.5rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 30.5rem;
+  top: 12rem;
+  background-color: rgba(0, 0, 0, 0.2599999905);
+}
+.basic-reports-dTo .property-1default-KrR .arrow-3-VQm {
+  width: 0;
+  height: 0.3rem;
+  position: absolute;
+  left: 30.55rem;
+  top: 7.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.basic-reports-dTo .property-1default-KrR .arrow-4-RZK {
+  width: 0.7rem;
+  height: 0;
+  position: absolute;
+  left: 43.1rem;
+  top: 19.45rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.basic-reports-dTo .property-1default-KrR .line-302-Mxm {
+  width: 16.5875rem;
+  height: 15.784rem;
+  position: absolute;
+  left: 28.5297rem;
+  top: 5.8503rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 0.2rem;
+}
+.basic-reports-dTo .property-1variant2-tSu {
+  width: 100%;
+  height: 24.1rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.basic-reports-dTo .property-1variant2-tSu .rectangle-722-Dzy {
+  width: 44.5rem;
+  height: 24.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #fffdfd;
+  border-radius: 2.5rem;
+}
+.basic-reports-dTo .property-1variant2-tSu .india-wvy {
+  width: 12.8rem;
+  height: 13.2rem;
+  position: absolute;
+  left: 29.1rem;
+  top: 6.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.basic-reports-dTo .property-1variant2-tSu .visits-Hjw {
+  width: 4.9rem;
+  height: 4.3rem;
+  cursor: pointer;
+  position: absolute;
+  left: 5rem;
+  top: 0.9rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.7025;
+  color: rgba(0, 0, 0, 0.7300000191);
+  font-family: Harmattan, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.basic-reports-dTo .property-1variant2-tSu .cities-zeM {
+  width: 5rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 17.9rem;
+  top: 0.9rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.7025;
+  color: rgba(0, 0, 0, 0.7300000191);
+  font-family: Harmattan, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.basic-reports-dTo .property-1variant2-tSu .searches-uWR {
+  width: 7.9rem;
+  height: 4.3rem;
+  cursor: pointer;
+  position: absolute;
+  left: 30.9rem;
+  top: 0.9rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.7025;
+  color: rgba(0, 0, 0, 0.7300000191);
+  font-family: Harmattan, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.basic-reports-dTo .property-1variant2-tSu .line-289-c9w {
+  width: 44.6rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 0;
+  top: 4.5255rem;
+  background-color: rgba(0, 0, 0, 0.6499999762);
+}
+.basic-reports-dTo .property-1variant2-tSu .line-290-wCD {
+  width: 5.9rem;
+  height: 0.3rem;
+  position: absolute;
+  left: 17.4rem;
+  top: 4.5rem;
+  background-color: rgba(12, 37, 255, 0.7200000286);
+}
+.basic-reports-dTo .property-1variant2-tSu .table-ftu {
+  box-sizing: border-box;
+  padding: 0rem 0.216rem 0.194rem 0.216rem;
+  width: 25.107rem;
+  height: 17.7rem;
+  position: absolute;
+  left: 0.9rem;
+  top: 5.2rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #d9d9d9;
+}
+.basic-reports-dTo .property-1variant2-tSu .table-ftu .auto-group-ehgm-sEH {
+  margin-bottom: 0.3037rem;
+  width: 100%;
+  height: 4.0667rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.basic-reports-dTo .property-1variant2-tSu .table-ftu .auto-group-ehgm-sEH .cities-odj {
+  width: 2.4rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 1.293rem;
+  top: 0.1093rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.7348632812;
+  color: #000000;
+  font-family: Hannari, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.basic-reports-dTo .property-1variant2-tSu .table-ftu .auto-group-ehgm-sEH .orders-tQH {
+  width: 2.9rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 20.0422rem;
+  top: 0;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.7348632812;
+  color: #000000;
+  font-family: Hannari, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.basic-reports-dTo .property-1variant2-tSu .table-ftu .auto-group-ehgm-sEH .rectangle-784-dmB {
+  width: 24.6758rem;
+  height: 2.1852rem;
+  position: absolute;
+  left: 0;
+  top: 1.8574rem;
+  background-color: #fffdfd;
+}
+.basic-reports-dTo .property-1variant2-tSu .table-ftu .auto-group-ehgm-sEH .ahemdabad-mcV {
+  width: 6.1rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 0.2156rem;
+  top: 1.9667rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.7348632812;
+  color: #000000;
+  font-family: Hannari, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.basic-reports-dTo .property-1variant2-tSu .table-ftu .auto-group-ehgm-sEH .item-90-HKw {
+  width: 1.2rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 21.0125rem;
+  top: 1.9667rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.7348632812;
+  color: #000000;
+  font-family: Hannari, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.basic-reports-dTo .property-1variant2-tSu .table-ftu .auto-group-ehgm-sEH .arrow-5-Ptm {
+  width: 0;
+  height: 0.7648rem;
+  position: absolute;
+  left: 24.2453rem;
+  top: 0.5463rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.basic-reports-dTo .property-1variant2-tSu .table-ftu .auto-group-xmw7-w9b {
+  margin-bottom: 0.5223rem;
+  width: 100%;
+  height: 2.2092rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.basic-reports-dTo .property-1variant2-tSu .table-ftu .auto-group-xmw7-w9b .rectangle-785-g7B {
+  width: 24.6758rem;
+  height: 2.1852rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #fffdfd;
+}
+.basic-reports-dTo .property-1variant2-tSu .table-ftu .auto-group-xmw7-w9b .indore-Dcu {
+  width: 3.3rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 0.2156rem;
+  top: 0.1092rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.7348632812;
+  color: #000000;
+  font-family: Hannari, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.basic-reports-dTo .property-1variant2-tSu .table-ftu .auto-group-xmw7-w9b .item-70-Xdb {
+  width: 1.2rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 21.0125rem;
+  top: 0.1092rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.7348632812;
+  color: #000000;
+  font-family: Hannari, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.basic-reports-dTo .property-1variant2-tSu .table-ftu .auto-group-ohjy-2qF {
+  margin-bottom: 0.5222rem;
+  width: 100%;
+  height: 2.2093rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.basic-reports-dTo .property-1variant2-tSu .table-ftu .auto-group-ohjy-2qF .rectangle-786-yVb {
+  width: 24.6758rem;
+  height: 2.1852rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #fffdfd;
+}
+.basic-reports-dTo .property-1variant2-tSu .table-ftu .auto-group-ohjy-2qF .mandsaur-WkR {
+  width: 5rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 0.2156rem;
+  top: 0.1093rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.7348632812;
+  color: #000000;
+  font-family: Hannari, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.basic-reports-dTo .property-1variant2-tSu .table-ftu .auto-group-ohjy-2qF .item-50-cHf {
+  width: 1.2rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 21.0125rem;
+  top: 0.1093rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.7348632812;
+  color: #000000;
+  font-family: Hannari, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.basic-reports-dTo .property-1variant2-tSu .table-ftu .auto-group-c1vs-7kD {
+  margin-bottom: 0.5223rem;
+  width: 100%;
+  height: 2.2093rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.basic-reports-dTo .property-1variant2-tSu .table-ftu .auto-group-c1vs-7kD .rectangle-787-TZB {
+  width: 24.6758rem;
+  height: 2.1852rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #fffdfd;
+}
+.basic-reports-dTo .property-1variant2-tSu .table-ftu .auto-group-c1vs-7kD .delhi-od3 {
+  width: 2.6rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 0.2156rem;
+  top: 0.1093rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.7348632812;
+  color: #000000;
+  font-family: Hannari, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.basic-reports-dTo .property-1variant2-tSu .table-ftu .auto-group-c1vs-7kD .item-40-7dj {
+  width: 1.2rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 21.0125rem;
+  top: 0.1093rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.7348632812;
+  color: #000000;
+  font-family: Hannari, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.basic-reports-dTo .property-1variant2-tSu .table-ftu .auto-group-jyeu-dMB {
+  margin-bottom: 0.5222rem;
+  width: 100%;
+  height: 2.2093rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.basic-reports-dTo .property-1variant2-tSu .table-ftu .auto-group-jyeu-dMB .rectangle-788-NZf {
+  width: 24.6758rem;
+  height: 2.1852rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #fffdfd;
+}
+.basic-reports-dTo .property-1variant2-tSu .table-ftu .auto-group-jyeu-dMB .kolkata-Kjo {
+  width: 3.8rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 0.2156rem;
+  top: 0.1093rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.7348632812;
+  color: #000000;
+  font-family: Hannari, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.basic-reports-dTo .property-1variant2-tSu .table-ftu .auto-group-jyeu-dMB .item-30-F7f {
+  width: 1.2rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 21.0125rem;
+  top: 0.1093rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.7348632812;
+  color: #000000;
+  font-family: Hannari, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.basic-reports-dTo .property-1variant2-tSu .table-ftu .auto-group-bsy5-9yj {
+  width: 100%;
+  height: 2.2093rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.basic-reports-dTo .property-1variant2-tSu .table-ftu .auto-group-bsy5-9yj .rectangle-789-WJV {
+  width: 24.6758rem;
+  height: 2.1852rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #fffdfd;
+}
+.basic-reports-dTo .property-1variant2-tSu .table-ftu .auto-group-bsy5-9yj .vadodra-Fms {
+  width: 4.2rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 0.2156rem;
+  top: 0.1093rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.7348632812;
+  color: #000000;
+  font-family: Hannari, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.basic-reports-dTo .property-1variant2-tSu .table-ftu .auto-group-bsy5-9yj .item-20-yhs {
+  width: 1.2rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 21.0125rem;
+  top: 0.1093rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.7348632812;
+  color: #000000;
+  font-family: Hannari, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.basic-reports-dTo .property-1variant2-tSu .total-cities-reached-5F7 {
+  width: 10.3rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 27.8rem;
+  top: 20.8rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.7348632812;
+  color: #000000;
+  font-family: Hannari, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.basic-reports-dTo .property-1variant2-tSu .item-50-PFo {
+  width: 1.8rem;
+  height: 3.5rem;
+  position: absolute;
+  left: 40.1rem;
+  top: 20.2rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.7025;
+  color: #000000;
+  font-family: Harmattan, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.basic-reports-dTo .property-1variant3-hGV {
+  width: 100%;
+  height: 24.1rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.basic-reports-dTo .property-1variant3-hGV .rectangle-722-qdb {
+  width: 44.5rem;
+  height: 24.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #fffdfd;
+  border-radius: 2.5rem;
+}
+.basic-reports-dTo .property-1variant3-hGV .visits-xiD {
+  width: 4.9rem;
+  height: 4.3rem;
+  cursor: pointer;
+  position: absolute;
+  left: 5rem;
+  top: 0.9rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.7025;
+  color: rgba(0, 0, 0, 0.7300000191);
+  font-family: Harmattan, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.basic-reports-dTo .property-1variant3-hGV .cities-f6q {
+  width: 5rem;
+  height: 4.3rem;
+  cursor: pointer;
+  position: absolute;
+  left: 17.9rem;
+  top: 0.9rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.7025;
+  color: rgba(0, 0, 0, 0.7300000191);
+  font-family: Harmattan, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.basic-reports-dTo .property-1variant3-hGV .searches-ApH {
+  width: 7.9rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 30.9rem;
+  top: 0.9rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.7025;
+  color: rgba(0, 0, 0, 0.7300000191);
+  font-family: Harmattan, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.basic-reports-dTo .property-1variant3-hGV .line-289-gXj {
+  width: 44.6rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 0;
+  top: 4.5255rem;
+  background-color: rgba(0, 0, 0, 0.6499999762);
+}
+.basic-reports-dTo .property-1variant3-hGV .line-290-25o {
+  width: 10.2rem;
+  height: 0.3rem;
+  position: absolute;
+  left: 30rem;
+  top: 4.5rem;
+  background-color: rgba(12, 37, 255, 0.7200000286);
+}
+.basic-reports-dTo .property-1variant3-hGV .table-wyT {
+  box-sizing: border-box;
+  padding: 0.105rem 0.483rem 0.479rem 0.366rem;
+  width: 42.7rem;
+  height: 17.5rem;
+  position: absolute;
+  left: 0.7rem;
+  top: 5.4rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #d9d9d9;
+  border-radius: 0.5rem;
+}
+.basic-reports-dTo .property-1variant3-hGV .table-wyT .auto-group-pnws-drH {
+  margin-bottom: 0.1805rem;
+  width: 100%;
+  height: 3.9288rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.basic-reports-dTo .property-1variant3-hGV .table-wyT .auto-group-pnws-drH .searched-queries-ALR {
+  width: 7.4rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 2.1922rem;
+  top: 0;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.7348632812;
+  color: #000000;
+  font-family: Hannari, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.basic-reports-dTo .property-1variant3-hGV .table-wyT .auto-group-pnws-drH .clicks-g3s {
+  width: 2.5rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 34.6242rem;
+  top: 0.0788rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.7348632812;
+  color: #000000;
+  font-family: Hannari, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.basic-reports-dTo .property-1variant3-hGV .table-wyT .auto-group-pnws-drH .rectangle-784-zaM {
+  width: 41.8508rem;
+  height: 2.1072rem;
+  position: absolute;
+  left: 0;
+  top: 1.6858rem;
+  background-color: #fffdfd;
+  border-radius: 0.5rem;
+}
+.basic-reports-dTo .property-1variant3-hGV .table-wyT .auto-group-pnws-drH .this-is-a-query-XaH {
+  width: 7.8rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 1.7094rem;
+  top: 1.8288rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.7348632812;
+  color: #000000;
+  font-family: Hannari, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.basic-reports-dTo .property-1variant3-hGV .table-wyT .auto-group-pnws-drH .item-90-Di1 {
+  width: 1.2rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 35.6367rem;
+  top: 1.7912rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.7348632812;
+  color: #000000;
+  font-family: Hannari, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.basic-reports-dTo .property-1variant3-hGV .table-wyT .auto-group-pnws-drH .arrow-5-Xih {
+  width: 0;
+  height: 0.7375rem;
+  position: absolute;
+  left: 38.3859rem;
+  top: 0.5688rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 0.5rem;
+}
+.basic-reports-dTo .property-1variant3-hGV .table-wyT .auto-group-3gc9-rFB {
+  margin-bottom: 0.4197rem;
+  width: 100%;
+  height: 2.2143rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.basic-reports-dTo .property-1variant3-hGV .table-wyT .auto-group-3gc9-rFB .rectangle-785-bCm {
+  width: 41.8508rem;
+  height: 2.1072rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #fffdfd;
+  border-radius: 0.5rem;
+}
+.basic-reports-dTo .property-1variant3-hGV .table-wyT .auto-group-3gc9-rFB .this-is-a-query-vkq {
+  width: 7.8rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 1.7094rem;
+  top: 0.1143rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.7348632812;
+  color: #000000;
+  font-family: Hannari, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.basic-reports-dTo .property-1variant3-hGV .table-wyT .auto-group-3gc9-rFB .item-70-EmX {
+  width: 1.2rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 35.6367rem;
+  top: 0.1052rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.7348632812;
+  color: #000000;
+  font-family: Hannari, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.basic-reports-dTo .property-1variant3-hGV .table-wyT .auto-group-hber-9db {
+  margin-bottom: 0.3827rem;
+  width: 100%;
+  height: 2.2514rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.basic-reports-dTo .property-1variant3-hGV .table-wyT .auto-group-hber-9db .rectangle-786-Hzh {
+  width: 41.8508rem;
+  height: 2.1072rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #fffdfd;
+  border-radius: 0.5rem;
+}
+.basic-reports-dTo .property-1variant3-hGV .table-wyT .auto-group-hber-9db .this-is-a-query-dof {
+  width: 7.8rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 1.7094rem;
+  top: 0.1514rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.7348632812;
+  color: #000000;
+  font-family: Hannari, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.basic-reports-dTo .property-1variant3-hGV .table-wyT .auto-group-hber-9db .item-50-Xe9 {
+  width: 1.2rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 35.6367rem;
+  top: 0.1053rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.7348632812;
+  color: #000000;
+  font-family: Hannari, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.basic-reports-dTo .property-1variant3-hGV .table-wyT .auto-group-rjeq-SFK {
+  margin-bottom: 0.4288rem;
+  width: 100%;
+  height: 2.2053rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.basic-reports-dTo .property-1variant3-hGV .table-wyT .auto-group-rjeq-SFK .rectangle-787-na5 {
+  width: 41.8508rem;
+  height: 2.1072rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #fffdfd;
+  border-radius: 0.5rem;
+}
+.basic-reports-dTo .property-1variant3-hGV .table-wyT .auto-group-rjeq-SFK .this-is-a-query-jVK {
+  width: 7.8rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 1.7094rem;
+  top: 0.0962rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.7348632812;
+  color: #000000;
+  font-family: Hannari, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.basic-reports-dTo .property-1variant3-hGV .table-wyT .auto-group-rjeq-SFK .item-40-SPj {
+  width: 1.2rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 35.6367rem;
+  top: 0.1053rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.7348632812;
+  color: #000000;
+  font-family: Hannari, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.basic-reports-dTo .property-1variant3-hGV .table-wyT .auto-group-kfpp-MWh {
+  margin-bottom: 0.4288rem;
+  width: 100%;
+  height: 2.2053rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.basic-reports-dTo .property-1variant3-hGV .table-wyT .auto-group-kfpp-MWh .rectangle-788-JRw {
+  width: 41.8508rem;
+  height: 2.1072rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #fffdfd;
+  border-radius: 0.5rem;
+}
+.basic-reports-dTo .property-1variant3-hGV .table-wyT .auto-group-kfpp-MWh .this-is-a-query-qwf {
+  width: 7.8rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 1.7094rem;
+  top: 0.0411rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.7348632812;
+  color: #000000;
+  font-family: Hannari, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.basic-reports-dTo .property-1variant3-hGV .table-wyT .auto-group-kfpp-MWh .item-30-m4d {
+  width: 1.2rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 35.6367rem;
+  top: 0.1053rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.7348632812;
+  color: #000000;
+  font-family: Hannari, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.basic-reports-dTo .property-1variant3-hGV .table-wyT .auto-group-jovb-stM {
+  width: 100%;
+  height: 2.2702rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.basic-reports-dTo .property-1variant3-hGV .table-wyT .auto-group-jovb-stM .rectangle-789-2WM {
+  width: 41.8508rem;
+  height: 2.1072rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #fffdfd;
+  border-radius: 0.5rem;
+}
+.basic-reports-dTo .property-1variant3-hGV .table-wyT .auto-group-jovb-stM .this-is-a-query-yAh {
+  width: 7.8rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 1.7094rem;
+  top: 0.1702rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.7348632812;
+  color: #000000;
+  font-family: Hannari, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.basic-reports-dTo .property-1variant3-hGV .table-wyT .auto-group-jovb-stM .item-20-5zR {
+  width: 1.2rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 35.6367rem;
+  top: 0.1054rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.7348632812;
+  color: #000000;
+  font-family: Hannari, 'Source Sans Pro';
+  white-space: nowrap;
+}

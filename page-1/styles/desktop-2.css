@@ -1,0 +1,243 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.desktop-2-Mxd {
+  width: 100%;
+  height: 102.4rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.desktop-2-Mxd .frame-6-FYD {
+  box-sizing: border-box;
+  padding: 23.05rem 14rem 36.85rem 13.9rem;
+  width: 72rem;
+  height: 102.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  overflow: hidden;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem rgba(255, 255, 255, 0.1000000015);
+  background-color: #404040;
+  border-radius: 0.2rem;
+}
+.desktop-2-Mxd .frame-6-FYD .welcome-manage-your-inventory-conveniently-MLM {
+  margin-bottom: 16rem;
+  max-width: 44.1rem;
+  display: flex;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.desktop-2-Mxd .frame-6-FYD .auto-group-28m7-r2D {
+  margin: 0rem 2.5rem 0rem 2.6rem;
+  width: calc(100% - 5.1rem);
+  height: 15.7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-2-Mxd .frame-6-FYD .auto-group-28m7-r2D .already-an-inventory-manager-xqw {
+  width: 39rem;
+  height: 10.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.desktop-2-Mxd .frame-6-FYD .auto-group-28m7-r2D .login-59s {
+  width: 10rem;
+  height: 5.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 16.05rem;
+  top: 10.3rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-2-Mxd .sign-up-KK7 {
+  width: 15.5rem;
+  height: 6rem;
+  position: absolute;
+  left: 100.4rem;
+  top: 15.7rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-2-Mxd .rectangle-59-2DX {
+  width: 40.3rem;
+  height: 12.8rem;
+  position: absolute;
+  left: 73.6rem;
+  top: 31.2rem;
+  background-color: #404040;
+  border-radius: 1rem;
+}
+.desktop-2-Mxd .username-k9X {
+  width: 17.1rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 84.6rem;
+  top: 35.35rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: rgba(215, 192, 192, 0.2199999988);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-2-Mxd .password--E4h {
+  width: 17.1rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 73.6rem;
+  top: 45.4rem;
+  display: flex;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #252525;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-2-Mxd .rectangle-60-jXF {
+  width: 40.3rem;
+  height: 12.8rem;
+  position: absolute;
+  left: 73.8rem;
+  top: 51rem;
+  background-color: #404040;
+  border-radius: 1rem;
+}
+.desktop-2-Mxd .username--rrm {
+  width: 18rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 73.6rem;
+  top: 25.6rem;
+  display: flex;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #252525;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-2-Mxd .password-NKK {
+  width: 16.1rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 84.65rem;
+  top: 54.55rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #615c5c;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-2-Mxd .frame-23-Fe1 {
+  box-sizing: border-box;
+  padding: 1.1rem 38.4rem 1.2rem 1.9rem;
+  width: 144rem;
+  height: 11.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  background-color: #aaa4a4;
+}
+.desktop-2-Mxd .frame-23-Fe1 .inspark-logo-1-iXb {
+  margin-right: 29.6rem;
+  width: 10.5rem;
+  height: 9.1rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 4.9rem;
+  flex-shrink: 0;
+}
+.desktop-2-Mxd .frame-23-Fe1 .inventory-management-system-1Wh {
+  margin-top: 0.1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-2-Mxd .rectangle-65-huK {
+  width: 22.6rem;
+  height: 11.1rem;
+  position: absolute;
+  left: 95.8rem;
+  top: 67rem;
+  background-color: #404040;
+  border-radius: 4rem;
+}
+.desktop-2-Mxd .signup-Dsf {
+  width: 13.1rem;
+  height: 5.4rem;
+  position: absolute;
+  left: 100.8rem;
+  top: 69.9rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}

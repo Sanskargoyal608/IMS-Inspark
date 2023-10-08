@@ -1,0 +1,209 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 30rem;
+}.ob-forms-address-mff {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  row-gap: 3.6rem;
+  border-radius: 0.5rem;
+  box-sizing: border-box;
+  padding-bottom: 3.6rem;
+
+  .property-1default-HP7 {
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+
+    .address-ptq {
+      white-space: nowrap;
+      flex-shrink: 0;
+      font-size: 1.4rem;
+      font-weight: 400;
+      line-height: 2;
+      color: #000000;
+      font-family: Inter, 'Source Sans Pro';
+    }
+    .frame-ZrR {
+      height: 13.2rem;
+      font-size: 1.4rem;
+      line-height: 2;
+      white-space: nowrap;
+      flex-shrink: 0;
+      width: 100%;
+      position: relative;
+      font-family: Inter, 'Source Sans Pro';
+      border: solid 0.1rem #e2e1e5;
+      box-sizing: border-box;
+      font-weight: 400;
+      color: #d2d2d2;
+      background-color: #ffffff;
+      border-radius: 0.5rem;
+      padding: 1rem 1.5rem;
+      overflow: hidden;
+    }
+  }
+  .property-1error-ExZ {
+    flex-direction: column;
+    flex-shrink: 0;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    display: flex;
+
+    .address-zgq {
+      color: #000000;
+      font-family: Inter, 'Source Sans Pro';
+      white-space: nowrap;
+      flex-shrink: 0;
+      font-size: 1.4rem;
+      font-weight: 400;
+      line-height: 2;
+    }
+    .frame-93w {
+      overflow: hidden;
+      font-weight: 400;
+      color: #d2d2d2;
+      font-family: Inter, 'Source Sans Pro';
+      box-sizing: border-box;
+      height: 13.2rem;
+      position: relative;
+      width: 100%;
+      white-space: nowrap;
+      border: solid 0.1rem #f14668;
+      font-size: 1.4rem;
+      line-height: 2;
+      background-color: #ffffff;
+      border-radius: 0.5rem;
+      flex-shrink: 0;
+      padding: 1rem 1.5rem;
+    }
+  }
+  .property-1focus-1bw {
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+
+    .address-ZNZ {
+      font-family: Inter, 'Source Sans Pro';
+      white-space: nowrap;
+      flex-shrink: 0;
+      font-size: 1.4rem;
+      font-weight: 400;
+      line-height: 2;
+      color: #000000;
+    }
+    .frame-79B {
+      height: 13.2rem;
+      overflow: hidden;
+      font-size: 1.4rem;
+      font-weight: 400;
+      border-radius: 0.5rem;
+      color: #d2d2d2;
+      font-family: Inter, 'Source Sans Pro';
+      white-space: nowrap;
+      flex-shrink: 0;
+      box-sizing: border-box;
+      padding: 1rem 1.5rem;
+      line-height: 2;
+      border: solid 0.1rem #222222;
+      width: 100%;
+      position: relative;
+      background-color: #ffffff;
+    }
+  }
+  .property-1disabled-zCy {
+    overflow: hidden;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+    width: 100%;
+
+    .address-LXj {
+      font-weight: 400;
+      line-height: 2;
+      color: #000000;
+      font-family: Inter, 'Source Sans Pro';
+      white-space: nowrap;
+      flex-shrink: 0;
+      font-size: 1.4rem;
+    }
+    .frame-tZF {
+      height: 13.2rem;
+      line-height: 2;
+      border: solid 0.1rem #e2e1e5;
+      padding: 1rem 1.5rem;
+      font-family: Inter, 'Source Sans Pro';
+      white-space: nowrap;
+      background-color: #d8d8d8;
+      flex-shrink: 0;
+      box-sizing: border-box;
+      width: 100%;
+      overflow: hidden;
+      position: relative;
+      font-size: 1.4rem;
+      font-weight: 400;
+      color: #d2d2d2;
+      border-radius: 0.5rem;
+    }
+  }
+  .property-1hover-aBB {
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+
+    .address-vVw {
+      line-height: 2;
+      color: #000000;
+      font-family: Inter, 'Source Sans Pro';
+      white-space: nowrap;
+      flex-shrink: 0;
+      font-size: 1.4rem;
+      font-weight: 400;
+    }
+    .frame-gED {
+      color: #d2d2d2;
+      font-family: Inter, 'Source Sans Pro';
+      white-space: nowrap;
+      padding: 1rem 1.5rem;
+      background-color: #ffffff;
+      flex-shrink: 0;
+      width: 100%;
+      overflow: hidden;
+      position: relative;
+      font-size: 1.4rem;
+      border-radius: 0.5rem;
+      box-sizing: border-box;
+      font-weight: 400;
+      line-height: 2;
+      border: solid 0.1rem #222222;
+      height: 13.2rem;
+    }
+  }
+}

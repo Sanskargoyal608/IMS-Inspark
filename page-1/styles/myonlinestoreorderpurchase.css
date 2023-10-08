@@ -1,0 +1,5223 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 95.8rem;
+}.myonlinestoreorderpurchase-nRP {
+  box-sizing: border-box;
+  padding: 2rem 2rem 6.4rem 1.4rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: dashed 0.1rem #9747ff;
+  border-radius: 0.5rem;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K {
+  margin: 0rem 0rem 17.6rem 0.6rem;
+  box-sizing: border-box;
+  padding-bottom: 4.2rem;
+  width: 91.8rem;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP {
+  margin-bottom: 2.2rem;
+  box-sizing: border-box;
+  padding: 1.6rem 1.3rem 1.8rem 0.9rem;
+  width: 90.9rem;
+  border: solid 0.1rem #000000;
+  background-color: #cad0f4;
+  border-radius: 2rem;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-r5zq-hRs {
+  margin: 0rem 9.5rem 1.4rem 2rem;
+  width: calc(100% - 11.5rem);
+  height: 3.5rem;
+  display: flex;
+  align-items: center;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-r5zq-hRs .orders-RMs {
+  margin: 0rem 54.1rem 0.3rem 0rem;
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Hannari, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-r5zq-hRs .purchase-order-filter-jNZ {
+  width: 16.9rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-r5zq-hRs .purchase-order-filter-jNZ .rectangle-761-UL9 {
+  width: 16.9rem;
+  height: 3.2823rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #c7e4ff;
+  border-radius: 1rem;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-r5zq-hRs .purchase-order-filter-jNZ .last-7-days-aPB {
+  width: 7.9rem;
+  height: 3.5rem;
+  position: absolute;
+  left: 1.7031rem;
+  top: 0;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.7025;
+  color: rgba(0, 0, 0, 0.6999999881);
+  font-family: Harmattan, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-r5zq-hRs .purchase-order-filter-jNZ .polygon-7-H2h {
+  width: 2.4891rem;
+  height: 1.2706rem;
+  position: absolute;
+  left: 13.4938rem;
+  top: 1.0589rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ {
+  width: 100%;
+  height: 48.7rem;
+  position: relative;
+  background-color: #ffffff;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf {
+  width: 88.6rem;
+  height: 46.4rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 1.1rem;
+  overflow: hidden;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .purchaselistheader-sWh {
+  margin: 0rem 0rem 0.4rem 1.15rem;
+  height: 3.3rem;
+  display: flex;
+  align-items: center;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .purchaselistheader-sWh .frame-114-ypd {
+  margin: 0.1rem 4.05rem 0rem 0rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .purchaselistheader-sWh .frame-114-ypd .rectangle-753-uiH {
+  margin: 0rem 3.5rem 0.1rem 0rem;
+  width: 1.8rem;
+  height: 1.8rem;
+  border: solid 0.1rem #0276ff;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .purchaselistheader-sWh .frame-114-ypd .oid-1WR {
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.7386133406;
+  color: #000000;
+  font-family: Harmattan, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .purchaselistheader-sWh .customer-9cd {
+  margin: 0.1rem 5.1rem 0rem 0rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.7386133406;
+  color: #000000;
+  font-family: Harmattan, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .purchaselistheader-sWh .frame-114-s2q {
+  margin: 0.1rem 2.75rem 0rem 0rem;
+  box-sizing: border-box;
+  padding-right: 0.3rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .purchaselistheader-sWh .frame-114-s2q .items-oBP {
+  margin-right: 0.8rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.7386133406;
+  color: #000000;
+  font-family: Harmattan, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .purchaselistheader-sWh .frame-114-s2q .filter-variant-LSD {
+  margin-bottom: 0.1rem;
+  width: 1.8rem;
+  height: 1.05rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .purchaselistheader-sWh .frame-115-sBF {
+  margin: 0.1rem 2.05rem 0.2rem 0rem;
+  box-sizing: border-box;
+  padding-right: 0.3rem;
+  height: calc(100% - 0.3rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .purchaselistheader-sWh .frame-115-sBF .discount-zmf {
+  margin-right: 0.8rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.7386133531;
+  color: #000000;
+  font-family: Harmattan, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .purchaselistheader-sWh .frame-115-sBF .filter-variant-vfK {
+  width: 1.8rem;
+  height: 1.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .purchaselistheader-sWh .frame-116-Tv9 {
+  margin: 0rem 3.6rem 0.1rem 0rem;
+  box-sizing: border-box;
+  padding-right: 0.3rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .purchaselistheader-sWh .frame-116-Tv9 .total-amt-Ccq {
+  margin-right: 0.8rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.7386133406;
+  color: #000000;
+  font-family: Harmattan, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .purchaselistheader-sWh .frame-116-Tv9 .filter-variant-8mP {
+  margin-bottom: 0.1rem;
+  width: 1.8rem;
+  height: 1.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .purchaselistheader-sWh .frame-117-4f3 {
+  margin: 0rem 3.1rem 0.1rem 0rem;
+  box-sizing: border-box;
+  padding-right: 0.3rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .purchaselistheader-sWh .frame-117-4f3 .tracking-id-PSR {
+  margin-right: 0.8rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.7386133406;
+  color: #000000;
+  font-family: Harmattan, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .purchaselistheader-sWh .frame-117-4f3 .filter-variant-ijb {
+  margin-bottom: 0.1rem;
+  width: 1.8rem;
+  height: 1.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .purchaselistheader-sWh .frame-118-f93 {
+  margin-bottom: 0.1rem;
+  box-sizing: border-box;
+  padding-right: 0.3rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .purchaselistheader-sWh .frame-118-f93 .delivery-status-Cuf {
+  margin-right: 0.8rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.7386133406;
+  color: #000000;
+  font-family: Harmattan, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .purchaselistheader-sWh .frame-118-f93 .filter-variant-M1s {
+  margin-bottom: 0.1rem;
+  width: 1.8rem;
+  height: 1.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o {
+  width: 100%;
+  height: 42.8rem;
+  overflow: hidden;
+  position: relative;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD {
+  width: 100%;
+  height: 114.6rem;
+  position: relative;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-Mvy {
+  box-sizing: border-box;
+  padding: 1.2rem 1.6rem 1.2rem 1.1rem;
+  width: 88.7rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 0.2rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  background-color: #d9d9d9;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-Mvy .rectangle-753-44h {
+  margin-right: 2.75rem;
+  width: 1.8rem;
+  height: 1.8rem;
+  border: solid 0.1rem #0276ff;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-Mvy .item-1651565-PMs {
+  margin: 0.1rem 2rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-Mvy .abc-supplier-Vvh {
+  margin: 0.1rem 6.25rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-Mvy .item-10-1e9 {
+  margin: 0.1rem 4.95rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-Mvy .item-100-XsP {
+  margin: 0.1rem 8.1rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-Mvy .item-250100-46d {
+  margin: 0.7rem 10.15rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-Mvy .item-50100-n2d {
+  margin: 0.1rem 6.65rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-Mvy .delivered-JFs {
+  margin: 0.1rem 5.7rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-Mvy .pencil-box-outline-2Sm {
+  margin-right: 1.4rem;
+  width: 2.2rem;
+  height: 2.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-Mvy .printer-pos-check-outline-Mzq {
+  margin-top: 0.2rem;
+  width: 1.85rem;
+  height: 1.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-UpZ {
+  box-sizing: border-box;
+  padding: 1.3rem 9.5rem 1.5rem 0.9rem;
+  width: 88.7rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 0.4rem;
+  top: 4.6rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-UpZ .rectangle-753-xzd {
+  margin-right: 3.8rem;
+  width: 1.8rem;
+  height: 1.8rem;
+  border: solid 0.1rem #0276ff;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-UpZ .item-1651565-hBX {
+  margin: 0.3rem 1.8rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-UpZ .abc-supplier-1i1 {
+  margin: 0.3rem 5.4rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-UpZ .item-10-9JR {
+  margin: 0.3rem 5.9rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-UpZ .item-100-Gdw {
+  margin: 0.3rem 7.1rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-UpZ .item-250100-QEM {
+  margin: 0.3rem 10rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-UpZ .item-50100-8RF {
+  margin: 0.3rem 10.3rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-UpZ .delivered-qKf {
+  margin-top: 0.3rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-yAy {
+  box-sizing: border-box;
+  padding: 1.4rem 9.45rem 1.4rem 1.1rem;
+  width: 88.7rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 0.4rem;
+  top: 23rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-yAy .rectangle-753-FuB {
+  margin-right: 3.65rem;
+  width: 1.8rem;
+  height: 1.8rem;
+  border: solid 0.1rem #0276ff;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-yAy .item-1651565-zLy {
+  margin: 0.1rem 1.8rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-yAy .abc-supplier-7Ah {
+  margin: 0.1rem 5.4rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-yAy .item-10-2oT {
+  margin: 0.1rem 5.9rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-yAy .item-100-Mqj {
+  margin: 0.1rem 7.1rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-yAy .item-250100-h8u {
+  margin: 0.1rem 10.1rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-yAy .item-50100-cWm {
+  margin: 0.1rem 10.2rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-yAy .delivered-wJ9 {
+  margin-top: 0.1rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-4tZ {
+  box-sizing: border-box;
+  padding: 1.4rem 9.45rem 1.4rem 0.9rem;
+  width: 88.7rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 0.4rem;
+  top: 13.8rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-4tZ .rectangle-753-kWV {
+  margin-right: 3.75rem;
+  width: 1.8rem;
+  height: 1.8rem;
+  border: solid 0.1rem #0276ff;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-4tZ .item-1651565-gf3 {
+  margin: 0.1rem 1.9rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-4tZ .abc-supplier-1SR {
+  margin: 0.1rem 5.4rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-4tZ .item-10-YBT {
+  margin: 0.1rem 5.9rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-4tZ .item-100-Gt9 {
+  margin: 0.1rem 7.1rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-4tZ .item-250100-1Kw {
+  margin: 0.1rem 10rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-4tZ .item-50100-8fT {
+  margin: 0.1rem 10.3rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-4tZ .delivered-edo {
+  margin-top: 0.1rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-P5b {
+  box-sizing: border-box;
+  padding: 1.4rem 9.45rem 1.4rem 1.1rem;
+  width: 88.7rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 0.4rem;
+  top: 32.2rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-P5b .rectangle-753-UMw {
+  margin-right: 3.55rem;
+  width: 1.8rem;
+  height: 1.8rem;
+  border: solid 0.1rem #0276ff;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-P5b .item-1651565-QFb {
+  margin: 0.1rem 1.9rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-P5b .abc-supplier-vjj {
+  margin: 0.1rem 5.4rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-P5b .item-10-4L9 {
+  margin: 0.1rem 5.9rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-P5b .item-100-zUh {
+  margin: 0.1rem 7.1rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-P5b .item-250100-XDj {
+  margin: 0.1rem 10rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-P5b .item-50100-4cy {
+  margin: 0.1rem 10.3rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-P5b .delivered-yzq {
+  margin-top: 0.1rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-XFf {
+  box-sizing: border-box;
+  padding: 1.4rem 9.25rem 1.4rem 1.1rem;
+  width: 88.7rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 0.2rem;
+  top: 9.2rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-XFf .rectangle-753-Cch {
+  margin-right: 3.65rem;
+  width: 1.8rem;
+  height: 1.8rem;
+  border: solid 0.1rem #0276ff;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-XFf .item-1651565-929 {
+  margin: 0.1rem 1.8rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-XFf .abc-supplier-rhF {
+  margin: 0.1rem 5.5rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-XFf .item-10-zHf {
+  margin: 0.1rem 5.8rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-XFf .item-100-Eho {
+  margin: 0.1rem 7.2rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-XFf .item-250100-y9b {
+  margin: 0.1rem 10.1rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-XFf .item-50100-hLV {
+  margin: 0.1rem 10.3rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-XFf .delivered-2Nm {
+  margin-top: 0.1rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-xXK {
+  box-sizing: border-box;
+  padding: 1.4rem 9.25rem 1.4rem 1.15rem;
+  width: 88.7rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 0.2rem;
+  top: 27.6rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-xXK .rectangle-753-rMo {
+  margin-right: 3.8rem;
+  width: 1.8rem;
+  height: 1.8rem;
+  border: solid 0.1rem #0276ff;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-xXK .item-1651565-P6q {
+  margin: 0.1rem 1.9rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-xXK .abc-supplier-72q {
+  margin: 0.1rem 5.4rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-xXK .item-10-qDj {
+  margin: 0.1rem 5.8rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-xXK .item-100-ZvR {
+  margin: 0.1rem 7.1rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-xXK .item-250100-uDb {
+  margin: 0.1rem 10rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-xXK .item-50100-Rhj {
+  margin: 0.1rem 10.3rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-xXK .delivered-YnM {
+  margin-top: 0.1rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-Uvu {
+  box-sizing: border-box;
+  padding: 1.4rem 9.25rem 1.4rem 1.1rem;
+  width: 88.7rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 0.2rem;
+  top: 18.4rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-Uvu .rectangle-753-Aoj {
+  margin-right: 3.65rem;
+  width: 1.8rem;
+  height: 1.8rem;
+  border: solid 0.1rem #0276ff;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-Uvu .item-1651565-JQ9 {
+  margin: 0.1rem 1.8rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-Uvu .abc-supplier-pdP {
+  margin: 0.1rem 5.5rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-Uvu .item-10-k1F {
+  margin: 0.1rem 5.8rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-Uvu .item-100-4nd {
+  margin: 0.1rem 7.2rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-Uvu .item-250100-y8u {
+  margin: 0.1rem 10.1rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-Uvu .item-50100-VN9 {
+  margin: 0.1rem 10.3rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-Uvu .delivered-CnM {
+  margin-top: 0.1rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .auto-group-qgrm-jXP {
+  width: 88.9rem;
+  height: 9rem;
+  position: absolute;
+  left: 0.2rem;
+  top: 36.8rem;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .auto-group-qgrm-jXP .purchaselist-4Zf {
+  box-sizing: border-box;
+  padding: 1.4rem 9.25rem 1.4rem 1.1rem;
+  width: 88.7rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .auto-group-qgrm-jXP .purchaselist-4Zf .rectangle-753-x9F {
+  margin-right: 3.65rem;
+  width: 1.8rem;
+  height: 1.8rem;
+  border: solid 0.1rem #0276ff;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .auto-group-qgrm-jXP .purchaselist-4Zf .item-1651565-HSR {
+  margin: 0.1rem 1.8rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .auto-group-qgrm-jXP .purchaselist-4Zf .abc-supplier-bi1 {
+  margin: 0.1rem 5.5rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .auto-group-qgrm-jXP .purchaselist-4Zf .item-10-L9o {
+  margin: 0.1rem 5.8rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .auto-group-qgrm-jXP .purchaselist-4Zf .item-100-r89 {
+  margin: 0.1rem 7.2rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .auto-group-qgrm-jXP .purchaselist-4Zf .item-250100-n1o {
+  margin: 0.1rem 10.1rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .auto-group-qgrm-jXP .purchaselist-4Zf .item-50100-745 {
+  margin: 0.1rem 10.3rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .auto-group-qgrm-jXP .purchaselist-4Zf .delivered-qEy {
+  margin-top: 0.1rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .auto-group-qgrm-jXP .purchaselist-meR {
+  box-sizing: border-box;
+  padding: 1.4rem 9.45rem 1.4rem 1.1rem;
+  width: 88.7rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 0.2rem;
+  top: 4.4rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .auto-group-qgrm-jXP .purchaselist-meR .rectangle-753-rfs {
+  margin-right: 3.55rem;
+  width: 1.8rem;
+  height: 1.8rem;
+  border: solid 0.1rem #0276ff;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .auto-group-qgrm-jXP .purchaselist-meR .item-1651565-PQu {
+  margin: 0.1rem 1.9rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .auto-group-qgrm-jXP .purchaselist-meR .abc-supplier-K3f {
+  margin: 0.1rem 5.4rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .auto-group-qgrm-jXP .purchaselist-meR .item-10-3VT {
+  margin: 0.1rem 5.9rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .auto-group-qgrm-jXP .purchaselist-meR .item-100-nC9 {
+  margin: 0.1rem 7.1rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .auto-group-qgrm-jXP .purchaselist-meR .item-250100-7ER {
+  margin: 0.1rem 10rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .auto-group-qgrm-jXP .purchaselist-meR .item-50100-EZw {
+  margin: 0.1rem 10.3rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .auto-group-qgrm-jXP .purchaselist-meR .delivered-xVw {
+  margin-top: 0.1rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-Uz5 {
+  box-sizing: border-box;
+  padding: 1.4rem 12.6rem 1.4rem 1.1rem;
+  width: 88.7rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 0.4rem;
+  top: 50.4rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-Uz5 .rectangle-753-N3s {
+  margin-right: 3.6rem;
+  width: 1.8rem;
+  height: 1.8rem;
+  border: solid 0.1rem #0276ff;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-Uz5 .item-1651565-6Vf {
+  margin: 0.1rem 1.5rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-Uz5 .abc-supplier-1sX {
+  margin: 0.1rem 4.8rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-Uz5 .item-10-wWH {
+  margin: 0.1rem 5.5rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-Uz5 .item-100-UWD {
+  margin: 0.1rem 6.7rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-Uz5 .item-250100-1W9 {
+  margin: 0.1rem 9.3rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-Uz5 .item-50100-8qf {
+  margin: 0.1rem 9.6rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-Uz5 .delivered-4jK {
+  margin-top: 0.1rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-18m {
+  box-sizing: border-box;
+  padding: 1.4rem 9.25rem 1.4rem 1.1rem;
+  width: 88.7rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 0.2rem;
+  top: 45.8rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-18m .rectangle-753-6g1 {
+  margin-right: 3.65rem;
+  width: 1.8rem;
+  height: 1.8rem;
+  border: solid 0.1rem #0276ff;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-18m .item-1651565-qNh {
+  margin: 0.1rem 1.8rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-18m .abc-supplier-kkZ {
+  margin: 0.1rem 5.5rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-18m .item-10-63j {
+  margin: 0.1rem 5.8rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-18m .item-100-cnm {
+  margin: 0.1rem 7.2rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-18m .item-250100-Lim {
+  margin: 0.1rem 10.1rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-18m .item-50100-G6d {
+  margin: 0.1rem 10.3rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-18m .delivered-BzH {
+  margin-top: 0.1rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-XoF {
+  box-sizing: border-box;
+  padding: 1.4rem 12.6rem 1.4rem 1.1rem;
+  width: 88.7rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 0.2rem;
+  top: 55rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-XoF .rectangle-753-RNq {
+  margin-right: 3.6rem;
+  width: 1.8rem;
+  height: 1.8rem;
+  border: solid 0.1rem #0276ff;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-XoF .item-1651565-xNm {
+  margin: 0.1rem 1.5rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-XoF .abc-supplier-HA9 {
+  margin: 0.1rem 4.8rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-XoF .item-10-oeH {
+  margin: 0.1rem 5.5rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-XoF .item-100-wVb {
+  margin: 0.1rem 6.7rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-XoF .item-250100-fwP {
+  margin: 0.1rem 9.3rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-XoF .item-50100-PsP {
+  margin: 0.1rem 9.6rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-XoF .delivered-KW9 {
+  margin-top: 0.1rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-Feh {
+  box-sizing: border-box;
+  padding: 1.4rem 12.6rem 1.4rem 1.1rem;
+  width: 88.7rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 0.2rem;
+  top: 59.6rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-Feh .rectangle-753-wnR {
+  margin-right: 3.6rem;
+  width: 1.8rem;
+  height: 1.8rem;
+  border: solid 0.1rem #0276ff;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-Feh .item-1651565-UGZ {
+  margin: 0.1rem 1.5rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-Feh .abc-supplier-11b {
+  margin: 0.1rem 4.8rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-Feh .item-10-vuF {
+  margin: 0.1rem 5.5rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-Feh .item-100-fM3 {
+  margin: 0.1rem 6.7rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-Feh .item-250100-zPK {
+  margin: 0.1rem 9.3rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-Feh .item-50100-KRb {
+  margin: 0.1rem 9.6rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-Feh .delivered-Sm7 {
+  margin-top: 0.1rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-Nuf {
+  box-sizing: border-box;
+  padding: 1.4rem 12.6rem 1.4rem 1.1rem;
+  width: 88.7rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 0.2rem;
+  top: 78rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-Nuf .rectangle-753-Gk9 {
+  margin-right: 3.6rem;
+  width: 1.8rem;
+  height: 1.8rem;
+  border: solid 0.1rem #0276ff;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-Nuf .item-1651565-1Bw {
+  margin: 0.1rem 1.5rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-Nuf .abc-supplier-vph {
+  margin: 0.1rem 4.8rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-Nuf .item-10-TZj {
+  margin: 0.1rem 5.5rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-Nuf .item-100-zZf {
+  margin: 0.1rem 6.7rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-Nuf .item-250100-8A5 {
+  margin: 0.1rem 9.3rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-Nuf .item-50100-3nq {
+  margin: 0.1rem 9.6rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-Nuf .delivered-ygV {
+  margin-top: 0.1rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-WgR {
+  box-sizing: border-box;
+  padding: 1.4rem 12.6rem 1.4rem 1.1rem;
+  width: 88.7rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 0.2rem;
+  top: 68.8rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-WgR .rectangle-753-o9j {
+  margin-right: 3.6rem;
+  width: 1.8rem;
+  height: 1.8rem;
+  border: solid 0.1rem #0276ff;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-WgR .item-1651565-XbX {
+  margin: 0.1rem 1.5rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-WgR .abc-supplier-3pm {
+  margin: 0.1rem 4.8rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-WgR .item-10-a41 {
+  margin: 0.1rem 5.5rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-WgR .item-100-u6H {
+  margin: 0.1rem 6.7rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-WgR .item-250100-pyw {
+  margin: 0.1rem 9.3rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-WgR .item-50100-AH7 {
+  margin: 0.1rem 9.6rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-WgR .delivered-h29 {
+  margin-top: 0.1rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-DFP {
+  box-sizing: border-box;
+  padding: 1.4rem 12.6rem 1.4rem 1.1rem;
+  width: 88.7rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 0.2rem;
+  top: 87.2rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-DFP .rectangle-753-Vyb {
+  margin-right: 3.6rem;
+  width: 1.8rem;
+  height: 1.8rem;
+  border: solid 0.1rem #0276ff;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-DFP .item-1651565-2yX {
+  margin: 0.1rem 1.5rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-DFP .abc-supplier-ked {
+  margin: 0.1rem 4.8rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-DFP .item-10-fmb {
+  margin: 0.1rem 5.5rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-DFP .item-100-14m {
+  margin: 0.1rem 6.7rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-DFP .item-250100-XJ1 {
+  margin: 0.1rem 9.3rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-DFP .item-50100-r5P {
+  margin: 0.1rem 9.6rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-DFP .delivered-a1P {
+  margin-top: 0.1rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-7X7 {
+  box-sizing: border-box;
+  padding: 1.4rem 12.6rem 1.4rem 1.1rem;
+  width: 88.7rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 0;
+  top: 64.2rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-7X7 .rectangle-753-DKF {
+  margin-right: 3.6rem;
+  width: 1.8rem;
+  height: 1.8rem;
+  border: solid 0.1rem #0276ff;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-7X7 .item-1651565-Luf {
+  margin: 0.1rem 1.5rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-7X7 .abc-supplier-seh {
+  margin: 0.1rem 4.8rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-7X7 .item-10-zzD {
+  margin: 0.1rem 5.5rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-7X7 .item-100-jgu {
+  margin: 0.1rem 6.7rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-7X7 .item-250100-U8h {
+  margin: 0.1rem 9.3rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-7X7 .item-50100-Q2M {
+  margin: 0.1rem 9.6rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-7X7 .delivered-7SZ {
+  margin-top: 0.1rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-qNZ {
+  box-sizing: border-box;
+  padding: 1.4rem 12.6rem 1.4rem 1.1rem;
+  width: 88.7rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 0;
+  top: 82.6rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-qNZ .rectangle-753-L4R {
+  margin-right: 3.6rem;
+  width: 1.8rem;
+  height: 1.8rem;
+  border: solid 0.1rem #0276ff;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-qNZ .item-1651565-fMb {
+  margin: 0.1rem 1.5rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-qNZ .abc-supplier-yt5 {
+  margin: 0.1rem 4.8rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-qNZ .item-10-6xh {
+  margin: 0.1rem 5.5rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-qNZ .item-100-37F {
+  margin: 0.1rem 6.7rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-qNZ .item-250100-mZ3 {
+  margin: 0.1rem 9.3rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-qNZ .item-50100-u9T {
+  margin: 0.1rem 9.6rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-qNZ .delivered-d5T {
+  margin-top: 0.1rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-ZUu {
+  box-sizing: border-box;
+  padding: 1.4rem 12.6rem 1.4rem 1.1rem;
+  width: 88.7rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 0;
+  top: 73.4rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-ZUu .rectangle-753-pfj {
+  margin-right: 3.6rem;
+  width: 1.8rem;
+  height: 1.8rem;
+  border: solid 0.1rem #0276ff;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-ZUu .item-1651565-9i1 {
+  margin: 0.1rem 1.5rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-ZUu .abc-supplier-UEV {
+  margin: 0.1rem 4.8rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-ZUu .item-10-nW5 {
+  margin: 0.1rem 5.5rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-ZUu .item-100-KW1 {
+  margin: 0.1rem 6.7rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-ZUu .item-250100-3gu {
+  margin: 0.1rem 9.3rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-ZUu .item-50100-mN1 {
+  margin: 0.1rem 9.6rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-ZUu .delivered-tBj {
+  margin-top: 0.1rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .auto-group-emwx-cNd {
+  width: 88.9rem;
+  height: 9rem;
+  position: absolute;
+  left: 0;
+  top: 91.8rem;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .auto-group-emwx-cNd .purchaselist-9NZ {
+  box-sizing: border-box;
+  padding: 1.4rem 12.6rem 1.4rem 1.1rem;
+  width: 88.7rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .auto-group-emwx-cNd .purchaselist-9NZ .rectangle-753-EQ1 {
+  margin-right: 3.6rem;
+  width: 1.8rem;
+  height: 1.8rem;
+  border: solid 0.1rem #0276ff;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .auto-group-emwx-cNd .purchaselist-9NZ .item-1651565-MjX {
+  margin: 0.1rem 1.5rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .auto-group-emwx-cNd .purchaselist-9NZ .abc-supplier-sxm {
+  margin: 0.1rem 4.8rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .auto-group-emwx-cNd .purchaselist-9NZ .item-10-Ck9 {
+  margin: 0.1rem 5.5rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .auto-group-emwx-cNd .purchaselist-9NZ .item-100-LLZ {
+  margin: 0.1rem 6.7rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .auto-group-emwx-cNd .purchaselist-9NZ .item-250100-fdj {
+  margin: 0.1rem 9.3rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .auto-group-emwx-cNd .purchaselist-9NZ .item-50100-b1b {
+  margin: 0.1rem 9.6rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .auto-group-emwx-cNd .purchaselist-9NZ .delivered-uY5 {
+  margin-top: 0.1rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .auto-group-emwx-cNd .purchaselist-qwX {
+  box-sizing: border-box;
+  padding: 1.4rem 12.6rem 1.4rem 1.1rem;
+  width: 88.7rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 0.2rem;
+  top: 4.4rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .auto-group-emwx-cNd .purchaselist-qwX .rectangle-753-8Qq {
+  margin-right: 3.6rem;
+  width: 1.8rem;
+  height: 1.8rem;
+  border: solid 0.1rem #0276ff;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .auto-group-emwx-cNd .purchaselist-qwX .item-1651565-TCD {
+  margin: 0.1rem 1.5rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .auto-group-emwx-cNd .purchaselist-qwX .abc-supplier-Na5 {
+  margin: 0.1rem 4.8rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .auto-group-emwx-cNd .purchaselist-qwX .item-10-Vub {
+  margin: 0.1rem 5.5rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .auto-group-emwx-cNd .purchaselist-qwX .item-100-RoF {
+  margin: 0.1rem 6.7rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .auto-group-emwx-cNd .purchaselist-qwX .item-250100-ZPf {
+  margin: 0.1rem 9.3rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .auto-group-emwx-cNd .purchaselist-qwX .item-50100-H4m {
+  margin: 0.1rem 9.6rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .auto-group-emwx-cNd .purchaselist-qwX .delivered-oYu {
+  margin-top: 0.1rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-jhT {
+  box-sizing: border-box;
+  padding: 1.4rem 12.6rem 1.4rem 1.1rem;
+  width: 88.7rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 0.2rem;
+  top: 105.4rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-jhT .rectangle-753-piu {
+  margin-right: 3.6rem;
+  width: 1.8rem;
+  height: 1.8rem;
+  border: solid 0.1rem #0276ff;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-jhT .item-1651565-MTw {
+  margin: 0.1rem 1.5rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-jhT .abc-supplier-fjX {
+  margin: 0.1rem 4.8rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-jhT .item-10-CDf {
+  margin: 0.1rem 5.5rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-jhT .item-100-XFw {
+  margin: 0.1rem 6.7rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-jhT .item-250100-4Fs {
+  margin: 0.1rem 9.3rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-jhT .item-50100-ydj {
+  margin: 0.1rem 9.6rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-jhT .delivered-hZj {
+  margin-top: 0.1rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-puF {
+  box-sizing: border-box;
+  padding: 1.4rem 12.6rem 1.4rem 1.1rem;
+  width: 88.7rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 0;
+  top: 100.8rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-puF .rectangle-753-XHs {
+  margin-right: 3.6rem;
+  width: 1.8rem;
+  height: 1.8rem;
+  border: solid 0.1rem #0276ff;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-puF .item-1651565-FzZ {
+  margin: 0.1rem 1.5rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-puF .abc-supplier-nUh {
+  margin: 0.1rem 4.8rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-puF .item-10-v57 {
+  margin: 0.1rem 5.5rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-puF .item-100-rUZ {
+  margin: 0.1rem 6.7rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-puF .item-250100-aQZ {
+  margin: 0.1rem 9.3rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-puF .item-50100-hVB {
+  margin: 0.1rem 9.6rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-puF .delivered-2XT {
+  margin-top: 0.1rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-ANm {
+  box-sizing: border-box;
+  padding: 1.4rem 12.6rem 1.4rem 1.1rem;
+  width: 88.7rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 0;
+  top: 110rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-ANm .rectangle-753-Fv1 {
+  margin-right: 3.6rem;
+  width: 1.8rem;
+  height: 1.8rem;
+  border: solid 0.1rem #0276ff;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-ANm .item-1651565-nuw {
+  margin: 0.1rem 1.5rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-ANm .abc-supplier-vFT {
+  margin: 0.1rem 4.8rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-ANm .item-10-ehF {
+  margin: 0.1rem 5.5rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-ANm .item-100-n2m {
+  margin: 0.1rem 6.7rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-ANm .item-250100-753 {
+  margin: 0.1rem 9.3rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-ANm .item-50100-dZB {
+  margin: 0.1rem 9.6rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .frame-85-Lmf .frame-84-t1o .group-113-SJD .purchaselist-ANm .delivered-ZSq {
+  margin-top: 0.1rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .auto-group-xaob-NuP .auto-group-9bih-CQZ .line-282-gnM {
+  width: 88.6rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 4.7rem;
+  background-color: rgba(0, 0, 0, 0.349999994);
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .products-xzm {
+  margin: 0rem 1.3rem 0rem 0.4rem;
+  box-sizing: border-box;
+  padding: 0.7rem 1.8rem 0.7rem 2rem;
+  width: calc(100% - 1.7rem);
+  display: flex;
+  align-items: center;
+  background-color: #cad0f4;
+  border-radius: 1.5rem;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .products-xzm .products-GkZ {
+  margin-right: 68rem;
+  font-size: 3.1rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1default-U3K .products-xzm .vector-cJd {
+  margin-bottom: 0.4rem;
+  width: 5.2rem;
+  height: 3rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK {
+  margin-right: 0.6rem;
+  box-sizing: border-box;
+  padding-top: 1.1rem;
+  width: 91.8rem;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .products-eWD {
+  margin: 0rem 1.3rem 1.9rem 0.4rem;
+  box-sizing: border-box;
+  padding: 0.7rem 2.2rem 0.7rem 2rem;
+  width: calc(100% - 1.7rem);
+  display: flex;
+  align-items: center;
+  background-color: #cad0f4;
+  border-radius: 1.5rem;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .products-eWD .orders-9xm {
+  margin-right: 70rem;
+  font-size: 3.1rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .products-eWD .vector-67K {
+  margin-top: 0.1162rem;
+  width: 5.9rem;
+  height: 2.5162rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq {
+  box-sizing: border-box;
+  padding: 1.5rem 1.3rem 1rem 0.9rem;
+  width: 90.9rem;
+  border: solid 0.1rem #000000;
+  background-color: #cad0f4;
+  border-radius: 2rem;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-hsid-Gg1 {
+  margin: 0rem 9.5rem 1.4rem 1.4rem;
+  width: calc(100% - 10.9rem);
+  display: flex;
+  align-items: flex-end;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-hsid-Gg1 .products-Pkd {
+  margin-right: 50.4rem;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Hannari, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-hsid-Gg1 .purchase-order-filter-jJh {
+  width: 16.9rem;
+  height: 3.5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-hsid-Gg1 .purchase-order-filter-jJh .rectangle-761-GZX {
+  width: 16.9rem;
+  height: 3.2823rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #c7e4ff;
+  border-radius: 1rem;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-hsid-Gg1 .purchase-order-filter-jJh .last-7-days-nGy {
+  width: 7.9rem;
+  height: 3.5rem;
+  position: absolute;
+  left: 1.7031rem;
+  top: 0;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.7025;
+  color: rgba(0, 0, 0, 0.6999999881);
+  font-family: Harmattan, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-hsid-Gg1 .purchase-order-filter-jJh .polygon-7-VBP {
+  width: 2.4891rem;
+  height: 1.2706rem;
+  position: absolute;
+  left: 13.4938rem;
+  top: 1.0589rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 {
+  width: 100%;
+  height: 59.7rem;
+  position: relative;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .rectangle-752-MzH {
+  width: 88.7rem;
+  height: 58.9rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #ffffff;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX {
+  width: 88.6rem;
+  height: 58.6rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 1.1rem;
+  overflow: hidden;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .purchaselistheader-qeZ {
+  margin: 0rem 0rem 0.3rem 1.25rem;
+  height: 3.3rem;
+  display: flex;
+  align-items: flex-start;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .purchaselistheader-qeZ .frame-114-xjB {
+  margin: 0rem 6.05rem 0.1rem 0rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .purchaselistheader-qeZ .frame-114-xjB .rectangle-753-hgm {
+  margin: 0rem 3.5rem 0.1rem 0rem;
+  width: 1.8rem;
+  height: 1.8rem;
+  border: solid 0.1rem #0276ff;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .purchaselistheader-qeZ .frame-114-xjB .pid-pmP {
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.7386133406;
+  color: #000000;
+  font-family: Harmattan, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .purchaselistheader-qeZ .name-Ub3 {
+  margin: 0.1rem 12.1rem 0rem 0rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.7386133406;
+  color: #000000;
+  font-family: Harmattan, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .purchaselistheader-qeZ .frame-114-odK {
+  margin: 0rem 3.8rem 0.1rem 0rem;
+  box-sizing: border-box;
+  padding-right: 0.3rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .purchaselistheader-qeZ .frame-114-odK .stock-KrZ {
+  margin-right: 0.8rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.7386133406;
+  color: #000000;
+  font-family: Harmattan, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .purchaselistheader-qeZ .frame-114-odK .filter-variant-s7P {
+  margin-bottom: 0.1rem;
+  width: 1.8rem;
+  height: 1.05rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .purchaselistheader-qeZ .frame-115-S41 {
+  margin: 0.1rem 6.2rem 0.2rem 0rem;
+  box-sizing: border-box;
+  padding-right: 0.3rem;
+  height: calc(100% - 0.3rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .purchaselistheader-qeZ .frame-115-S41 .category-xY9 {
+  margin-right: 0.8rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.7386133531;
+  color: #000000;
+  font-family: Harmattan, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .purchaselistheader-qeZ .frame-115-S41 .filter-variant-HqK {
+  width: 1.8rem;
+  height: 1.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .purchaselistheader-qeZ .frame-116-RRj {
+  margin: 0rem 4.6rem 0.1rem 0rem;
+  box-sizing: border-box;
+  padding-right: 0.3rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .purchaselistheader-qeZ .frame-116-RRj .price-kyo {
+  margin-right: 0.8rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.7386133406;
+  color: #000000;
+  font-family: Harmattan, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .purchaselistheader-qeZ .frame-116-RRj .filter-variant-JVX {
+  margin-bottom: 0.1rem;
+  width: 1.8rem;
+  height: 1.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .purchaselistheader-qeZ .frame-117-Ety {
+  margin-bottom: 0.1rem;
+  box-sizing: border-box;
+  padding-right: 0.3rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .purchaselistheader-qeZ .frame-117-Ety .discount-zNM {
+  margin-right: 0.8rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.7386133406;
+  color: #000000;
+  font-family: Harmattan, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .purchaselistheader-qeZ .frame-117-Ety .filter-variant-jaq {
+  margin-bottom: 0.1rem;
+  width: 1.8rem;
+  height: 1.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 {
+  width: 100%;
+  height: 55rem;
+  overflow: hidden;
+  position: relative;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 {
+  width: 100%;
+  height: 114.6rem;
+  position: relative;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-LKj {
+  box-sizing: border-box;
+  padding: 1.2rem 1.6rem 1.2rem 1.1rem;
+  width: 88.7rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 0.2rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  background-color: #d9d9d9;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-LKj .rectangle-753-pEu {
+  margin-right: 1.65rem;
+  width: 1.8rem;
+  height: 1.8rem;
+  border: solid 0.1rem #0276ff;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-LKj .item-1651565-Lyw {
+  margin: 0.1rem 3.1rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-LKj .white-glossy-tshirt-49F {
+  margin: 0.1rem 6.5rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-LKj .item-100-aNV {
+  margin: 0.1rem 8rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-LKj .boyst-shirt-77X {
+  margin: 0.1rem 7.4rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-LKj .item-499-SQh {
+  margin: 0.1rem 9.1rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-LKj .item-20-NJM {
+  margin: 0.1rem 8.5rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-LKj .eye-outline-6EM {
+  margin-right: 0.8rem;
+  width: 2.2rem;
+  height: 1.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-LKj .pencil-box-outline-qBw {
+  margin-right: 1.4rem;
+  width: 2.2rem;
+  height: 2.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-LKj .printer-pos-check-outline-Ztd {
+  margin-top: 0.2rem;
+  width: 1.85rem;
+  height: 1.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-6Nm {
+  box-sizing: border-box;
+  padding: 1.3rem 9.5rem 1.5rem 0.9rem;
+  width: 88.7rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 0.4rem;
+  top: 4.6rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-6Nm .rectangle-753-aHw {
+  margin-right: 3.8rem;
+  width: 1.8rem;
+  height: 1.8rem;
+  border: solid 0.1rem #0276ff;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-6Nm .item-1651565-Vvh {
+  margin: 0.3rem 1.8rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-6Nm .abc-supplier-cVX {
+  margin: 0.3rem 5.4rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-6Nm .item-10-Y8H {
+  margin: 0.3rem 5.9rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-6Nm .item-100-fih {
+  margin: 0.3rem 7.1rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-6Nm .item-250100-QAV {
+  margin: 0.3rem 10rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-6Nm .item-50100-KoF {
+  margin: 0.3rem 10.3rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-6Nm .delivered-e4q {
+  margin-top: 0.3rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-B4m {
+  box-sizing: border-box;
+  padding: 1.4rem 9.45rem 1.4rem 1.1rem;
+  width: 88.7rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 0.4rem;
+  top: 23rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-B4m .rectangle-753-sCV {
+  margin-right: 3.65rem;
+  width: 1.8rem;
+  height: 1.8rem;
+  border: solid 0.1rem #0276ff;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-B4m .item-1651565-asb {
+  margin: 0.1rem 1.8rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-B4m .abc-supplier-hhK {
+  margin: 0.1rem 5.4rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-B4m .item-10-S97 {
+  margin: 0.1rem 5.9rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-B4m .item-100-mBP {
+  margin: 0.1rem 7.1rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-B4m .item-250100-6Df {
+  margin: 0.1rem 10.1rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-B4m .item-50100-DJH {
+  margin: 0.1rem 10.2rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-B4m .delivered-qaZ {
+  margin-top: 0.1rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-mDK {
+  box-sizing: border-box;
+  padding: 1.4rem 9.45rem 1.4rem 0.9rem;
+  width: 88.7rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 0.4rem;
+  top: 13.8rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-mDK .rectangle-753-3wX {
+  margin-right: 3.75rem;
+  width: 1.8rem;
+  height: 1.8rem;
+  border: solid 0.1rem #0276ff;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-mDK .item-1651565-BH3 {
+  margin: 0.1rem 1.9rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-mDK .abc-supplier-JMf {
+  margin: 0.1rem 5.4rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-mDK .item-10-opD {
+  margin: 0.1rem 5.9rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-mDK .item-100-Vh3 {
+  margin: 0.1rem 7.1rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-mDK .item-250100-cmf {
+  margin: 0.1rem 10rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-mDK .item-50100-8zu {
+  margin: 0.1rem 10.3rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-mDK .delivered-FZj {
+  margin-top: 0.1rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-b7o {
+  box-sizing: border-box;
+  padding: 1.4rem 9.45rem 1.4rem 1.1rem;
+  width: 88.7rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 0.4rem;
+  top: 32.2rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-b7o .rectangle-753-sb7 {
+  margin-right: 3.55rem;
+  width: 1.8rem;
+  height: 1.8rem;
+  border: solid 0.1rem #0276ff;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-b7o .item-1651565-oUm {
+  margin: 0.1rem 1.9rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-b7o .abc-supplier-X9s {
+  margin: 0.1rem 5.4rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-b7o .item-10-eVP {
+  margin: 0.1rem 5.9rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-b7o .item-100-NwB {
+  margin: 0.1rem 7.1rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-b7o .item-250100-ugD {
+  margin: 0.1rem 10rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-b7o .item-50100-SAM {
+  margin: 0.1rem 10.3rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-b7o .delivered-N41 {
+  margin-top: 0.1rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-6kh {
+  box-sizing: border-box;
+  padding: 1.4rem 9.25rem 1.4rem 1.1rem;
+  width: 88.7rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 0.2rem;
+  top: 9.2rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-6kh .rectangle-753-afs {
+  margin-right: 3.65rem;
+  width: 1.8rem;
+  height: 1.8rem;
+  border: solid 0.1rem #0276ff;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-6kh .item-1651565-K7f {
+  margin: 0.1rem 1.8rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-6kh .abc-supplier-qLu {
+  margin: 0.1rem 5.5rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-6kh .item-10-a3b {
+  margin: 0.1rem 5.8rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-6kh .item-100-WC9 {
+  margin: 0.1rem 7.2rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-6kh .item-250100-Etq {
+  margin: 0.1rem 10.1rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-6kh .item-50100-xK3 {
+  margin: 0.1rem 10.3rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-6kh .delivered-gVw {
+  margin-top: 0.1rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-cPb {
+  box-sizing: border-box;
+  padding: 1.4rem 9.25rem 1.4rem 1.15rem;
+  width: 88.7rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 0.2rem;
+  top: 27.6rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-cPb .rectangle-753-tc1 {
+  margin-right: 3.8rem;
+  width: 1.8rem;
+  height: 1.8rem;
+  border: solid 0.1rem #0276ff;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-cPb .item-1651565-pEm {
+  margin: 0.1rem 1.9rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-cPb .abc-supplier-wKP {
+  margin: 0.1rem 5.4rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-cPb .item-10-4eu {
+  margin: 0.1rem 5.8rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-cPb .item-100-Px5 {
+  margin: 0.1rem 7.1rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-cPb .item-250100-vSD {
+  margin: 0.1rem 10rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-cPb .item-50100-SvM {
+  margin: 0.1rem 10.3rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-cPb .delivered-B7F {
+  margin-top: 0.1rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-WfK {
+  box-sizing: border-box;
+  padding: 1.4rem 9.25rem 1.4rem 1.1rem;
+  width: 88.7rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 0.2rem;
+  top: 18.4rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-WfK .rectangle-753-QVo {
+  margin-right: 3.65rem;
+  width: 1.8rem;
+  height: 1.8rem;
+  border: solid 0.1rem #0276ff;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-WfK .item-1651565-9CV {
+  margin: 0.1rem 1.8rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-WfK .abc-supplier-fgd {
+  margin: 0.1rem 5.5rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-WfK .item-10-bqB {
+  margin: 0.1rem 5.8rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-WfK .item-100-vcZ {
+  margin: 0.1rem 7.2rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-WfK .item-250100-3SH {
+  margin: 0.1rem 10.1rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-WfK .item-50100-y53 {
+  margin: 0.1rem 10.3rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-WfK .delivered-h13 {
+  margin-top: 0.1rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .auto-group-xgq1-2JD {
+  width: 88.9rem;
+  height: 9rem;
+  position: absolute;
+  left: 0.2rem;
+  top: 36.8rem;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .auto-group-xgq1-2JD .purchaselist-A9X {
+  box-sizing: border-box;
+  padding: 1.4rem 9.25rem 1.4rem 1.1rem;
+  width: 88.7rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .auto-group-xgq1-2JD .purchaselist-A9X .rectangle-753-rHF {
+  margin-right: 3.65rem;
+  width: 1.8rem;
+  height: 1.8rem;
+  border: solid 0.1rem #0276ff;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .auto-group-xgq1-2JD .purchaselist-A9X .item-1651565-ysf {
+  margin: 0.1rem 1.8rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .auto-group-xgq1-2JD .purchaselist-A9X .abc-supplier-J9F {
+  margin: 0.1rem 5.5rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .auto-group-xgq1-2JD .purchaselist-A9X .item-10-2b3 {
+  margin: 0.1rem 5.8rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .auto-group-xgq1-2JD .purchaselist-A9X .item-100-m2q {
+  margin: 0.1rem 7.2rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .auto-group-xgq1-2JD .purchaselist-A9X .item-250100-6L1 {
+  margin: 0.1rem 10.1rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .auto-group-xgq1-2JD .purchaselist-A9X .item-50100-2Df {
+  margin: 0.1rem 10.3rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .auto-group-xgq1-2JD .purchaselist-A9X .delivered-9JH {
+  margin-top: 0.1rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .auto-group-xgq1-2JD .purchaselist-g3K {
+  box-sizing: border-box;
+  padding: 1.4rem 9.45rem 1.4rem 1.1rem;
+  width: 88.7rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 0.2rem;
+  top: 4.4rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .auto-group-xgq1-2JD .purchaselist-g3K .rectangle-753-MQM {
+  margin-right: 3.55rem;
+  width: 1.8rem;
+  height: 1.8rem;
+  border: solid 0.1rem #0276ff;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .auto-group-xgq1-2JD .purchaselist-g3K .item-1651565-HYu {
+  margin: 0.1rem 1.9rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .auto-group-xgq1-2JD .purchaselist-g3K .abc-supplier-oXF {
+  margin: 0.1rem 5.4rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .auto-group-xgq1-2JD .purchaselist-g3K .item-10-jA1 {
+  margin: 0.1rem 5.9rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .auto-group-xgq1-2JD .purchaselist-g3K .item-100-TLu {
+  margin: 0.1rem 7.1rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .auto-group-xgq1-2JD .purchaselist-g3K .item-250100-xYZ {
+  margin: 0.1rem 10rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .auto-group-xgq1-2JD .purchaselist-g3K .item-50100-egH {
+  margin: 0.1rem 10.3rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .auto-group-xgq1-2JD .purchaselist-g3K .delivered-jSq {
+  margin-top: 0.1rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-pz5 {
+  box-sizing: border-box;
+  padding: 1.4rem 12.6rem 1.4rem 1.1rem;
+  width: 88.7rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 0.4rem;
+  top: 50.4rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-pz5 .rectangle-753-uVj {
+  margin-right: 3.6rem;
+  width: 1.8rem;
+  height: 1.8rem;
+  border: solid 0.1rem #0276ff;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-pz5 .item-1651565-2aM {
+  margin: 0.1rem 1.5rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-pz5 .abc-supplier-9ey {
+  margin: 0.1rem 4.8rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-pz5 .item-10-UhF {
+  margin: 0.1rem 5.5rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-pz5 .item-100-bms {
+  margin: 0.1rem 6.7rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-pz5 .item-250100-8Wu {
+  margin: 0.1rem 9.3rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-pz5 .item-50100-TJH {
+  margin: 0.1rem 9.6rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-pz5 .delivered-Nw3 {
+  margin-top: 0.1rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-7dj {
+  box-sizing: border-box;
+  padding: 1.4rem 9.25rem 1.4rem 1.1rem;
+  width: 88.7rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 0.2rem;
+  top: 45.8rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-7dj .rectangle-753-QMw {
+  margin-right: 3.65rem;
+  width: 1.8rem;
+  height: 1.8rem;
+  border: solid 0.1rem #0276ff;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-7dj .item-1651565-jf7 {
+  margin: 0.1rem 1.8rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-7dj .abc-supplier-Tb7 {
+  margin: 0.1rem 5.5rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-7dj .item-10-PDs {
+  margin: 0.1rem 5.8rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-7dj .item-100-WpH {
+  margin: 0.1rem 7.2rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-7dj .item-250100-Shw {
+  margin: 0.1rem 10.1rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-7dj .item-50100-mVK {
+  margin: 0.1rem 10.3rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-7dj .delivered-tpq {
+  margin-top: 0.1rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-2g9 {
+  box-sizing: border-box;
+  padding: 1.4rem 12.6rem 1.4rem 1.1rem;
+  width: 88.7rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 0.2rem;
+  top: 55rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-2g9 .rectangle-753-iJ5 {
+  margin-right: 3.6rem;
+  width: 1.8rem;
+  height: 1.8rem;
+  border: solid 0.1rem #0276ff;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-2g9 .item-1651565-qdb {
+  margin: 0.1rem 1.5rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-2g9 .abc-supplier-m1T {
+  margin: 0.1rem 4.8rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-2g9 .item-10-geD {
+  margin: 0.1rem 5.5rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-2g9 .item-100-D8M {
+  margin: 0.1rem 6.7rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-2g9 .item-250100-Vbf {
+  margin: 0.1rem 9.3rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-2g9 .item-50100-o6Z {
+  margin: 0.1rem 9.6rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-2g9 .delivered-oEy {
+  margin-top: 0.1rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-j8d {
+  box-sizing: border-box;
+  padding: 1.4rem 12.6rem 1.4rem 1.1rem;
+  width: 88.7rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 0.2rem;
+  top: 59.6rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-j8d .rectangle-753-QkZ {
+  margin-right: 3.6rem;
+  width: 1.8rem;
+  height: 1.8rem;
+  border: solid 0.1rem #0276ff;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-j8d .item-1651565-LPK {
+  margin: 0.1rem 1.5rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-j8d .abc-supplier-FmB {
+  margin: 0.1rem 4.8rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-j8d .item-10-Beq {
+  margin: 0.1rem 5.5rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-j8d .item-100-i8y {
+  margin: 0.1rem 6.7rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-j8d .item-250100-qDb {
+  margin: 0.1rem 9.3rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-j8d .item-50100-k5f {
+  margin: 0.1rem 9.6rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-j8d .delivered-fTX {
+  margin-top: 0.1rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-PPX {
+  box-sizing: border-box;
+  padding: 1.4rem 12.6rem 1.4rem 1.1rem;
+  width: 88.7rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 0.2rem;
+  top: 78rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-PPX .rectangle-753-GTK {
+  margin-right: 3.6rem;
+  width: 1.8rem;
+  height: 1.8rem;
+  border: solid 0.1rem #0276ff;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-PPX .item-1651565-bEh {
+  margin: 0.1rem 1.5rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-PPX .abc-supplier-v25 {
+  margin: 0.1rem 4.8rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-PPX .item-10-dx5 {
+  margin: 0.1rem 5.5rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-PPX .item-100-xUZ {
+  margin: 0.1rem 6.7rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-PPX .item-250100-gQZ {
+  margin: 0.1rem 9.3rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-PPX .item-50100-Cdo {
+  margin: 0.1rem 9.6rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-PPX .delivered-XRB {
+  margin-top: 0.1rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-rTT {
+  box-sizing: border-box;
+  padding: 1.4rem 12.6rem 1.4rem 1.1rem;
+  width: 88.7rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 0.2rem;
+  top: 68.8rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-rTT .rectangle-753-jn9 {
+  margin-right: 3.6rem;
+  width: 1.8rem;
+  height: 1.8rem;
+  border: solid 0.1rem #0276ff;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-rTT .item-1651565-1Um {
+  margin: 0.1rem 1.5rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-rTT .abc-supplier-6m7 {
+  margin: 0.1rem 4.8rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-rTT .item-10-oQd {
+  margin: 0.1rem 5.5rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-rTT .item-100-8Su {
+  margin: 0.1rem 6.7rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-rTT .item-250100-rdo {
+  margin: 0.1rem 9.3rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-rTT .item-50100-tKb {
+  margin: 0.1rem 9.6rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-rTT .delivered-1f7 {
+  margin-top: 0.1rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-j5K {
+  box-sizing: border-box;
+  padding: 1.4rem 12.6rem 1.4rem 1.1rem;
+  width: 88.7rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 0.2rem;
+  top: 87.2rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-j5K .rectangle-753-1oX {
+  margin-right: 3.6rem;
+  width: 1.8rem;
+  height: 1.8rem;
+  border: solid 0.1rem #0276ff;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-j5K .item-1651565-M6h {
+  margin: 0.1rem 1.5rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-j5K .abc-supplier-qXf {
+  margin: 0.1rem 4.8rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-j5K .item-10-LzD {
+  margin: 0.1rem 5.5rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-j5K .item-100-3td {
+  margin: 0.1rem 6.7rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-j5K .item-250100-atZ {
+  margin: 0.1rem 9.3rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-j5K .item-50100-f9K {
+  margin: 0.1rem 9.6rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-j5K .delivered-BdT {
+  margin-top: 0.1rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-W9w {
+  box-sizing: border-box;
+  padding: 1.4rem 12.6rem 1.4rem 1.1rem;
+  width: 88.7rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 0;
+  top: 64.2rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-W9w .rectangle-753-cCy {
+  margin-right: 3.6rem;
+  width: 1.8rem;
+  height: 1.8rem;
+  border: solid 0.1rem #0276ff;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-W9w .item-1651565-MAZ {
+  margin: 0.1rem 1.5rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-W9w .abc-supplier-gTj {
+  margin: 0.1rem 4.8rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-W9w .item-10-Psw {
+  margin: 0.1rem 5.5rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-W9w .item-100-WxZ {
+  margin: 0.1rem 6.7rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-W9w .item-250100-f4m {
+  margin: 0.1rem 9.3rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-W9w .item-50100-xZf {
+  margin: 0.1rem 9.6rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-W9w .delivered-Hbw {
+  margin-top: 0.1rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-DEh {
+  box-sizing: border-box;
+  padding: 1.4rem 12.6rem 1.4rem 1.1rem;
+  width: 88.7rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 0;
+  top: 82.6rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-DEh .rectangle-753-iSM {
+  margin-right: 3.6rem;
+  width: 1.8rem;
+  height: 1.8rem;
+  border: solid 0.1rem #0276ff;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-DEh .item-1651565-rYZ {
+  margin: 0.1rem 1.5rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-DEh .abc-supplier-Zhs {
+  margin: 0.1rem 4.8rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-DEh .item-10-JQZ {
+  margin: 0.1rem 5.5rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-DEh .item-100-DGd {
+  margin: 0.1rem 6.7rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-DEh .item-250100-wiR {
+  margin: 0.1rem 9.3rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-DEh .item-50100-gAD {
+  margin: 0.1rem 9.6rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-DEh .delivered-C8Z {
+  margin-top: 0.1rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-8nu {
+  box-sizing: border-box;
+  padding: 1.4rem 12.6rem 1.4rem 1.1rem;
+  width: 88.7rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 0;
+  top: 73.4rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-8nu .rectangle-753-PTw {
+  margin-right: 3.6rem;
+  width: 1.8rem;
+  height: 1.8rem;
+  border: solid 0.1rem #0276ff;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-8nu .item-1651565-jGu {
+  margin: 0.1rem 1.5rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-8nu .abc-supplier-s8D {
+  margin: 0.1rem 4.8rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-8nu .item-10-QP3 {
+  margin: 0.1rem 5.5rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-8nu .item-100-YVF {
+  margin: 0.1rem 6.7rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-8nu .item-250100-gbT {
+  margin: 0.1rem 9.3rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-8nu .item-50100-oAH {
+  margin: 0.1rem 9.6rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-8nu .delivered-Jcq {
+  margin-top: 0.1rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .auto-group-5phj-eRo {
+  width: 88.9rem;
+  height: 9rem;
+  position: absolute;
+  left: 0;
+  top: 91.8rem;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .auto-group-5phj-eRo .purchaselist-BAq {
+  box-sizing: border-box;
+  padding: 1.4rem 12.6rem 1.4rem 1.1rem;
+  width: 88.7rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .auto-group-5phj-eRo .purchaselist-BAq .rectangle-753-Q3b {
+  margin-right: 3.6rem;
+  width: 1.8rem;
+  height: 1.8rem;
+  border: solid 0.1rem #0276ff;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .auto-group-5phj-eRo .purchaselist-BAq .item-1651565-KgM {
+  margin: 0.1rem 1.5rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .auto-group-5phj-eRo .purchaselist-BAq .abc-supplier-SFB {
+  margin: 0.1rem 4.8rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .auto-group-5phj-eRo .purchaselist-BAq .item-10-yW1 {
+  margin: 0.1rem 5.5rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .auto-group-5phj-eRo .purchaselist-BAq .item-100-6Kj {
+  margin: 0.1rem 6.7rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .auto-group-5phj-eRo .purchaselist-BAq .item-250100-Rso {
+  margin: 0.1rem 9.3rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .auto-group-5phj-eRo .purchaselist-BAq .item-50100-ZUD {
+  margin: 0.1rem 9.6rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .auto-group-5phj-eRo .purchaselist-BAq .delivered-hKX {
+  margin-top: 0.1rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .auto-group-5phj-eRo .purchaselist-1r1 {
+  box-sizing: border-box;
+  padding: 1.4rem 12.6rem 1.4rem 1.1rem;
+  width: 88.7rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 0.2rem;
+  top: 4.4rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .auto-group-5phj-eRo .purchaselist-1r1 .rectangle-753-KLu {
+  margin-right: 3.6rem;
+  width: 1.8rem;
+  height: 1.8rem;
+  border: solid 0.1rem #0276ff;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .auto-group-5phj-eRo .purchaselist-1r1 .item-1651565-rbj {
+  margin: 0.1rem 1.5rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .auto-group-5phj-eRo .purchaselist-1r1 .abc-supplier-mCu {
+  margin: 0.1rem 4.8rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .auto-group-5phj-eRo .purchaselist-1r1 .item-10-u4D {
+  margin: 0.1rem 5.5rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .auto-group-5phj-eRo .purchaselist-1r1 .item-100-Ycy {
+  margin: 0.1rem 6.7rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .auto-group-5phj-eRo .purchaselist-1r1 .item-250100-5so {
+  margin: 0.1rem 9.3rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .auto-group-5phj-eRo .purchaselist-1r1 .item-50100-csj {
+  margin: 0.1rem 9.6rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .auto-group-5phj-eRo .purchaselist-1r1 .delivered-MaR {
+  margin-top: 0.1rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-Vgd {
+  box-sizing: border-box;
+  padding: 1.4rem 12.6rem 1.4rem 1.1rem;
+  width: 88.7rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 0.2rem;
+  top: 105.4rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-Vgd .rectangle-753-LSM {
+  margin-right: 3.6rem;
+  width: 1.8rem;
+  height: 1.8rem;
+  border: solid 0.1rem #0276ff;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-Vgd .item-1651565-shB {
+  margin: 0.1rem 1.5rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-Vgd .abc-supplier-zWu {
+  margin: 0.1rem 4.8rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-Vgd .item-10-jDb {
+  margin: 0.1rem 5.5rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-Vgd .item-100-Fhj {
+  margin: 0.1rem 6.7rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-Vgd .item-250100-PZ3 {
+  margin: 0.1rem 9.3rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-Vgd .item-50100-Jg1 {
+  margin: 0.1rem 9.6rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-Vgd .delivered-26D {
+  margin-top: 0.1rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-mJh {
+  box-sizing: border-box;
+  padding: 1.4rem 12.6rem 1.4rem 1.1rem;
+  width: 88.7rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 0;
+  top: 100.8rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-mJh .rectangle-753-pnm {
+  margin-right: 3.6rem;
+  width: 1.8rem;
+  height: 1.8rem;
+  border: solid 0.1rem #0276ff;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-mJh .item-1651565-kRX {
+  margin: 0.1rem 1.5rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-mJh .abc-supplier-5ih {
+  margin: 0.1rem 4.8rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-mJh .item-10-Dpu {
+  margin: 0.1rem 5.5rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-mJh .item-100-Mw7 {
+  margin: 0.1rem 6.7rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-mJh .item-250100-V1j {
+  margin: 0.1rem 9.3rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-mJh .item-50100-DTX {
+  margin: 0.1rem 9.6rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-mJh .delivered-xAD {
+  margin-top: 0.1rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-HyB {
+  box-sizing: border-box;
+  padding: 1.4rem 12.6rem 1.4rem 1.1rem;
+  width: 88.7rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 0;
+  top: 110rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-HyB .rectangle-753-pbj {
+  margin-right: 3.6rem;
+  width: 1.8rem;
+  height: 1.8rem;
+  border: solid 0.1rem #0276ff;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-HyB .item-1651565-ZJR {
+  margin: 0.1rem 1.5rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-HyB .abc-supplier-tbb {
+  margin: 0.1rem 4.8rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-HyB .item-10-P2Z {
+  margin: 0.1rem 5.5rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-HyB .item-100-iad {
+  margin: 0.1rem 6.7rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-HyB .item-250100-FqT {
+  margin: 0.1rem 9.3rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-HyB .item-50100-xjs {
+  margin: 0.1rem 9.6rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 .purchaselist-HyB .delivered-UCR {
+  margin-top: 0.1rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.myonlinestoreorderpurchase-nRP .property-1variant2-vKK .group-116-nkq .auto-group-c7jy-R53 .line-282-PqB {
+  width: 88.6rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 4.7rem;
+  background-color: rgba(0, 0, 0, 0.349999994);
+}

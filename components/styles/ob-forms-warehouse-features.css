@@ -1,0 +1,220 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 30rem;
+}.ob-forms-warehouse-features-jcD {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border-radius: 0.5rem;
+}
+.ob-forms-warehouse-features-jcD .property-1default-gGZ {
+  width: 100%;
+  height: 8.4rem;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.ob-forms-warehouse-features-jcD .property-1default-gGZ .warehouse-features-EYy {
+  width: 13.8rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 0;
+  top: 0.1rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 2;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.ob-forms-warehouse-features-jcD .property-1default-gGZ .frame-jkd {
+  box-sizing: border-box;
+  padding: 1rem 1.5rem;
+  width: 30rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 0;
+  top: 2.8rem;
+  overflow: hidden;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 2;
+  color: #d2d2d2;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #e2e1e5;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+}
+.ob-forms-warehouse-features-jcD .property-1error-oVb {
+  width: 100%;
+  height: 8.4rem;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.ob-forms-warehouse-features-jcD .property-1error-oVb .warehouse-features-kvd {
+  width: 13.8rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 0;
+  top: 0.1rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 2;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.ob-forms-warehouse-features-jcD .property-1error-oVb .frame-U5w {
+  box-sizing: border-box;
+  padding: 1rem 1.5rem;
+  width: 30rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 0;
+  top: 2.8rem;
+  overflow: hidden;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 2;
+  color: #d2d2d2;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #f14668;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+}
+.ob-forms-warehouse-features-jcD .property-1focus-YLh {
+  width: 100%;
+  height: 8.4rem;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.ob-forms-warehouse-features-jcD .property-1focus-YLh .warehouse-features-5bX {
+  width: 13.8rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 0;
+  top: 0.1rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 2;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.ob-forms-warehouse-features-jcD .property-1focus-YLh .frame-Q81 {
+  box-sizing: border-box;
+  padding: 1rem 1.5rem;
+  width: 30rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 0;
+  top: 2.8rem;
+  overflow: hidden;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 2;
+  color: #d2d2d2;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #222222;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+}
+.ob-forms-warehouse-features-jcD .property-1disabled-fZj {
+  width: 100%;
+  height: 8.4rem;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.ob-forms-warehouse-features-jcD .property-1disabled-fZj .warehouse-features-QXK {
+  width: 13.8rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 0;
+  top: 0.1rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 2;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.ob-forms-warehouse-features-jcD .property-1disabled-fZj .frame-W4Z {
+  box-sizing: border-box;
+  padding: 1rem 1.5rem;
+  width: 30rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 0;
+  top: 2.8rem;
+  overflow: hidden;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 2;
+  color: #d2d2d2;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #e2e1e5;
+  background-color: #d8d8d8;
+  border-radius: 0.5rem;
+}
+.ob-forms-warehouse-features-jcD .property-1hover-yTw {
+  width: 100%;
+  height: 8.4rem;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.ob-forms-warehouse-features-jcD .property-1hover-yTw .warehouse-features-XVT {
+  width: 13.8rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 0;
+  top: 0.1rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 2;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.ob-forms-warehouse-features-jcD .property-1hover-yTw .frame-3To {
+  box-sizing: border-box;
+  padding: 1rem 1.5rem;
+  width: 30rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 0;
+  top: 2.8rem;
+  overflow: hidden;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 2;
+  color: #d2d2d2;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #222222;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+}

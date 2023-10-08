@@ -1,0 +1,272 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 97.4rem;
+}.newwarehouse-pBb {
+  width: 100%;
+  height: 90.7rem;
+}
+.newwarehouse-pBb .transfer-goods-mm3 {
+  box-sizing: border-box;
+  padding: 2.5rem 2.9rem 1.8rem 2.9rem;
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25), 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25), 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25), 0 0.6rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 2rem;
+}
+.newwarehouse-pBb .transfer-goods-mm3 .create-warehouse-heh {
+  margin: 0rem 44.4rem 1.8rem 0rem;
+  font-size: 5.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.newwarehouse-pBb .transfer-goods-mm3 .transfer-goods-QZ7 {
+  margin: 0rem 3.8rem 2.6rem 0rem;
+  box-sizing: border-box;
+  padding: 2.8rem 4.2rem 4.3rem 3rem;
+  width: 87.8rem;
+  border: solid 0.1rem #000000;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #cad0f4;
+  flex-shrink: 0;
+}
+.newwarehouse-pBb .transfer-goods-mm3 .transfer-goods-QZ7 .auto-group-c62m-5fF {
+  margin: 0rem 14.8rem 0.6rem 0rem;
+  width: calc(100% - 14.8rem);
+  display: flex;
+  align-items: center;
+}
+.newwarehouse-pBb .transfer-goods-mm3 .transfer-goods-QZ7 .auto-group-c62m-5fF .warehouse-name-RUD {
+  margin: 0.4rem 15.3rem 0rem 0rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.newwarehouse-pBb .transfer-goods-mm3 .transfer-goods-QZ7 .auto-group-c62m-5fF .operator-name-Z4d {
+  margin-bottom: 0.4rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.newwarehouse-pBb .transfer-goods-mm3 .transfer-goods-QZ7 .auto-group-ydnh-JH7 {
+  margin-bottom: 3.2rem;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+}
+.newwarehouse-pBb .transfer-goods-mm3 .transfer-goods-QZ7 .auto-group-ydnh-JH7 .rectangle-519-rJd {
+  margin: 0.4rem 4.4rem 0rem 0rem;
+  width: 38.1rem;
+  height: 7.3rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25), 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.newwarehouse-pBb .transfer-goods-mm3 .transfer-goods-QZ7 .auto-group-ydnh-JH7 .rectangle-519-Wty {
+  width: 38.1rem;
+  height: 7.1rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25), 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.newwarehouse-pBb .transfer-goods-mm3 .transfer-goods-QZ7 .auto-group-mwch-cx1 {
+  margin: 0rem 24.7rem 0.5rem 0rem;
+  width: calc(100% - 24.7rem);
+  display: flex;
+  align-items: center;
+}
+.newwarehouse-pBb .transfer-goods-mm3 .transfer-goods-QZ7 .auto-group-mwch-cx1 .warehouse-location-wUV {
+  margin: 0.5rem 11.2rem 0rem 0rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.newwarehouse-pBb .transfer-goods-mm3 .transfer-goods-QZ7 .auto-group-mwch-cx1 .capacity-r5f {
+  margin-bottom: 0.5rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.newwarehouse-pBb .transfer-goods-mm3 .transfer-goods-QZ7 .auto-group-lech-AMF {
+  margin-bottom: 4.3rem;
+  width: 100%;
+  display: flex;
+  align-items: flex-end;
+}
+.newwarehouse-pBb .transfer-goods-mm3 .transfer-goods-QZ7 .auto-group-lech-AMF .rectangle-519-XBo {
+  margin-right: 4.4rem;
+  width: 38.1rem;
+  height: 7.3rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25), 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.newwarehouse-pBb .transfer-goods-mm3 .transfer-goods-QZ7 .auto-group-lech-AMF .rectangle-519-dEq {
+  width: 38.1rem;
+  height: 7.8rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25), 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.newwarehouse-pBb .transfer-goods-mm3 .transfer-goods-QZ7 .auto-group-hm2r-LQ9 {
+  margin: 0rem 22.2rem 1rem 0rem;
+  width: calc(100% - 22.2rem);
+  display: flex;
+  align-items: center;
+}
+.newwarehouse-pBb .transfer-goods-mm3 .transfer-goods-QZ7 .auto-group-hm2r-LQ9 .contact-info-HKP {
+  margin-right: 24.1rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.newwarehouse-pBb .transfer-goods-mm3 .transfer-goods-QZ7 .auto-group-hm2r-LQ9 .no-of-bins-bay {
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.newwarehouse-pBb .transfer-goods-mm3 .transfer-goods-QZ7 .auto-group-phrs-i9o {
+  margin-bottom: 3.6rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.newwarehouse-pBb .transfer-goods-mm3 .transfer-goods-QZ7 .auto-group-phrs-i9o .rectangle-519-4zM {
+  margin: 0rem 4.4rem 0.1rem 0rem;
+  width: 38.1rem;
+  height: 7.3rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25), 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.newwarehouse-pBb .transfer-goods-mm3 .transfer-goods-QZ7 .auto-group-phrs-i9o .rectangle-519-m85 {
+  margin-top: 0.1rem;
+  width: 38.1rem;
+  height: 7.3rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25), 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.newwarehouse-pBb .transfer-goods-mm3 .transfer-goods-QZ7 .auto-group-sd4d-F3F {
+  margin: 0rem 16.3rem 0.8rem 0rem;
+  width: calc(100% - 16.3rem);
+  display: flex;
+  align-items: center;
+}
+.newwarehouse-pBb .transfer-goods-mm3 .transfer-goods-QZ7 .auto-group-sd4d-F3F .maintainance-cost-nYy {
+  margin: 0rem 14.3rem 0.2rem 0rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.newwarehouse-pBb .transfer-goods-mm3 .transfer-goods-QZ7 .auto-group-sd4d-F3F .functionalities-hR3 {
+  margin-top: 0.2rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.newwarehouse-pBb .transfer-goods-mm3 .transfer-goods-QZ7 .auto-group-4mrj-DeH {
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.newwarehouse-pBb .transfer-goods-mm3 .transfer-goods-QZ7 .auto-group-4mrj-DeH .rectangle-519-y7f {
+  margin: 0rem 4.4rem 0.2rem 0rem;
+  width: 38.1rem;
+  height: 7.3rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25), 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.newwarehouse-pBb .transfer-goods-mm3 .transfer-goods-QZ7 .auto-group-4mrj-DeH .rectangle-519-G6m {
+  margin-top: 0.2rem;
+  width: 38.1rem;
+  height: 7.3rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25), 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.newwarehouse-pBb .transfer-goods-mm3 .creationwarehouse-Jp9 {
+  margin-left: 49.4rem;
+  width: 34.6rem;
+  height: 7.2rem;
+  font-size: 3.8rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #c7e4ff;
+  flex-shrink: 0;
+}

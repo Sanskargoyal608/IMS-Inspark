@@ -1,0 +1,103 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 12.5rem;
+}.frame-141-g97 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border-radius: 1rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+
+  .today-R6h {
+    padding: 0.4rem 1.2rem;
+    line-height: 1.2575;
+    width: 100%;
+    height: 3rem;
+    color: #000000;
+    font-family: Hannari, 'Source Sans Pro';
+    white-space: nowrap;
+    flex-shrink: 0;
+    border: solid 0.1rem #000000;
+    border-radius: 1rem;
+    box-sizing: border-box;
+    font-size: 1.2rem;
+    font-weight: 400;
+    background-color: #d9d9d9;
+  }
+  .yesterday-Gt1 {
+    font-family: Hannari, 'Source Sans Pro';
+    flex-shrink: 0;
+    height: 3rem;
+    color: #000000;
+    line-height: 1.2575;
+    white-space: nowrap;
+    padding: 0.4rem 1.2rem;
+    width: 100%;
+    border: solid 0.1rem #000000;
+    background-color: #d9d9d9;
+    border-radius: 1rem;
+    font-size: 1.2rem;
+    font-weight: 400;
+    box-sizing: border-box;
+  }
+  .last7days-9B7 {
+    background-color: #c7e4ff;
+    border-radius: 1rem;
+    padding: 0.6rem 1.2rem 0.8rem 1.2rem;
+    font-size: 1.2rem;
+    font-weight: 400;
+    color: #000000;
+    font-family: Hannari, 'Source Sans Pro';
+    border: solid 0.1rem #000000;
+    box-sizing: border-box;
+    width: 100%;
+    line-height: 1.2575;
+    white-space: nowrap;
+    flex-shrink: 0;
+  }
+  .lastmonth-d6H {
+    border: solid 0.1rem #000000;
+    border-radius: 1rem;
+    flex-shrink: 0;
+    box-sizing: border-box;
+    font-size: 1.2rem;
+    font-weight: 400;
+    font-family: Hannari, 'Source Sans Pro';
+    white-space: nowrap;
+    padding: 0.6rem 1.2rem 0.8rem 1.2rem;
+    width: 100%;
+    line-height: 1.2575;
+    color: #000000;
+    background-color: #d9d9d9;
+  }
+  .custom-i7j {
+    background-color: #d9d9d9;
+    width: 100%;
+    line-height: 1.2575;
+    color: #000000;
+    white-space: nowrap;
+    font-family: Hannari, 'Source Sans Pro';
+    border: solid 0.1rem #000000;
+    border-radius: 1rem;
+    flex-shrink: 0;
+    box-sizing: border-box;
+    padding: 0.6rem 1.2rem 0.8rem 1.2rem;
+    font-size: 1.2rem;
+    font-weight: 400;
+  }
+}

@@ -1,0 +1,108 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 22.3rem;
+}.table-1-wwo {
+  width: 100%;
+  height: 13.2rem;
+  border-radius: 3rem;
+}
+.table-1-wwo .table-utd {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem #ffffff;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 2rem;
+}
+.table-1-wwo .table-utd .row-4Wd {
+  width: 100%;
+  height: 4.4rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.table-1-wwo .table-utd .row-4Wd .cell-pVo {
+  width: 10.3rem;
+  height: 100%;
+  border: solid 0.1rem #ffffff;
+  box-sizing: border-box;
+  background-color: rgba(255, 255, 255, 0.0500000007);
+  flex-shrink: 0;
+}
+.table-1-wwo .table-utd .row-4Wd .cell-xM7 {
+  width: 12rem;
+  height: 100%;
+  border: solid 0.1rem #ffffff;
+  box-sizing: border-box;
+  background-color: rgba(255, 255, 255, 0.0500000007);
+  flex-shrink: 0;
+}
+.table-1-wwo .table-utd .row-6CR {
+  width: 100%;
+  height: 4.4rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.table-1-wwo .table-utd .row-6CR .cell-Sn5 {
+  width: 10.3rem;
+  height: 100%;
+  border: solid 0.1rem #ffffff;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.table-1-wwo .table-utd .row-6CR .cell-PhK {
+  width: 12rem;
+  height: 100%;
+  border: solid 0.1rem #ffffff;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.table-1-wwo .table-utd .row-8Q1 {
+  width: 100%;
+  height: 4.4rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.table-1-wwo .table-utd .row-8Q1 .cell-5q3 {
+  width: 10.3rem;
+  height: 100%;
+  border: solid 0.1rem #ffffff;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.table-1-wwo .table-utd .row-8Q1 .cell-qZK {
+  width: 12rem;
+  height: 100%;
+  border: solid 0.1rem #ffffff;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}

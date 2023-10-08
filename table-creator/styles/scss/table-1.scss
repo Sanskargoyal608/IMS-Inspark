@@ -1,0 +1,113 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 22.3rem;
+}.table-1-wwo {
+  width: 100%;
+  height: 13.2rem;
+  border-radius: 3rem;
+
+  .table-utd {
+    border-radius: 2rem;
+    height: 100%;
+    overflow: hidden;
+    align-items: center;
+    box-sizing: border-box;
+    background-color: #ffffff;
+    width: 100%;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    border: solid 0.1rem #ffffff;
+
+    .row-4Wd {
+      height: 4.4rem;
+      overflow: hidden;
+      position: relative;
+      display: flex;
+      align-items: center;
+      background-color: #000000;
+      flex-shrink: 0;
+      width: 100%;
+
+      .cell-pVo {
+        width: 10.3rem;
+        height: 100%;
+        border: solid 0.1rem #ffffff;
+        box-sizing: border-box;
+        background-color: rgba(255, 255, 255, 0.0500000007);
+        flex-shrink: 0;
+      }
+      .cell-xM7 {
+        flex-shrink: 0;
+        width: 12rem;
+        height: 100%;
+        border: solid 0.1rem #ffffff;
+        box-sizing: border-box;
+        background-color: rgba(255, 255, 255, 0.0500000007);
+      }
+    }
+    .row-6CR {
+      position: relative;
+      display: flex;
+      align-items: center;
+      background-color: #000000;
+      flex-shrink: 0;
+      width: 100%;
+      height: 4.4rem;
+      overflow: hidden;
+
+      .cell-Sn5 {
+        width: 10.3rem;
+        height: 100%;
+        border: solid 0.1rem #ffffff;
+        box-sizing: border-box;
+        flex-shrink: 0;
+      }
+      .cell-PhK {
+        border: solid 0.1rem #ffffff;
+        box-sizing: border-box;
+        flex-shrink: 0;
+        width: 12rem;
+        height: 100%;
+      }
+    }
+    .row-8Q1 {
+      background-color: #000000;
+      flex-shrink: 0;
+      width: 100%;
+      height: 4.4rem;
+      overflow: hidden;
+      position: relative;
+      display: flex;
+      align-items: center;
+
+      .cell-5q3 {
+        height: 100%;
+        border: solid 0.1rem #ffffff;
+        box-sizing: border-box;
+        flex-shrink: 0;
+        width: 10.3rem;
+      }
+      .cell-qZK {
+        border: solid 0.1rem #ffffff;
+        box-sizing: border-box;
+        flex-shrink: 0;
+        width: 12rem;
+        height: 100%;
+      }
+    }
+  }
+}

@@ -1,0 +1,175 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.otp-page-YVw {
+  width: 100%;
+  height: 102.1rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #edf0f2;
+}
+.otp-page-YVw .auto-group-bjbw-5eH {
+  width: 141rem;
+  height: 86.9rem;
+  position: absolute;
+  left: 1.3rem;
+  top: 17.3rem;
+}
+.otp-page-YVw .auto-group-bjbw-5eH .component-2-KaZ {
+  width: 141rem;
+  height: 86.9rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.otp-page-YVw .auto-group-bjbw-5eH .otp-verification-NHw {
+  width: 39.6rem;
+  height: 7.2rem;
+  position: absolute;
+  left: 54.65rem;
+  top: 0.7rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.otp-page-YVw .auto-group-bjbw-5eH .enter-the-one-time-password-sent-to-your-email-for-registering-hjX {
+  width: 99.1rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 8.4rem;
+  top: 11.75rem;
+  display: flex;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.otp-page-YVw .otp-hN9 {
+  opacity: 0.8;
+  width: 40.1502rem;
+  height: 9.8rem;
+  position: absolute;
+  left: 51.9rem;
+  top: 38rem;
+}
+.otp-page-YVw .otp-hN9 .otp-zMF {
+  width: 35.8rem;
+  height: 9.4rem;
+  position: absolute;
+  left: 2.2rem;
+  top: 0;
+  background-color: #ffffff;
+  border-radius: 4rem;
+}
+.otp-page-YVw .otp-hN9 .otp-ewb {
+  width: 8.1rem;
+  height: 6rem;
+  position: absolute;
+  left: 16.0251rem;
+  top: 1.6796rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #cdbcbc;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.otp-page-YVw .resend-otp-s3f {
+  width: 31.1rem;
+  height: 10rem;
+  position: absolute;
+  left: 79.9rem;
+  top: 57rem;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #d9d9d9;
+  border-radius: 4rem;
+}
+.otp-page-YVw .validate-36Z {
+  width: 31.1rem;
+  height: 10rem;
+  position: absolute;
+  left: 35.7rem;
+  top: 57rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #d9d9d9;
+  border-radius: 4rem;
+}
+.otp-page-YVw .header-d4m {
+  box-sizing: border-box;
+  padding: 1.1rem 37.05rem 1.1rem 1.9rem;
+  width: 144rem;
+  height: 12.9rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  background-color: rgba(130, 151, 183, 0.3300000131);
+}
+.otp-page-YVw .header-d4m .inspark-logo-1-TJh {
+  margin: 0rem 30.95rem 1.6rem 0rem;
+  width: 10.5rem;
+  height: 9.1rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 4.9rem;
+  flex-shrink: 0;
+}
+.otp-page-YVw .header-d4m .inventory-management-system-VWH {
+  margin-top: 0.1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}

@@ -1,0 +1,220 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 30rem;
+}.ob-forms-phone-number-jcd {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border-radius: 0.5rem;
+}
+.ob-forms-phone-number-jcd .property-1default-UaD {
+  width: 100%;
+  height: 8.4rem;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.ob-forms-phone-number-jcd .property-1default-UaD .phone-number-cwK {
+  width: 9.9rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 0;
+  top: 0.1rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 2;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.ob-forms-phone-number-jcd .property-1default-UaD .frame-8em {
+  box-sizing: border-box;
+  padding: 1rem 1.5rem;
+  width: 30rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 0;
+  top: 2.8rem;
+  overflow: hidden;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 2;
+  color: #d2d2d2;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #e2e1e5;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+}
+.ob-forms-phone-number-jcd .property-1error-Bsw {
+  width: 100%;
+  height: 8.4rem;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.ob-forms-phone-number-jcd .property-1error-Bsw .phone-number-juT {
+  width: 9.9rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 0;
+  top: 0.1rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 2;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.ob-forms-phone-number-jcd .property-1error-Bsw .frame-TqT {
+  box-sizing: border-box;
+  padding: 1rem 1.5rem;
+  width: 30rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 0;
+  top: 2.8rem;
+  overflow: hidden;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 2;
+  color: #d2d2d2;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #f14668;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+}
+.ob-forms-phone-number-jcd .property-1focus-ddT {
+  width: 100%;
+  height: 8.4rem;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.ob-forms-phone-number-jcd .property-1focus-ddT .phone-number-P6q {
+  width: 9.9rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 0;
+  top: 0.1rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 2;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.ob-forms-phone-number-jcd .property-1focus-ddT .frame-72q {
+  box-sizing: border-box;
+  padding: 1rem 1.5rem;
+  width: 30rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 0;
+  top: 2.8rem;
+  overflow: hidden;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 2;
+  color: #d2d2d2;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #222222;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+}
+.ob-forms-phone-number-jcd .property-1disabled-mdB {
+  width: 100%;
+  height: 8.4rem;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.ob-forms-phone-number-jcd .property-1disabled-mdB .phone-number-KPo {
+  width: 9.9rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 0;
+  top: 0.1rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 2;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.ob-forms-phone-number-jcd .property-1disabled-mdB .frame-qsw {
+  box-sizing: border-box;
+  padding: 1rem 1.5rem;
+  width: 30rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 0;
+  top: 2.8rem;
+  overflow: hidden;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 2;
+  color: #d2d2d2;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #e2e1e5;
+  background-color: #d8d8d8;
+  border-radius: 0.5rem;
+}
+.ob-forms-phone-number-jcd .property-1hover-WDP {
+  width: 100%;
+  height: 8.4rem;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.ob-forms-phone-number-jcd .property-1hover-WDP .phone-number-4Vo {
+  width: 9.9rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 0;
+  top: 0.1rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 2;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.ob-forms-phone-number-jcd .property-1hover-WDP .frame-NWV {
+  box-sizing: border-box;
+  padding: 1rem 1.5rem;
+  width: 30rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 0;
+  top: 2.8rem;
+  overflow: hidden;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 2;
+  color: #d2d2d2;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #222222;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+}

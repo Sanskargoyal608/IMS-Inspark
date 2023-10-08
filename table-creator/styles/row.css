@@ -1,0 +1,39 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 26.1rem;
+}.row-TdK {
+  box-sizing: border-box;
+  padding-right: 3.8rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+.row-TdK .cell-ohB {
+  width: 10.3rem;
+  height: 4.4rem;
+  border: solid 0.1rem #5b5b5b;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.row-TdK .cell-9FF {
+  width: 12rem;
+  height: 4.4rem;
+  border: solid 0.1rem #5b5b5b;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}

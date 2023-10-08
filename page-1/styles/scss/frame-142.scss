@@ -1,0 +1,103 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 16.5rem;
+}.frame-142-xzV {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border-radius: 1rem;
+
+  .today-ftu {
+    white-space: nowrap;
+    border-radius: 1rem;
+    box-sizing: border-box;
+    height: 3rem;
+    font-family: Hannari, 'Source Sans Pro';
+    width: 100%;
+    font-size: 1.2rem;
+    flex-shrink: 0;
+    border: solid 0.1rem #000000;
+    background-color: #d9d9d9;
+    padding: 0.4rem 1.5844rem;
+    line-height: 1.2575;
+    color: #000000;
+    font-weight: 400;
+  }
+  .yesterday-V7F {
+    border: solid 0.1rem #000000;
+    border-radius: 1rem;
+    flex-shrink: 0;
+    padding: 0.4rem 1.5844rem;
+    font-family: Hannari, 'Source Sans Pro';
+    font-weight: 400;
+    color: #000000;
+    white-space: nowrap;
+    background-color: #d9d9d9;
+    font-size: 1.2rem;
+    width: 100%;
+    height: 3rem;
+    line-height: 1.2575;
+    box-sizing: border-box;
+  }
+  .last7days-9xV {
+    font-weight: 400;
+    line-height: 1.2575;
+    color: #000000;
+    white-space: nowrap;
+    background-color: #c7e4ff;
+    flex-shrink: 0;
+    box-sizing: border-box;
+    width: 100%;
+    font-size: 1.2rem;
+    font-family: Hannari, 'Source Sans Pro';
+    border: solid 0.1rem #000000;
+    border-radius: 1rem;
+    padding: 0.6rem 1.584rem 0.8rem 1.584rem;
+  }
+  .lastmonth-d6y {
+    font-weight: 400;
+    color: #000000;
+    white-space: nowrap;
+    border-radius: 1rem;
+    box-sizing: border-box;
+    padding: 0.6rem 1.584rem 0.8rem 1.584rem;
+    width: 100%;
+    font-size: 1.2rem;
+    flex-shrink: 0;
+    line-height: 1.2575;
+    font-family: Hannari, 'Source Sans Pro';
+    border: solid 0.1rem #000000;
+    background-color: #d9d9d9;
+  }
+  .custom-hMj {
+    background-color: #d9d9d9;
+    box-sizing: border-box;
+    padding: 0.6rem 1.584rem 0.8rem 1.584rem;
+    width: 100%;
+    color: #000000;
+    font-family: Hannari, 'Source Sans Pro';
+    border-radius: 1rem;
+    flex-shrink: 0;
+    font-size: 1.2rem;
+    font-weight: 400;
+    line-height: 1.2575;
+    white-space: nowrap;
+    border: solid 0.1rem #000000;
+  }
+}

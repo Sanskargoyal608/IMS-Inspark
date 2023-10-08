@@ -1,0 +1,3329 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 100%;
+}.dashboard-iA5 {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.dashboard-iA5 .frame-117-rXB {
+  box-sizing: border-box;
+  padding: 0.3rem 10.8rem 0rem 0rem;
+  width: 100%;
+  height: 10.2rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .frame-117-rXB .rectangle-728-MD3 {
+  margin-right: 2.6rem;
+  width: 7.9rem;
+  height: 7.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .frame-117-rXB .searchbar-fzR {
+  margin: 1rem 45.7rem 1rem 2rem;
+  box-sizing: border-box;
+  padding: 1.1rem 8rem 1rem 1.6rem;
+  height: calc(100% - 5.5rem);
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #000000;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .frame-117-rXB .searchbar-fzR .vector-a5o {
+  margin: 0.2rem 3.4rem 0rem 0rem;
+  width: 3.4rem;
+  height: 2.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .frame-117-rXB .searchbar-fzR .search-RcD {
+  max-width: 100%;
+  max-height: 100%;
+  font-size: 2.7rem;
+  font-weight: 400;
+  line-height: 0.75;
+  color: rgba(0, 0, 0, 0.5299999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.dashboard-iA5 .frame-117-rXB .group-34-fWZ {
+  margin: 2rem 0rem 2.2rem 0rem;
+  height: calc(100% - 4.2rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .frame-117-rXB .group-34-fWZ .auto-group-ubfw-HH3 {
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .frame-117-rXB .group-34-fWZ .auto-group-ubfw-HH3 .hello-inspark-R8M {
+  margin-bottom: 0.1rem;
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Hannari, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.dashboard-iA5 .frame-117-rXB .group-34-fWZ .auto-group-mgsv-UMX {
+  box-sizing: border-box;
+  padding-left: 4.2rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .frame-117-rXB .group-34-fWZ .auto-group-mgsv-UMX .auto-group-8xe1-cid {
+  margin: 0rem 2.6rem 0.3rem 0rem;
+  box-sizing: border-box;
+  padding: 1.3rem 1.1rem 1.5rem 1.1rem;
+  border: solid 0.1rem #000000;
+  box-shadow: 0 0.4rem 0.4rem #98a0da;
+  background-color: #ffffff;
+  border-radius: 2.7rem;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .frame-117-rXB .group-34-fWZ .auto-group-mgsv-UMX .auto-group-8xe1-cid .vector-jYM {
+  width: 3.2rem;
+  height: 2.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.dashboard-iA5 .frame-117-rXB .group-34-fWZ .auto-group-mgsv-UMX .notification-21f {
+  margin-bottom: 0.3rem;
+  box-sizing: border-box;
+  padding: 1.559rem 1.2rem 1.025rem 1.2rem;
+  cursor: pointer;
+  border: solid 0.1rem #000000;
+  box-shadow: 0 0.4rem 0.4rem #98a0da;
+  background-color: #ffffff;
+  border-radius: 2.7rem;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .frame-117-rXB .group-34-fWZ .auto-group-mgsv-UMX .notification-21f .vector-M3w {
+  width: 3rem;
+  height: 2.816rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.dashboard-iA5 .auto-group-99i9-piD {
+  margin-right: 1.8rem;
+  width: calc(100% - 1.8rem);
+  height: 97rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .slidingmenu-sLm {
+  margin: 2rem 1.3rem 2rem 0rem;
+  width: 11.7rem;
+  height: calc(100% - 5rem);
+  cursor: pointer;
+  position: relative;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .slidingmenu-sLm .group-114-Unm {
+  box-sizing: border-box;
+  padding: 2.258rem 0.6rem 3.044rem 0.6rem;
+  width: 11.7rem;
+  height: 77.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #cad0f4;
+  border-radius: 1.5rem;
+}
+.dashboard-iA5 .auto-group-99i9-piD .slidingmenu-sLm .group-114-Unm .rectangle-765-Puj {
+  width: 9.5rem;
+  height: 74.0976rem;
+  background-color: #ffffff;
+  border-radius: 1.5rem;
+}
+.slidingmenu-sLm .property-1variant2-tWm {
+  width: 33.6rem;
+  height: 94.1rem;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+
+.dashboard-iA5 .auto-group-99i9-piD .slidingmenu-sLm .frame-127-hQd {
+  box-sizing: border-box;
+  padding: 0.317rem 0.383rem 2.75rem 0.384rem;
+  width: 4.6rem;
+  height: 68.3rem;
+  position: absolute;
+  left: 2.5rem;
+  top: 5.2rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.dashboard-iA5 .auto-group-99i9-piD .slidingmenu-sLm .frame-127-hQd .monitor-dashboard-P2Z {
+  margin-bottom: 2.9667rem;
+  width: 3.7586rem;
+  height: 3.1667rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .slidingmenu-sLm .frame-127-hQd .cart-plus-WN5 {
+  margin: 0rem 0.295rem 3.238rem 0rem;
+  width: 3.0984rem;
+  height: 3.15rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .slidingmenu-sLm .frame-127-hQd .chart-line-2bK {
+  margin: 0rem 0.001rem 3.254rem 0rem;
+  width: 3.25rem;
+  height: 2.625rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .slidingmenu-sLm .frame-127-hQd .package-variant-plus-YZf {
+  margin: 0rem 0rem 3.158rem 0.07rem;
+  width: 3.3211rem;
+  height: 3.325rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .slidingmenu-sLm .frame-127-hQd .account-tie-TwX {
+  margin: 0rem 0.001rem 3.275rem 0rem;
+  width: 2.6rem;
+  height: 3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .slidingmenu-sLm .frame-127-hQd .human-dolly-C8R {
+  margin: 0rem 0.008rem 3.646rem 0rem;
+  width: 2.8352rem;
+  height: 2.75rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .slidingmenu-sLm .frame-127-hQd .account-group-VdK {
+  margin: 0rem 0.001rem 3.683rem 0rem;
+  width: 3.5rem;
+  height: 2.2958rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .slidingmenu-sLm .frame-127-hQd .warehouse-cC9 {
+  margin: 0rem 0.002rem 3.783rem 0rem;
+  width: 3.4164rem;
+  height: 3.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .slidingmenu-sLm .frame-127-hQd .store-check-X4D {
+  margin: 0rem 0rem 3.217rem 0.255rem;
+  width: 3.3313rem;
+  height: 3.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .slidingmenu-sLm .frame-127-hQd .source-branch-plus-Sws {
+  margin: 0rem 0rem 3.6rem 0.341rem;
+  width: 3.075rem;
+  height: 3.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .slidingmenu-sLm .frame-127-hQd .bank-transfer-xvD {
+  width: 3.8336rem;
+  height: 3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.slidingmenu-sLm .property-1variant2-tWm {
+  width:100%;
+  position: absolute;
+  height: 94.1rem;
+  cursor: pointer;
+  flex-shrink: 0;
+  opacity: 0;
+  visibility: hidden;
+}
+
+.slidingmenu-sLm .active{
+  opacity: 1;
+  width:20rem;
+  position:absolute;
+  width: 33.6rem;
+  text-wrap: 4;
+  z-index: 2;
+  visibility: visible;
+}
+.slidingmenu-sLm .property-1variant2-tWm .group-114-S2V {
+  width: 100%;
+  height: 84.7rem;
+  position: relative;
+  background-color: #cad0f4;
+  border-radius: 1.5rem;
+}
+.slidingmenu-sLm .property-1variant2-tWm .group-114-S2V .rectangle-765-yo7 {
+  width: 29.9523rem;
+  height: 78.7rem;
+  position: absolute;
+  left: 1.6133rem;
+  top: 2.3rem;
+  background-color: #ffffff;
+  border-radius: 1.5rem;
+}
+.slidingmenu-sLm .property-1variant2-tWm .group-114-S2V .frame-127-tv5 {
+  width: 30.3rem;
+  height: 50.4rem;
+  position: absolute;
+  left: 3.3rem;
+  top: 5.2rem;
+}
+.slidingmenu-sLm .property-1variant2-tWm .group-114-S2V .frame-127-tv5 .auto-group-qxcu-d6y {
+  box-sizing: border-box;
+  padding-bottom: 2.5rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.slidingmenu-sLm .property-1variant2-tWm .group-114-S2V .frame-127-tv5 .auto-group-qxcu-d6y .dashboard-kSV {
+  margin: 0rem 9rem 1.75rem 0rem;
+  box-sizing: border-box;
+  padding: 0.317rem 0.7rem 0rem 0.171rem;
+  width: calc(100% - 9rem);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.slidingmenu-sLm .property-1variant2-tWm .group-114-S2V .frame-127-tv5 .auto-group-qxcu-d6y .dashboard-kSV .monitor-dashboard-qTw {
+  margin: 0rem 1.57rem 1.067rem 0rem;
+  width: 3.7586rem;
+  height: 3.1667rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.slidingmenu-sLm .property-1variant2-tWm .group-114-S2V .frame-127-tv5 .auto-group-qxcu-d6y .dashboard-kSV .dashboard-9jX {
+  margin-top: 0.0333rem;
+  font-size: 3.3rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family:  'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.slidingmenu-sLm .property-1variant2-tWm .group-114-S2V .frame-127-tv5 .auto-group-qxcu-d6y .purchase-fC5 {
+  margin: 0rem 10.6rem 1.9rem 0rem;
+  box-sizing: border-box;
+  padding: 0rem 1.8rem 0rem 0.154rem;
+  width: calc(100% - 10.6rem);
+  cursor: pointer;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  text-decoration: none;
+}
+.slidingmenu-sLm .property-1variant2-tWm .group-114-S2V .frame-127-tv5 .auto-group-qxcu-d6y .purchase-fC5 .cart-plus-ZoF {
+  margin: 0.15rem 1.848rem 0rem 0rem;
+  width: 3.0984rem;
+  height: 3.15rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.slidingmenu-sLm .property-1variant2-tWm .group-114-S2V .frame-127-tv5 .auto-group-qxcu-d6y .purchase-fC5 .purchase-HjF {
+  font-size: 3.3rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.slidingmenu-sLm .property-1variant2-tWm .group-114-S2V .frame-127-tv5 .auto-group-qxcu-d6y .sell-pUH {
+  margin: 0rem 9.8rem 2.5rem 0rem;
+  box-sizing: border-box;
+  padding: 0rem 10.1rem 0rem 0.325rem;
+  width: calc(100% - 9.8rem);
+  height: 4.3rem;
+  cursor: pointer;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.slidingmenu-sLm .property-1variant2-tWm .group-114-S2V .frame-127-tv5 .auto-group-qxcu-d6y .sell-pUH .chart-line-Kfw {
+  margin: 0.438rem 1.725rem 0rem 0rem;
+  width: 3.25rem;
+  height: 2.625rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.slidingmenu-sLm .property-1variant2-tWm .group-114-S2V .frame-127-tv5 .auto-group-qxcu-d6y .sell-pUH .sell-3rq {
+  font-size: 3.3rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family:  'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.slidingmenu-sLm .property-1variant2-tWm .group-114-S2V .frame-127-tv5 .auto-group-qxcu-d6y .itemsmenu-n3j {
+  margin: 0rem 5.1rem 2.5rem 0rem;
+  box-sizing: border-box;
+  padding: 0rem 12.4rem 0rem 0.225rem;
+  width: calc(100% - 5.1rem);
+  height: 4.8rem;
+  cursor: pointer;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.slidingmenu-sLm .property-1variant2-tWm .group-114-S2V .frame-127-tv5 .auto-group-qxcu-d6y .itemsmenu-n3j .package-variant-plus-5Hj {
+  margin: 0.317rem 1.554rem 0rem 0rem;
+  width: 3.3211rem;
+  height: 3.325rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.slidingmenu-sLm .property-1variant2-tWm .group-114-S2V .frame-127-tv5 .auto-group-qxcu-d6y .itemsmenu-n3j .items-zvV {
+  font-size: 3.3rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.slidingmenu-sLm .property-1variant2-tWm .group-114-S2V .frame-127-tv5 .auto-group-qxcu-d6y .employeemenu-XfX {
+  margin: 0rem 4.6rem 2.5rem 0rem;
+  box-sizing: border-box;
+  padding: 0rem 6.6rem 0rem 0.65rem;
+  width: calc(100% - 4.6rem);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.slidingmenu-sLm .property-1variant2-tWm .group-114-S2V .frame-127-tv5 .auto-group-qxcu-d6y .employeemenu-XfX .account-tie-3Ny {
+  margin: 0rem 2.05rem 0.2rem 0rem;
+  width: 2.6rem;
+  height: 3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.slidingmenu-sLm .property-1variant2-tWm .group-114-S2V .frame-127-tv5 .auto-group-qxcu-d6y .employeemenu-XfX .employee-AyP {
+  font-size: 3.3rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family:  'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.slidingmenu-sLm .property-1variant2-tWm .group-114-S2V .frame-127-tv5 .auto-group-qxcu-d6y .frame-128-WnM {
+  margin: 0rem 13.3rem 1.9rem 0rem;
+  box-sizing: border-box;
+  padding-left: 0.1625rem;
+  width: calc(100% - 13.3rem);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.slidingmenu-sLm .property-1variant2-tWm .group-114-S2V .frame-127-tv5 .auto-group-qxcu-d6y .frame-128-WnM .human-dolly-Sg1 {
+  margin: 0rem 1.57rem 0.6rem 0rem;
+  width: 3.5672rem;
+  height: 3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.slidingmenu-sLm .property-1variant2-tWm .group-114-S2V .frame-127-tv5 .auto-group-qxcu-d6y .frame-128-WnM .supplier-aGR {
+  font-size: 3.3rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family:  'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.slidingmenu-sLm .property-1variant2-tWm .group-114-S2V .frame-127-tv5 .auto-group-qxcu-d6y .frame-129-7GM {
+  margin: 0rem 3.1rem 2.2rem 0rem;
+  box-sizing: border-box;
+  padding-right: 8.9rem;
+  width: calc(100% - 3.1rem);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.slidingmenu-sLm .property-1variant2-tWm .group-114-S2V .frame-127-tv5 .auto-group-qxcu-d6y .frame-129-7GM .account-group-dEh {
+  margin: 0rem 1.4rem 0.162rem 0rem;
+  width: 3.5rem;
+  height: 2.2958rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.slidingmenu-sLm .property-1variant2-tWm .group-114-S2V .frame-127-tv5 .auto-group-qxcu-d6y .frame-129-7GM .customer-xGy {
+  font-size: 3.3rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family:  'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.slidingmenu-sLm .property-1variant2-tWm .group-114-S2V .frame-127-tv5 .auto-group-qxcu-d6y .frame-130-W3b {
+  margin: 0rem 4.4rem 2.5rem 0rem;
+  box-sizing: border-box;
+  padding: 0rem 4.6rem 0rem 0.341rem;
+  width: calc(100% - 4.4rem);
+  height: 4.4rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.slidingmenu-sLm .property-1variant2-tWm .group-114-S2V .frame-127-tv5 .auto-group-qxcu-d6y .frame-130-W3b .warehouse-p4H {
+  margin-right: 1.7422rem;
+  width: 3.4164rem;
+  height: 3.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.slidingmenu-sLm .property-1variant2-tWm .group-114-S2V .frame-127-tv5 .auto-group-qxcu-d6y .frame-130-W3b .warehouse-kTj {
+  margin-bottom: 0.2rem;
+  font-size: 3.3rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.slidingmenu-sLm .property-1variant2-tWm .group-114-S2V .frame-127-tv5 .auto-group-qxcu-d6y .frame-131-g6V {
+  margin-right: 2.7rem;
+  box-sizing: border-box;
+  padding: 0rem 1.1rem 0rem 0.513rem;
+  width: calc(100% - 2.7rem);
+  height: 4.4rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.slidingmenu-sLm .property-1variant2-tWm .group-114-S2V .frame-127-tv5 .auto-group-qxcu-d6y .frame-131-g6V .store-check-zss {
+  margin: 0.367rem 1.656rem 0rem 0rem;
+  width: 3.3313rem;
+  height: 3.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.slidingmenu-sLm .property-1variant2-tWm .group-114-S2V .frame-127-tv5 .auto-group-qxcu-d6y .frame-131-g6V .my-onlinestore-LB3 {
+  margin-bottom: 0.2rem;
+  font-size: 3.3rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family:  'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.slidingmenu-sLm .property-1variant2-tWm .group-114-S2V .frame-127-tv5 .frame-132-FYu {
+  margin-bottom: 2.5rem;
+  box-sizing: border-box;
+  padding: 0rem 14.6rem 0rem 0.684rem;
+  width: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+}
+.slidingmenu-sLm .property-1variant2-tWm .group-114-S2V .frame-127-tv5 .frame-132-FYu .source-branch-plus-zWV {
+  margin-right: 1.7414rem;
+  width: 3.075rem;
+  height: 3.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.slidingmenu-sLm .property-1variant2-tWm .group-114-S2V .frame-127-tv5 .frame-132-FYu .plugins-XWR {
+  font-size: 3.3rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.slidingmenu-sLm .property-1variant2-tWm .group-114-S2V .frame-127-tv5 .frame-133-GD7 {
+  margin-right: 6.4rem;
+  box-sizing: border-box;
+  padding: 0rem 3.4rem 0rem 0.341rem;
+  width: calc(100% - 6.4rem);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+}
+.slidingmenu-sLm .property-1variant2-tWm .group-114-S2V .frame-127-tv5 .frame-133-GD7 .bank-transfer-PoX {
+  margin: 0rem 1.742rem 0.1rem 0rem;
+  width: 3.4164rem;
+  height: 2.7333rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.slidingmenu-sLm .property-1variant2-tWm .group-114-S2V .frame-127-tv5 .frame-133-GD7 .cash-bank-vHf {
+  font-size: 3.3rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family:  'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+/* ending slide menu */
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu {
+  box-sizing: border-box;
+  padding: 2.1rem 1.6rem 2.8rem 0.8rem;
+  width: 99rem;
+  height: 100%;
+overflow-y: scroll;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #fbfbfb;
+  flex-shrink: 0;
+  margin-right: 3rem;
+  margin-left: 2rem;
+}
+.frame-73-hcu::-webkit-scrollbar{
+  visibility: hidden;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .dashboardoverview-29P {
+  margin: 0rem 1rem 3rem 0.8rem;
+  box-sizing: border-box;
+  padding: 2.1rem 2.8rem 2.1rem 2.1rem;
+  width: calc(100% - 1.8rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem #000000;
+  background-color: #cad0f4;
+  border-radius: 2rem;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .dashboardoverview-29P .auto-group-yutu-7wX {
+  margin: 0rem 3.4rem 1.9rem 0.9rem;
+  width: calc(100% - 4.3rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .dashboardoverview-29P .auto-group-yutu-7wX .overview-Syo {
+  margin-right: 33.5rem;
+  font-size: 3.4rem;
+  font-weight: 700;
+  line-height: 1.7025;
+  letter-spacing: 0.527rem;
+  color: #000000;
+  font-family: Harmattan, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .dashboardoverview-29P .auto-group-yutu-7wX .your-key-stats-for-the-last-7-days-N6m {
+  margin-bottom: 0.1rem;
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.6636132327;
+  letter-spacing: 0.066rem;
+  color: rgba(0, 0, 0, 0.6200000048);
+  font-family: Harmattan, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .dashboardoverview-29P .auto-group-yutu-7wX .your-key-stats-for-the-last-7-days-N6m .your-key-stats-for-the-last-7-days-N6m-sub-0 {
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.6636132327;
+  letter-spacing: 0.066rem;
+  color: rgba(0, 0, 0, 0.6200000048);
+  font-family: Carrois Gothic, 'Source Sans Pro';
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .dashboardoverview-29P .auto-group-yutu-7wX .your-key-stats-for-the-last-7-days-N6m .your-key-stats-for-the-last-7-days-N6m-sub-1 {
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.6636132327;
+  letter-spacing: 0.066rem;
+  color: #0f41f3;
+  font-family: Carrois Gothic, 'Source Sans Pro';
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .dashboardoverview-29P .auto-group-rfhs-iCZ {
+  width: 100%;
+  height: 16.4rem;
+  display: flex;
+  column-gap: 4.3rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .dashboardoverview-29P .auto-group-rfhs-iCZ .totalsales-3Eq {
+  box-sizing: border-box;
+  padding: 0.3rem 1.2rem 1.7rem 1.6rem;
+  width: 26rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem #000000;
+  background-color: #ffffff;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .dashboardoverview-29P .auto-group-rfhs-iCZ .totalsales-3Eq .auto-group-vuu9-y8V {
+  margin-bottom: 2.5rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .dashboardoverview-29P .auto-group-rfhs-iCZ .totalsales-3Eq .auto-group-vuu9-y8V .total-sales-6yo {
+  margin: 0.2rem 6.9rem 0rem 0rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.7025;
+  color: rgba(0, 0, 0, 0.7300000191);
+  font-family: Harmattan, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .dashboardoverview-29P .auto-group-rfhs-iCZ .totalsales-3Eq .auto-group-vuu9-y8V .item-69-26m {
+  margin-right: 0.3rem;
+  font-size: 3.7rem;
+  font-weight: 400;
+  line-height: 1.7025;
+  color: #000000;
+  font-family: Harmattan, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .dashboardoverview-29P .auto-group-rfhs-iCZ .totalsales-3Eq .auto-group-vuu9-y8V .items-xFK {
+  margin-top: 1rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.7337295589;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Harmattan, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .dashboardoverview-29P .auto-group-rfhs-iCZ .totalsales-3Eq .auto-group-qzxh-gSD {
+  margin: 0rem 1.1rem 0rem 1rem;
+  width: calc(100% - 2.1rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .dashboardoverview-29P .auto-group-rfhs-iCZ .totalsales-3Eq .auto-group-qzxh-gSD .item-25-1jP {
+  margin-right: 1.4rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.7025;
+  color: #1d9f2a;
+  font-family: Harmattan, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .dashboardoverview-29P .auto-group-rfhs-iCZ .totalsales-3Eq .auto-group-qzxh-gSD .rectangle-724-YUR {
+  margin-bottom: 0.8rem;
+  width: 15.1rem;
+  height: 4.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .dashboardoverview-29P .auto-group-rfhs-iCZ .totalpurchase-dkm {
+  box-sizing: border-box;
+  padding: 0.3rem 0.8rem 1.3rem 0.8rem;
+  width: 26rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem #000000;
+  background-color: #ffffff;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .dashboardoverview-29P .auto-group-rfhs-iCZ .totalpurchase-dkm .auto-group-mmf7-kqP {
+  margin-bottom: 3rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .dashboardoverview-29P .auto-group-rfhs-iCZ .totalpurchase-dkm .auto-group-mmf7-kqP .total-purchase-7A9 {
+  margin: 0.7rem 3.6rem 0rem 0rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.7025;
+  color: rgba(0, 0, 0, 0.7300000191);
+  font-family: Harmattan, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .dashboardoverview-29P .auto-group-rfhs-iCZ .totalpurchase-dkm .auto-group-mmf7-kqP .item-500-q69 {
+  margin-right: 0.2rem;
+  font-size: 3.4rem;
+  font-weight: 400;
+  line-height: 1.7025;
+  color: #000000;
+  font-family: Harmattan, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .dashboardoverview-29P .auto-group-rfhs-iCZ .totalpurchase-dkm .auto-group-mmf7-kqP .items-ZH3 {
+  margin-top: 0.9rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.7337295589;
+  color: rgba(0, 0, 0, 0.6000000238);
+  font-family: Harmattan, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .dashboardoverview-29P .auto-group-rfhs-iCZ .totalpurchase-dkm .auto-group-dgyh-GBT {
+  margin: 0rem 1.5rem 0rem 1.3rem;
+  width: calc(100% - 2.8rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .dashboardoverview-29P .auto-group-rfhs-iCZ .totalpurchase-dkm .auto-group-dgyh-GBT .item-25-xpy {
+  margin-right: 4.3rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.7025;
+  color: #d11515;
+  font-family: Harmattan, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .dashboardoverview-29P .auto-group-rfhs-iCZ .totalpurchase-dkm .auto-group-dgyh-GBT .rectangle-726-35j {
+  margin-bottom: 1.2rem;
+  width: 13rem;
+  height: 4.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .dashboardoverview-29P .auto-group-rfhs-iCZ .totalprofit-WV7 {
+  width: 26.3rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .dashboardoverview-29P .auto-group-rfhs-iCZ .totalprofit-WV7 .rectangle-722-co3 {
+  width: 26rem;
+  height: 16.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #fffdfd;
+  border-radius: 2.5rem;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .dashboardoverview-29P .auto-group-rfhs-iCZ .totalprofit-WV7 .item-12475--ir5 {
+  width: 12rem;
+  height: 3.5rem;
+  position: absolute;
+  left: 14.3rem;
+  top: 1.4rem;
+  font-size: 2.5rem;
+  font-weight: 600;
+  line-height: 1.3625;
+  color: rgba(47, 125, 10, 0.9200000167);
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .dashboardoverview-29P .auto-group-rfhs-iCZ .totalprofit-WV7 .rectangle-725-CWM {
+  width: 13.7rem;
+  height: 4.2rem;
+  position: absolute;
+  left: 9.2rem;
+  top: 9.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .dashboardoverview-29P .auto-group-rfhs-iCZ .totalprofit-WV7 .total-profit-XoX {
+  width: 10rem;
+  height: 4.3rem;
+  position: absolute;
+  left: 0.7rem;
+  top: 1.4rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1.7025;
+  color: rgba(0, 0, 0, 0.7300000191);
+  font-family: Harmattan, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .dashboardoverview-29P .auto-group-rfhs-iCZ .totalprofit-WV7 .item-112-drZ {
+  width: 5.6rem;
+  height: 4.1rem;
+  position: absolute;
+  left: 1.7rem;
+  top: 11rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.7025;
+  color: #1d9f2a;
+  font-family: Harmattan, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .auto-group-w7mt-6k9 {
+  margin: 0rem 0rem 4.7rem 1rem;
+  width: calc(100% - 1rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .auto-group-w7mt-6k9 .salepurchaseoverview-dEH {
+  margin: 0rem 1.2rem 0.2rem 0rem;
+  box-sizing: border-box;
+  padding: 0.3rem 2.675rem 1.85rem 1.9rem;
+  width: 45.7rem;
+  border: solid 0.1rem #000000;
+  background-color: #c9cff4;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .auto-group-w7mt-6k9 .salepurchaseoverview-dEH .sale-purchase-8Rw {
+  margin: 0rem 0rem 2.7rem 0.1rem;
+  font-size: 2.6rem;
+  font-weight: 700;
+  line-height: 1.737477158;
+  letter-spacing: 0.247rem;
+  color: #000000;
+  font-family: Harmattan, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .auto-group-w7mt-6k9 .salepurchaseoverview-dEH .auto-group-fxrb-3J1 {
+  width: 41.125rem;
+  height: 16.2502rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .auto-group-w7mt-6k9 .lowstocks-A7j {
+  margin-top: 0.2rem;
+  width: 45.7rem;
+  height: 25.7rem;
+  position: relative;
+  border: solid 0.1rem #020202;
+  box-sizing: border-box;
+  background-color: #cad0f4;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .auto-group-w7mt-6k9 .lowstocks-A7j .low-stocks-h7f {
+  width: 12.9rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 2.8rem;
+  top: 0.3rem;
+  font-size: 2.6rem;
+  font-weight: 700;
+  line-height: 1.737477158;
+  letter-spacing: 0.247rem;
+  color: #000000;
+  font-family: Harmattan, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .auto-group-w7mt-6k9 .lowstocks-A7j .low-stock-table-oAh {
+  box-sizing: border-box;
+  padding: 0.3rem 0rem 4.4rem 0rem;
+  width: 40.7rem;
+  height: 19.4rem;
+  position: absolute;
+  left: 2.4rem;
+  top: 4.8rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem #f61919;
+  background-color: #fefefe;
+  border-radius: 1rem;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .auto-group-w7mt-6k9 .lowstocks-A7j .low-stock-table-oAh .auto-group-sqqb-69o {
+  margin: 0rem 2.9rem 0.7rem 2.2rem;
+  width: calc(100% - 5.1rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .auto-group-w7mt-6k9 .lowstocks-A7j .low-stock-table-oAh .auto-group-sqqb-69o .product-DVK {
+  margin: 0.1rem 14.6rem 0rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: rgba(0, 0, 0, 0.6299999952);
+  font-family: Hannari, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .auto-group-w7mt-6k9 .lowstocks-A7j .low-stock-table-oAh .auto-group-sqqb-69o .curr-qt-wAR {
+  margin-right: 4.7rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: rgba(0, 0, 0, 0.6299999952);
+  font-family: Hannari, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .auto-group-w7mt-6k9 .lowstocks-A7j .low-stock-table-oAh .auto-group-sqqb-69o .req-qt-TeZ {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: rgba(0, 0, 0, 0.6299999952);
+  font-family: Hannari, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .auto-group-w7mt-6k9 .lowstocks-A7j .low-stock-table-oAh .auto-group-6ksm-nwj {
+  width: 100%;
+  height: 11.8rem;
+  position: relative;
+  border-top: solid 0.1rem rgba(0, 0, 0, 0.349999994);
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .auto-group-w7mt-6k9 .lowstocks-A7j .low-stock-table-oAh .auto-group-6ksm-nwj .lowstockitems-LCZ {
+  box-sizing: border-box;
+  padding: 0rem 3.7rem 0rem 2.9rem;
+  width: 40.5rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 0;
+  display: flex;
+  align-items: flex-start;
+  background-color: #e8e8e8;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .auto-group-w7mt-6k9 .lowstocks-A7j .low-stock-table-oAh .auto-group-6ksm-nwj .lowstockitems-LCZ .abc-Dn9 {
+  margin-right: 3rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Hannari, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .auto-group-w7mt-6k9 .lowstocks-A7j .low-stock-table-oAh .auto-group-6ksm-nwj .lowstockitems-LCZ .circle-slice-5-kn5 {
+  margin: 0.4rem 14.6rem 0.4rem 0rem;
+  width: 1.7rem;
+  height: calc(100% - 0.8rem);
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .auto-group-w7mt-6k9 .lowstocks-A7j .low-stock-table-oAh .auto-group-6ksm-nwj .lowstockitems-LCZ .item-50-GVX {
+  margin-right: 8.1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Hannari, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .auto-group-w7mt-6k9 .lowstocks-A7j .low-stock-table-oAh .auto-group-6ksm-nwj .lowstockitems-LCZ .item-100-Pa9 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Hannari, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .auto-group-w7mt-6k9 .lowstocks-A7j .low-stock-table-oAh .auto-group-6ksm-nwj .lowstockitems-81w {
+  box-sizing: border-box;
+  padding: 0rem 3.7rem 0rem 2.9rem;
+  width: 40.5rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 2.3rem;
+  display: flex;
+  align-items: flex-start;
+  background-color: #ffffff;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .auto-group-w7mt-6k9 .lowstocks-A7j .low-stock-table-oAh .auto-group-6ksm-nwj .lowstockitems-81w .abc-DZB {
+  margin-right: 3rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Hannari, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .auto-group-w7mt-6k9 .lowstocks-A7j .low-stock-table-oAh .auto-group-6ksm-nwj .lowstockitems-81w .circle-slice-5-ZN9 {
+  margin: 0.4rem 14.6rem 0.4rem 0rem;
+  width: 1.7rem;
+  height: calc(100% - 0.8rem);
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .auto-group-w7mt-6k9 .lowstocks-A7j .low-stock-table-oAh .auto-group-6ksm-nwj .lowstockitems-81w .item-50-VFo {
+  margin-right: 8.1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Hannari, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .auto-group-w7mt-6k9 .lowstocks-A7j .low-stock-table-oAh .auto-group-6ksm-nwj .lowstockitems-81w .item-100-DxV {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Hannari, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .auto-group-w7mt-6k9 .lowstocks-A7j .low-stock-table-oAh .auto-group-6ksm-nwj .lowstockitems-9bF {
+  box-sizing: border-box;
+  padding: 0rem 3.7rem 0rem 2.9rem;
+  width: 40.5rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 4.7rem;
+  display: flex;
+  align-items: flex-start;
+  background-color: #ffffff;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .auto-group-w7mt-6k9 .lowstocks-A7j .low-stock-table-oAh .auto-group-6ksm-nwj .lowstockitems-9bF .abc-3Rj {
+  margin-right: 3rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Hannari, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .auto-group-w7mt-6k9 .lowstocks-A7j .low-stock-table-oAh .auto-group-6ksm-nwj .lowstockitems-9bF .circle-slice-5-z65 {
+  margin: 0.4rem 14.6rem 0.4rem 0rem;
+  width: 1.7rem;
+  height: calc(100% - 0.8rem);
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .auto-group-w7mt-6k9 .lowstocks-A7j .low-stock-table-oAh .auto-group-6ksm-nwj .lowstockitems-9bF .item-50-iXs {
+  margin-right: 8.1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Hannari, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .auto-group-w7mt-6k9 .lowstocks-A7j .low-stock-table-oAh .auto-group-6ksm-nwj .lowstockitems-9bF .item-100-TVT {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Hannari, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .auto-group-w7mt-6k9 .lowstocks-A7j .low-stock-table-oAh .auto-group-6ksm-nwj .lowstockitems-zkH {
+  box-sizing: border-box;
+  padding: 0rem 3.685rem 0rem 2.893rem;
+  width: 40.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0.2rem;
+  top: 7rem;
+  display: flex;
+  align-items: flex-start;
+  background-color: #ffffff;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .auto-group-w7mt-6k9 .lowstocks-A7j .low-stock-table-oAh .auto-group-6ksm-nwj .lowstockitems-zkH .abc-HzH {
+  margin-right: 2.9859rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Hannari, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .auto-group-w7mt-6k9 .lowstocks-A7j .low-stock-table-oAh .auto-group-6ksm-nwj .lowstockitems-zkH .circle-slice-5-qF7 {
+  margin: 0.4rem 14.564rem 0.4rem 0rem;
+  width: 1.6961rem;
+  height: calc(100% - 0.8rem);
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .auto-group-w7mt-6k9 .lowstocks-A7j .low-stock-table-oAh .auto-group-6ksm-nwj .lowstockitems-zkH .item-50-ZS1 {
+  margin-right: 8.0758rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Hannari, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .auto-group-w7mt-6k9 .lowstocks-A7j .low-stock-table-oAh .auto-group-6ksm-nwj .lowstockitems-zkH .item-100-W6M {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Hannari, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .auto-group-w7mt-6k9 .lowstocks-A7j .low-stock-table-oAh .auto-group-6ksm-nwj .lowstockitems-SEu {
+  box-sizing: border-box;
+  padding: 0rem 3.685rem 0rem 2.893rem;
+  width: 40.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0.2rem;
+  top: 9.4rem;
+  display: flex;
+  align-items: flex-start;
+  background-color: #ffffff;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .auto-group-w7mt-6k9 .lowstocks-A7j .low-stock-table-oAh .auto-group-6ksm-nwj .lowstockitems-SEu .abc-L5P {
+  margin-right: 2.9859rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Hannari, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .auto-group-w7mt-6k9 .lowstocks-A7j .low-stock-table-oAh .auto-group-6ksm-nwj .lowstockitems-SEu .circle-slice-5-GUq {
+  margin: 0.4rem 14.564rem 0.4rem 0rem;
+  width: 1.6961rem;
+  height: calc(100% - 0.8rem);
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .auto-group-w7mt-6k9 .lowstocks-A7j .low-stock-table-oAh .auto-group-6ksm-nwj .lowstockitems-SEu .item-50-CNV {
+  margin-right: 8.0758rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Hannari, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .auto-group-w7mt-6k9 .lowstocks-A7j .low-stock-table-oAh .auto-group-6ksm-nwj .lowstockitems-SEu .item-100-LUh {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Hannari, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .auto-group-w7mt-6k9 .lowstocks-A7j .low-stock-table-oAh .auto-group-6ksm-nwj .frame-72-g2m {
+  width: 1.2rem;
+  height: 10.2rem;
+  position: absolute;
+  left: 0.9rem;
+  top: 0.9rem;
+  row-gap: 1rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .auto-group-w7mt-6k9 .lowstocks-A7j .low-stock-table-oAh .auto-group-6ksm-nwj .frame-72-g2m .vector-NgH {
+  width: 1.2rem;
+  height: 1.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .auto-group-w7mt-6k9 .lowstocks-A7j .low-stock-table-oAh .auto-group-6ksm-nwj .frame-72-g2m .vector-Jpq {
+  width: 1.2rem;
+  height: 1.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .auto-group-w7mt-6k9 .lowstocks-A7j .low-stock-table-oAh .auto-group-6ksm-nwj .frame-72-g2m .vector-rbT {
+  width: 1.2rem;
+  height: 1.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .auto-group-w7mt-6k9 .lowstocks-A7j .low-stock-table-oAh .auto-group-6ksm-nwj .frame-72-g2m .vector-cKj {
+  width: 1.2rem;
+  height: 1.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .auto-group-w7mt-6k9 .lowstocks-A7j .low-stock-table-oAh .auto-group-6ksm-nwj .frame-72-g2m .vector-kgq {
+  width: 1.2rem;
+  height: 1.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj {
+  margin-right: 0.9945rem;
+  width: 92.6055rem;
+  row-gap: 1.4rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH {
+  width: 100%;
+  height:fit-content;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recenttransframe-eQq {
+  margin: 0rem 0.005rem 1.1rem 0rem;
+  box-sizing: border-box;
+  padding: 0.3rem 1.7rem 0.2rem 3.7rem;
+  width: calc(100% - 0.0055rem);
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #cad0f4;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recenttransframe-eQq .recent-transactions-LoT {
+  margin-right: 48rem;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.7025;
+  letter-spacing: 0.396rem;
+  color: #000000;
+  font-family: Harmattan, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recenttransframe-eQq .vector-Gad {
+  margin-bottom: 0.1rem;
+  width: 4.9rem;
+  height: 2.7rem;
+  cursor: pointer;
+ 
+  vertical-align: top;
+  
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  flex-shrink: 0;
+
+}
+
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .expenseheadingdetaill-WUy {
+  margin: 0rem 6.79rem 1.35rem 4.616rem;
+  width: calc(100% - 11.4055rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .expenseheadingdetaill-WUy .date-c2D {
+  margin-right: 7.5rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .expenseheadingdetaill-WUy .xid-Xey {
+  margin-right: 7.5rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .expenseheadingdetaill-WUy .name-ToX {
+  margin-right: 5.4rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .expenseheadingdetaill-WUy .pmt-type-o6h {
+  margin-right: 2.7rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .expenseheadingdetaill-WUy .pmt-mode-88y {
+  margin-right: 12.9rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .expenseheadingdetaill-WUy .amount-rKs {
+  margin-right: 5.3rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .expenseheadingdetaill-WUy .status-zS5 {
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-hv2d-iss {
+  box-sizing: border-box;
+  padding: 0rem 0.003rem 0rem 0.002rem;
+  width: 100%;
+  height: 4.4rem;
+  border-top: solid 0.1rem #000000;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-hv2d-iss .transactiondetail-T4m {
+  box-sizing: border-box;
+  padding: 1.5rem 1.4rem 0.6rem 1.6rem;
+  width: 100%;
+  height: 100%;
+  background-color: #d9d9d9;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-hv2d-iss .transactiondetail-T4m .expenseheadingdetaill-BFf {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-hv2d-iss .transactiondetail-T4m .expenseheadingdetaill-BFf .item-25-05-2003-uSZ {
+  margin: 0rem 3rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-hv2d-iss .transactiondetail-T4m .expenseheadingdetaill-BFf .item-132416-RA1 {
+  margin: 0rem 4.4rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-hv2d-iss .transactiondetail-T4m .expenseheadingdetaill-BFf .insparkdevs-XTw {
+  margin: 0rem 3.7rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-hv2d-iss .transactiondetail-T4m .expenseheadingdetaill-BFf .expenses-3hB {
+  margin: 0rem 6rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-hv2d-iss .transactiondetail-T4m .expenseheadingdetaill-BFf .cash-y53 {
+  margin: 0rem 14.9rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-hv2d-iss .transactiondetail-T4m .expenseheadingdetaill-BFf .item-23233232-HbX {
+  margin: 0.2rem 3.7rem 0rem 0rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-hv2d-iss .transactiondetail-T4m .expenseheadingdetaill-BFf .done-QAM {
+  margin: 0rem 2.1rem 0.2rem 0rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-hv2d-iss .transactiondetail-T4m .expenseheadingdetaill-BFf .vector-L41 {
+  margin-right: 2.1rem;
+  width: 1.9rem;
+  height: 2.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-hv2d-iss .transactiondetail-T4m .expenseheadingdetaill-BFf .vector-eaV {
+  margin-bottom: 0.1rem;
+  width: 2.2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-qcpz-xbB {
+  box-sizing: border-box;
+  padding: 0rem 0.003rem 0rem 0.002rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-qcpz-xbB .transactiondetail-qey {
+  box-sizing: border-box;
+  padding: 1.5rem 1.4rem 0.6rem 1.6rem;
+  width: 100%;
+  height: 4.4rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-qcpz-xbB .transactiondetail-qey .expenseheadingdetaill-m2q {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-qcpz-xbB .transactiondetail-qey .expenseheadingdetaill-m2q .item-25-05-2003-hBP {
+  margin: 0rem 3rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-qcpz-xbB .transactiondetail-qey .expenseheadingdetaill-m2q .item-132416-cJM {
+  margin: 0rem 4.4rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-qcpz-xbB .transactiondetail-qey .expenseheadingdetaill-m2q .insparkdevs-8Gh {
+  margin: 0rem 3.7rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-qcpz-xbB .transactiondetail-qey .expenseheadingdetaill-m2q .expenses-3uT {
+  margin: 0rem 6rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-qcpz-xbB .transactiondetail-qey .expenseheadingdetaill-m2q .cash-aPb {
+  margin: 0rem 14.9rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-qcpz-xbB .transactiondetail-qey .expenseheadingdetaill-m2q .item-23233232-W2M {
+  margin: 0.2rem 3.7rem 0rem 0rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-qcpz-xbB .transactiondetail-qey .expenseheadingdetaill-m2q .done-DxM {
+  margin: 0rem 2.1rem 0.2rem 0rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-qcpz-xbB .transactiondetail-qey .expenseheadingdetaill-m2q .vector-wtM {
+  margin-right: 2.1rem;
+  width: 1.9rem;
+  height: 2.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-qcpz-xbB .transactiondetail-qey .expenseheadingdetaill-m2q .vector-tYh {
+  margin-bottom: 0.1rem;
+  width: 2.2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-qcpz-xbB .transactiondetail-297 {
+  box-sizing: border-box;
+  padding: 1.5rem 1.4rem 0.6rem 1.6rem;
+  width: 100%;
+  height: 4.4rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-qcpz-xbB .transactiondetail-297 .expenseheadingdetaill-kL1 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-qcpz-xbB .transactiondetail-297 .expenseheadingdetaill-kL1 .item-25-05-2003-Haq {
+  margin: 0rem 3rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-qcpz-xbB .transactiondetail-297 .expenseheadingdetaill-kL1 .item-132416-oJH {
+  margin: 0rem 4.4rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-qcpz-xbB .transactiondetail-297 .expenseheadingdetaill-kL1 .insparkdevs-iAM {
+  margin: 0rem 3.7rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-qcpz-xbB .transactiondetail-297 .expenseheadingdetaill-kL1 .expenses-EeV {
+  margin: 0rem 6rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-qcpz-xbB .transactiondetail-297 .expenseheadingdetaill-kL1 .cash-m8d {
+  margin: 0rem 14.9rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-qcpz-xbB .transactiondetail-297 .expenseheadingdetaill-kL1 .item-23233232-5v1 {
+  margin: 0.2rem 3.7rem 0rem 0rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-qcpz-xbB .transactiondetail-297 .expenseheadingdetaill-kL1 .done-CUq {
+  margin: 0rem 2.1rem 0.2rem 0rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-qcpz-xbB .transactiondetail-297 .expenseheadingdetaill-kL1 .vector-KJZ {
+  margin-right: 2.1rem;
+  width: 1.9rem;
+  height: 2.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-qcpz-xbB .transactiondetail-297 .expenseheadingdetaill-kL1 .vector-T9s {
+  margin-bottom: 0.1rem;
+  width: 2.2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-qcpz-xbB .transactiondetail-BLm {
+  box-sizing: border-box;
+  padding: 1.5rem 1.4rem 0.6rem 1.6rem;
+  width: 100%;
+  height: 4.4rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-qcpz-xbB .transactiondetail-BLm .expenseheadingdetaill-W89 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-qcpz-xbB .transactiondetail-BLm .expenseheadingdetaill-W89 .item-25-05-2003-qgD {
+  margin: 0rem 3rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-qcpz-xbB .transactiondetail-BLm .expenseheadingdetaill-W89 .item-132416-YKj {
+  margin: 0rem 4.4rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-qcpz-xbB .transactiondetail-BLm .expenseheadingdetaill-W89 .insparkdevs-Sg1 {
+  margin: 0rem 3.7rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-qcpz-xbB .transactiondetail-BLm .expenseheadingdetaill-W89 .expenses-AM7 {
+  margin: 0rem 6rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-qcpz-xbB .transactiondetail-BLm .expenseheadingdetaill-W89 .cash-gKT {
+  margin: 0rem 14.9rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-qcpz-xbB .transactiondetail-BLm .expenseheadingdetaill-W89 .item-23233232-oey {
+  margin: 0.2rem 3.7rem 0rem 0rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-qcpz-xbB .transactiondetail-BLm .expenseheadingdetaill-W89 .done-i1F {
+  margin: 0rem 2.1rem 0.2rem 0rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-qcpz-xbB .transactiondetail-BLm .expenseheadingdetaill-W89 .vector-SC9 {
+  margin-right: 2.1rem;
+  width: 1.9rem;
+  height: 2.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-qcpz-xbB .transactiondetail-BLm .expenseheadingdetaill-W89 .vector-aJM {
+  margin-bottom: 0.1rem;
+  width: 2.2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-qcpz-xbB .transactiondetail-WSu {
+  box-sizing: border-box;
+  padding: 1.5rem 1.4rem 0.6rem 1.6rem;
+  width: 100%;
+  height: 4.4rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-qcpz-xbB .transactiondetail-WSu .expenseheadingdetaill-3Sq {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-qcpz-xbB .transactiondetail-WSu .expenseheadingdetaill-3Sq .item-25-05-2003-Nzu {
+  margin: 0rem 3rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-qcpz-xbB .transactiondetail-WSu .expenseheadingdetaill-3Sq .item-132416-Vpd {
+  margin: 0rem 4.4rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-qcpz-xbB .transactiondetail-WSu .expenseheadingdetaill-3Sq .insparkdevs-cuF {
+  margin: 0rem 3.7rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-qcpz-xbB .transactiondetail-WSu .expenseheadingdetaill-3Sq .expenses-LaM {
+  margin: 0rem 6rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-qcpz-xbB .transactiondetail-WSu .expenseheadingdetaill-3Sq .cash-fMj {
+  margin: 0rem 14.9rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-qcpz-xbB .transactiondetail-WSu .expenseheadingdetaill-3Sq .item-23233232-zQ1 {
+  margin: 0.2rem 3.7rem 0rem 0rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-qcpz-xbB .transactiondetail-WSu .expenseheadingdetaill-3Sq .done-Jfb {
+  margin: 0rem 2.1rem 0.2rem 0rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-qcpz-xbB .transactiondetail-WSu .expenseheadingdetaill-3Sq .vector-S17 {
+  margin-right: 2.1rem;
+  width: 1.9rem;
+  height: 2.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-qcpz-xbB .transactiondetail-WSu .expenseheadingdetaill-3Sq .vector-yWq {
+  margin-bottom: 0.1rem;
+  width: 2.2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-qcpz-xbB .transactiondetail-WFs {
+  box-sizing: border-box;
+  padding: 1.5rem 1.4rem 0.6rem 1.6rem;
+  width: 100%;
+  height: 4.4rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-qcpz-xbB .transactiondetail-WFs .expenseheadingdetaill-qJ9 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-qcpz-xbB .transactiondetail-WFs .expenseheadingdetaill-qJ9 .item-25-05-2003-ZV3 {
+  margin: 0rem 3rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-qcpz-xbB .transactiondetail-WFs .expenseheadingdetaill-qJ9 .item-132416-skd {
+  margin: 0rem 4.4rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-qcpz-xbB .transactiondetail-WFs .expenseheadingdetaill-qJ9 .insparkdevs-z4Z {
+  margin: 0rem 3.7rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-qcpz-xbB .transactiondetail-WFs .expenseheadingdetaill-qJ9 .expenses-K6q {
+  margin: 0rem 6rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-qcpz-xbB .transactiondetail-WFs .expenseheadingdetaill-qJ9 .cash-3Yd {
+  margin: 0rem 14.9rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-qcpz-xbB .transactiondetail-WFs .expenseheadingdetaill-qJ9 .item-23233232-Nau {
+  margin: 0.2rem 3.7rem 0rem 0rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-qcpz-xbB .transactiondetail-WFs .expenseheadingdetaill-qJ9 .done-617 {
+  margin: 0rem 2.1rem 0.2rem 0rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-qcpz-xbB .transactiondetail-WFs .expenseheadingdetaill-qJ9 .vector-R3P {
+  margin-right: 2.1rem;
+  width: 1.9rem;
+  height: 2.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-qcpz-xbB .transactiondetail-WFs .expenseheadingdetaill-qJ9 .vector-krM {
+  margin-bottom: 0.1rem;
+  width: 2.2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-qcpz-xbB .transactiondetail-VJ9 {
+  box-sizing: border-box;
+  padding: 1.5rem 1.4rem 0.6rem 1.6rem;
+  width: 100%;
+  height: 4.4rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-qcpz-xbB .transactiondetail-VJ9 .expenseheadingdetaill-cdf {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-qcpz-xbB .transactiondetail-VJ9 .expenseheadingdetaill-cdf .item-25-05-2003-Mr9 {
+  margin: 0rem 3rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-qcpz-xbB .transactiondetail-VJ9 .expenseheadingdetaill-cdf .item-132416-sZb {
+  margin: 0rem 4.4rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-qcpz-xbB .transactiondetail-VJ9 .expenseheadingdetaill-cdf .insparkdevs-C65 {
+  margin: 0rem 3.7rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-qcpz-xbB .transactiondetail-VJ9 .expenseheadingdetaill-cdf .expenses-uWH {
+  margin: 0rem 6rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-qcpz-xbB .transactiondetail-VJ9 .expenseheadingdetaill-cdf .cash-RjX {
+  margin: 0rem 14.9rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-qcpz-xbB .transactiondetail-VJ9 .expenseheadingdetaill-cdf .item-23233232-xUZ {
+  margin: 0.2rem 3.7rem 0rem 0rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-qcpz-xbB .transactiondetail-VJ9 .expenseheadingdetaill-cdf .done-Gk9 {
+  margin: 0rem 2.1rem 0.2rem 0rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-qcpz-xbB .transactiondetail-VJ9 .expenseheadingdetaill-cdf .vector-bXX {
+  margin-right: 2.1rem;
+  width: 1.9rem;
+  height: 2.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-qcpz-xbB .transactiondetail-VJ9 .expenseheadingdetaill-cdf .vector-jtd {
+  margin-bottom: 0.1rem;
+  width: 2.2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-qcpz-xbB .transactiondetail-gJ5 {
+  box-sizing: border-box;
+  padding: 1.5rem 1.4rem 0.6rem 1.6rem;
+  width: 100%;
+  height: 4.4rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-qcpz-xbB .transactiondetail-gJ5 .expenseheadingdetaill-DJ1 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-qcpz-xbB .transactiondetail-gJ5 .expenseheadingdetaill-DJ1 .item-25-05-2003-Z6y {
+  margin: 0rem 3rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-qcpz-xbB .transactiondetail-gJ5 .expenseheadingdetaill-DJ1 .item-132416-UDw {
+  margin: 0rem 4.4rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-qcpz-xbB .transactiondetail-gJ5 .expenseheadingdetaill-DJ1 .insparkdevs-bJZ {
+  margin: 0rem 3.7rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-qcpz-xbB .transactiondetail-gJ5 .expenseheadingdetaill-DJ1 .expenses-uKF {
+  margin: 0rem 6rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-qcpz-xbB .transactiondetail-gJ5 .expenseheadingdetaill-DJ1 .cash-px1 {
+  margin: 0rem 14.9rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-qcpz-xbB .transactiondetail-gJ5 .expenseheadingdetaill-DJ1 .item-23233232-9zH {
+  margin: 0.2rem 3.7rem 0rem 0rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-qcpz-xbB .transactiondetail-gJ5 .expenseheadingdetaill-DJ1 .done-fhj {
+  margin: 0rem 2.1rem 0.2rem 0rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-qcpz-xbB .transactiondetail-gJ5 .expenseheadingdetaill-DJ1 .vector-Ptd {
+  margin-right: 2.1rem;
+  width: 1.9rem;
+  height: 2.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-qcpz-xbB .transactiondetail-gJ5 .expenseheadingdetaill-DJ1 .vector-qVj {
+  margin-bottom: 0.1rem;
+  width: 2.2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-qcpz-xbB .transactiondetail-NkZ {
+  box-sizing: border-box;
+  padding: 1.5rem 1.4rem 0.6rem 1.6rem;
+  width: 100%;
+  height: 4.4rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-qcpz-xbB .transactiondetail-NkZ .expenseheadingdetaill-iJd {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-qcpz-xbB .transactiondetail-NkZ .expenseheadingdetaill-iJd .item-25-05-2003-1Yd {
+  margin: 0rem 3rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-qcpz-xbB .transactiondetail-NkZ .expenseheadingdetaill-iJd .item-132416-7rZ {
+  margin: 0rem 4.4rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-qcpz-xbB .transactiondetail-NkZ .expenseheadingdetaill-iJd .insparkdevs-2yX {
+  margin: 0rem 3.7rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-qcpz-xbB .transactiondetail-NkZ .expenseheadingdetaill-iJd .expenses-mAR {
+  margin: 0rem 6rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-qcpz-xbB .transactiondetail-NkZ .expenseheadingdetaill-iJd .cash-tF3 {
+  margin: 0rem 14.9rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecenttransa-8xH .recentfranstable-NtZ .auto-group-qcpz-xbB .transactiondetail-NkZ .expenseheadingdetaill-iJd .item-23233232-oN1 {
+  margin: 0.2rem 3.7rem 0rem 0rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecentorders-Mgm {
+  width: 100%;
+  height: max-content;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecentorders-Mgm .recenttransframe-tgh {
+  margin: 0rem 0.005rem 1.1rem 0rem;
+  box-sizing: border-box;
+  padding: 0.3rem 1.7rem 0.2rem 3.7rem;
+  width: calc(100% - 0.0055rem);
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #cad0f4;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecentorders-Mgm .recenttransframe-tgh .recent-orders-aZX {
+  margin-right: 58.3rem;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.7025;
+  letter-spacing: 0.396rem;
+  color: #000000;
+  font-family: Harmattan, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecentorders-Mgm .recenttransframe-tgh .vector-h8M {
+  margin-bottom: 0.1rem;
+  width: 4.9rem;
+  height: 2.7rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecentorders-Mgm .recentfranstable-CL1 {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  flex-shrink: 0;
+  transition: max-height 0.4s ease-in-out;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecentorders-Mgm .recentfranstable-CL1 .expenseheadingdetaill-vWu {
+  margin: 0rem 8.805rem 0.75rem 4.387rem;
+  width: calc(100% - 13.1922rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecentorders-Mgm .recentfranstable-CL1 .expenseheadingdetaill-vWu .date-dAR {
+  margin-right: 4.9461rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecentorders-Mgm .recentfranstable-CL1 .expenseheadingdetaill-vWu .order-id-9eZ {
+  margin-right: 4.9rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecentorders-Mgm .recentfranstable-CL1 .expenseheadingdetaill-vWu .name-5YD {
+  margin-right: 4.9rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecentorders-Mgm .recentfranstable-CL1 .expenseheadingdetaill-vWu .total-items-cHF {
+  margin-right: 3.1rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecentorders-Mgm .recentfranstable-CL1 .expenseheadingdetaill-vWu .pmt-mode-9Y5 {
+  margin-right: 9.5117rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecentorders-Mgm .recentfranstable-CL1 .expenseheadingdetaill-vWu .total-amount-UaM {
+  margin-right: 3.0555rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecentorders-Mgm .recentfranstable-CL1 .expenseheadingdetaill-vWu .status-14V {
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecentorders-Mgm .recentfranstable-CL1 .auto-group-21zj-8eu {
+  box-sizing: border-box;
+  padding: 0rem 0.003rem 0rem 0.002rem;
+  width: 100%;
+  height: 4.4rem;
+  border-top: solid 0.1rem #000000;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecentorders-Mgm .recentfranstable-CL1 .auto-group-21zj-8eu .transactiondetail-42m {
+  box-sizing: border-box;
+  padding: 1.5rem 1.4rem 0.55rem 1.6rem;
+  width: 100%;
+  height: 100%;
+  background-color: #d9d9d9;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecentorders-Mgm .recentfranstable-CL1 .auto-group-21zj-8eu .transactiondetail-42m .expenseheadingdetaill-mSy {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecentorders-Mgm .recentfranstable-CL1 .auto-group-21zj-8eu .transactiondetail-42m .expenseheadingdetaill-mSy .item-25-05-2003-h5j {
+  margin: 0rem 3rem 0.25rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecentorders-Mgm .recentfranstable-CL1 .auto-group-21zj-8eu .transactiondetail-42m .expenseheadingdetaill-mSy .item-132416-PjF {
+  margin: 0rem 4.4rem 0.25rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecentorders-Mgm .recentfranstable-CL1 .auto-group-21zj-8eu .transactiondetail-42m .expenseheadingdetaill-mSy .insparkdevs-JrD {
+  margin: 0rem 3.7rem 0.25rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecentorders-Mgm .recentfranstable-CL1 .auto-group-21zj-8eu .transactiondetail-42m .expenseheadingdetaill-mSy .expenses-DyB {
+  margin: 0rem 6rem 0.25rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecentorders-Mgm .recentfranstable-CL1 .auto-group-21zj-8eu .transactiondetail-42m .expenseheadingdetaill-mSy .cash-YEm {
+  margin: 0rem 17.498rem 0.25rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecentorders-Mgm .recentfranstable-CL1 .auto-group-21zj-8eu .transactiondetail-42m .expenseheadingdetaill-mSy .item-232-Tcd {
+  margin: 0.25rem 8.1rem 0rem 0rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecentorders-Mgm .recentfranstable-CL1 .auto-group-21zj-8eu .transactiondetail-42m .expenseheadingdetaill-mSy .ellipse-124-aBT {
+  margin: 0rem 2.702rem 0.15rem 0rem;
+  width: 2rem;
+  height: 1.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecentorders-Mgm .recentfranstable-CL1 .auto-group-21zj-8eu .transactiondetail-42m .expenseheadingdetaill-mSy .vector-VJR {
+  margin: 0rem 2.1rem 0.05rem 0rem;
+  width: 1.9rem;
+  height: 2.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecentorders-Mgm .recentfranstable-CL1 .auto-group-21zj-8eu .transactiondetail-42m .expenseheadingdetaill-mSy .vector-DER {
+  margin-bottom: 0.15rem;
+  width: 2.2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecentorders-Mgm .recentfranstable-CL1 .auto-group-puox-WUR {
+  box-sizing: border-box;
+  padding: 0rem 0.003rem 0rem 0.002rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecentorders-Mgm .recentfranstable-CL1 .auto-group-puox-WUR .transactiondetail-ngq {
+  width: 100%;
+  height: 4.4rem;
+  position: relative;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecentorders-Mgm .recentfranstable-CL1 .auto-group-puox-WUR .transactiondetail-ngq .expenseheadingdetaill-iqP {
+  width: 89.6rem;
+  height: 2.3rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 1.5rem;
+  display: flex;
+  align-items: center;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecentorders-Mgm .recentfranstable-CL1 .auto-group-puox-WUR .transactiondetail-ngq .expenseheadingdetaill-iqP .item-25-05-2003-Rzh {
+  margin: 0rem 3rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecentorders-Mgm .recentfranstable-CL1 .auto-group-puox-WUR .transactiondetail-ngq .expenseheadingdetaill-iqP .item-132416-LLy {
+  margin: 0rem 4.4rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecentorders-Mgm .recentfranstable-CL1 .auto-group-puox-WUR .transactiondetail-ngq .expenseheadingdetaill-iqP .insparkdevs-3WH {
+  margin: 0rem 3.7rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecentorders-Mgm .recentfranstable-CL1 .auto-group-puox-WUR .transactiondetail-ngq .expenseheadingdetaill-iqP .expenses-kvV {
+  margin: 0rem 6rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecentorders-Mgm .recentfranstable-CL1 .auto-group-puox-WUR .transactiondetail-ngq .expenseheadingdetaill-iqP .cash-fnZ {
+  margin: 0rem 14.9rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecentorders-Mgm .recentfranstable-CL1 .auto-group-puox-WUR .transactiondetail-ngq .expenseheadingdetaill-iqP .item-23233232-nsB {
+  margin: 0.2rem 10.1rem 0rem 0rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecentorders-Mgm .recentfranstable-CL1 .auto-group-puox-WUR .transactiondetail-ngq .expenseheadingdetaill-iqP .vector-VWh {
+  margin-right: 2.1rem;
+  width: 1.9rem;
+  height: 2.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecentorders-Mgm .recentfranstable-CL1 .auto-group-puox-WUR .transactiondetail-ngq .expenseheadingdetaill-iqP .vector-cbK {
+  margin-bottom: 0.1rem;
+  width: 2.2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecentorders-Mgm .recentfranstable-CL1 .auto-group-puox-WUR .transactiondetail-ngq .ellipse-125-LnD {
+  width: 2rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 80.2977rem;
+  top: 2.25rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecentorders-STT {
+  width: 100%;
+  height: max-content;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecentorders-STT .recenttransframe-BR3 {
+  margin: 0rem 0.005rem 1.1rem 0rem;
+  box-sizing: border-box;
+  padding: 0.3rem 1.7rem 0.2rem 3.7rem;
+  width: calc(100% - 0.0055rem);
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #cad0f4;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecentorders-STT .recenttransframe-BR3 .recent-purchase-t4Z {
+  margin-right: 54.6rem;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.7025;
+  letter-spacing: 0.396rem;
+  color: #000000;
+  font-family: Harmattan, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecentorders-STT .recenttransframe-BR3 .vector-nvd {
+  margin-bottom: 0.1rem;
+  width: 4.9rem;
+  height: 2.7rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecentorders-STT .recentfranstable-Wbj {
+  box-sizing: border-box;
+  padding-top: 0.6rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  flex-shrink: 0;
+  transition: max-height 0.4s ease-in-out;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecentorders-STT .recentfranstable-Wbj .expenseheadingdetaill-T1B {
+  margin: 0rem 8.805rem 0.75rem 3.3rem;
+  width: calc(100% - 12.1055rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecentorders-STT .recentfranstable-Wbj .expenseheadingdetaill-T1B .date-N89 {
+  margin-right: 3.5rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecentorders-STT .recentfranstable-Wbj .expenseheadingdetaill-T1B .purchase-id-JXb {
+  margin-right: 2.4rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecentorders-STT .recentfranstable-Wbj .expenseheadingdetaill-T1B .sup-name-qXX {
+  margin-right: 3.0328rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecentorders-STT .recentfranstable-Wbj .expenseheadingdetaill-T1B .total-kits-AJu {
+  margin-right: 3.3672rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecentorders-STT .recentfranstable-Wbj .expenseheadingdetaill-T1B .total-items-u1b {
+  margin-right: 10.5438rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecentorders-STT .recentfranstable-Wbj .expenseheadingdetaill-T1B .total-amount-E3s {
+  margin-right: 3.0563rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecentorders-STT .recentfranstable-Wbj .expenseheadingdetaill-T1B .status-Zrq {
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecentorders-STT .recentfranstable-Wbj .auto-group-3vt5-hi9 {
+  box-sizing: border-box;
+  padding: 0rem 0.003rem 0rem 0.002rem;
+  width: 100%;
+  height: 4.4rem;
+  border-top: solid 0.1rem #000000;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecentorders-STT .recentfranstable-Wbj .auto-group-3vt5-hi9 .transactiondetail-31K {
+  box-sizing: border-box;
+  padding: 1.45rem 1.4rem 0.6rem 1.6rem;
+  width: 100%;
+  height: 100%;
+  background-color: #d9d9d9;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecentorders-STT .recentfranstable-Wbj .auto-group-3vt5-hi9 .transactiondetail-31K .expenseheadingdetaill-aG9 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecentorders-STT .recentfranstable-Wbj .auto-group-3vt5-hi9 .transactiondetail-31K .expenseheadingdetaill-aG9 .item-25-05-2003-u3X {
+  margin: 0rem 3rem 0.15rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecentorders-STT .recentfranstable-Wbj .auto-group-3vt5-hi9 .transactiondetail-31K .expenseheadingdetaill-aG9 .item-132416-cid {
+  margin: 0rem 4.4rem 0.15rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecentorders-STT .recentfranstable-Wbj .auto-group-3vt5-hi9 .transactiondetail-31K .expenseheadingdetaill-aG9 .insparkdevs-wW1 {
+  margin: 0rem 6.498rem 0.15rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecentorders-STT .recentfranstable-Wbj .auto-group-3vt5-hi9 .transactiondetail-31K .expenseheadingdetaill-aG9 .item-10-Tz9 {
+  margin: 0rem 8.002rem 0.45rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecentorders-STT .recentfranstable-Wbj .auto-group-3vt5-hi9 .transactiondetail-31K .expenseheadingdetaill-aG9 .item-100-baZ {
+  margin: 0rem 16.398rem 0.15rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecentorders-STT .recentfranstable-Wbj .auto-group-3vt5-hi9 .transactiondetail-31K .expenseheadingdetaill-aG9 .item-232000-KmT {
+  margin: 0rem 6.1rem 0.25rem 0rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecentorders-STT .recentfranstable-Wbj .auto-group-3vt5-hi9 .transactiondetail-31K .expenseheadingdetaill-aG9 .ellipse-124-reu {
+  margin: 0rem 2.702rem 0.05rem 0rem;
+  width: 2rem;
+  height: 1.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecentorders-STT .recentfranstable-Wbj .auto-group-3vt5-hi9 .transactiondetail-31K .expenseheadingdetaill-aG9 .vector-aau {
+  margin: 0.05rem 2.1rem 0rem 0rem;
+  width: 1.9rem;
+  height: 2.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecentorders-STT .recentfranstable-Wbj .auto-group-3vt5-hi9 .transactiondetail-31K .expenseheadingdetaill-aG9 .vector-KHb {
+  margin-bottom: 0.05rem;
+  width: 2.2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecentorders-STT .recentfranstable-Wbj .auto-group-ney1-2xh {
+  box-sizing: border-box;
+  padding: 0rem 0.003rem 0rem 0.002rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecentorders-STT .recentfranstable-Wbj .auto-group-ney1-2xh .transactiondetail-voB {
+  width: 100%;
+  height: 4.4rem;
+  position: relative;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecentorders-STT .recentfranstable-Wbj .auto-group-ney1-2xh .transactiondetail-voB .expenseheadingdetaill-siR {
+  width: 89.6rem;
+  height: 2.3rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 1.5rem;
+  display: flex;
+  align-items: center;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecentorders-STT .recentfranstable-Wbj .auto-group-ney1-2xh .transactiondetail-voB .expenseheadingdetaill-siR .item-25-05-2003-zHF {
+  margin: 0rem 3rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecentorders-STT .recentfranstable-Wbj .auto-group-ney1-2xh .transactiondetail-voB .expenseheadingdetaill-siR .item-132416-6bB {
+  margin: 0rem 4.4rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecentorders-STT .recentfranstable-Wbj .auto-group-ney1-2xh .transactiondetail-voB .expenseheadingdetaill-siR .insparkdevs-pXB {
+  margin: 0rem 3.7rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecentorders-STT .recentfranstable-Wbj .auto-group-ney1-2xh .transactiondetail-voB .expenseheadingdetaill-siR .expenses-YTB {
+  margin: 0rem 6rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecentorders-STT .recentfranstable-Wbj .auto-group-ney1-2xh .transactiondetail-voB .expenseheadingdetaill-siR .cash-Gty {
+  margin: 0rem 14.9rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecentorders-STT .recentfranstable-Wbj .auto-group-ney1-2xh .transactiondetail-voB .expenseheadingdetaill-siR .item-23233232-1Lm {
+  margin: 0.2rem 10.1rem 0rem 0rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecentorders-STT .recentfranstable-Wbj .auto-group-ney1-2xh .transactiondetail-voB .expenseheadingdetaill-siR .vector-vTj {
+  margin-right: 2.1rem;
+  width: 1.9rem;
+  height: 2.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecentorders-STT .recentfranstable-Wbj .auto-group-ney1-2xh .transactiondetail-voB .expenseheadingdetaill-siR .vector-55j {
+  margin-bottom: 0.1rem;
+  width: 2.2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .frame-73-hcu .frame-75-Coj .completerecentorders-STT .recentfranstable-Wbj .auto-group-ney1-2xh .transactiondetail-voB .ellipse-125-crM {
+  width: 2rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 80.2977rem;
+  top: 2.25rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+
+.dashboard-iA5 .auto-group-99i9-piD .auto-group-xclq-UQy {
+  margin-bottom: 2.7rem;
+  width: 35rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+  
+}
+.dashboard-iA5 .auto-group-99i9-piD .auto-group-xclq-UQy .notifications-oy3 {
+  margin-bottom: 2.3rem;
+  box-sizing: border-box;
+  padding: 0.5rem 1.3rem 0.7rem 1.7rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.2rem #000000;
+  background-color: #fbfbfb;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+  overflow-y: scroll;
+  max-height: 530px;
+}
+.notifications-oy3::-webkit-scrollbar{
+  visibility: hidden;
+}
+.dashboard-iA5 .auto-group-99i9-piD .auto-group-xclq-UQy .notifications-oy3 .auto-group-grw5-Juo {
+  margin: 0rem 16.2rem 1.9rem 0rem;
+  width: calc(100% - 16.2rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .auto-group-xclq-UQy .notifications-oy3 .auto-group-grw5-Juo .vector-EoT {
+  margin: 0.4rem 0.9rem 0rem 0rem;
+  width: 2.1rem;
+  height: 2.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .auto-group-xclq-UQy .notifications-oy3 .auto-group-grw5-Juo .notifications-mYV {
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Hannari, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .auto-group-xclq-UQy .notifications-oy3 .notificationd-epZ {
+  margin-bottom: 0.5rem;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .auto-group-xclq-UQy .notifications-oy3 .notificationd-epZ .notification-d-abcd-cWV {
+  margin-right: 7.8rem;
+  max-width: 14rem;
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.6636132327;
+  letter-spacing: 0.066rem;
+  color: #000000;
+  font-family: Carrois Gothic, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+
+.dashboard-iA5 .auto-group-99i9-piD .auto-group-xclq-UQy .notifications-oy3 .notificationd-epZ .notification-d-abcd-cWV .notification-d-abcd-cWV-sub-1 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 2.287468195;
+  letter-spacing: 0.066rem;
+  color: #000000;
+  font-family: Carrois Gothic, 'Source Sans Pro';
+}
+.dashboard-iA5 .auto-group-99i9-piD .auto-group-xclq-UQy .notifications-oy3 .notificationd-epZ .nov-2023-E25 {
+  margin-top: 0.7rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.6636132002;
+  letter-spacing: 0.048rem;
+  color: rgba(0, 0, 0, 0.6399999857);
+  font-family: Carrois Gothic, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.dashboard-iA5 .auto-group-99i9-piD .auto-group-xclq-UQy .notifications-oy3 .auto-group-ubiz-Y2m .see-all--tcR {
+  width: 7rem;
+  height: 2.7rem;
+  cursor: pointer;
+  position: absolute;
+  left: 12rem;
+  top: 6.1rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.6636132002;
+  letter-spacing: 0.048rem;
+  color: #000000;
+  font-family: Carrois Gothic, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.dashboard-iA5 .auto-group-99i9-piD .auto-group-xclq-UQy .top-products-Kt5 {
+  box-sizing: border-box;
+  padding: 1.087rem 0.32rem 3.732rem 0.641rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem #000000;
+  background-color: #cad0f4;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+  overflow-y: scroll;
+  max-height: 350px;
+}
+.top-products-Kt5::-webkit-scrollbar{
+  visibility: hidden;
+}
+.dashboard-iA5 .auto-group-99i9-piD .auto-group-xclq-UQy .top-products-Kt5 .top-products-Rw7 {
+  margin: 0rem 15.034rem 1.744rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Hannari, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .auto-group-xclq-UQy .top-products-Kt5 .fields-9MK {
+  margin: 0rem 2.11rem 0.475rem 2.667rem;
+  width: calc(100% - 4.7773rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .auto-group-xclq-UQy .top-products-Kt5 .fields-9MK .product-id-4UH {
+  margin-right: 6.6844rem;
+  font-size: 1.3rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: rgba(0, 0, 0, 0.4699999988);
+  font-family: Hannari, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .auto-group-xclq-UQy .top-products-Kt5 .fields-9MK .curr-price-bDK {
+  margin-right: 6.7781rem;
+  font-size: 1.3rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: rgba(0, 0, 0, 0.4699999988);
+  font-family: Hannari, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .auto-group-xclq-UQy .top-products-Kt5 .fields-9MK .profit--vWV {
+  font-size: 1.3rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: rgba(0, 0, 0, 0.4699999988);
+  font-family: Hannari, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .auto-group-xclq-UQy .top-products-Kt5 .product1-3r1 {
+  margin-bottom: 2.3723rem;
+
+  /* padding: 0.692rem 2.889rem 1.162rem 0.854rem; */
+  width: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .auto-group-xclq-UQy .top-products-Kt5 .product1-3r1 .vector-N7b {
+  margin: 0.272rem 0.641rem 0rem 0rem;
+  width: 1.1734rem;
+  height: 1.7793rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .auto-group-xclq-UQy .top-products-Kt5 .product1-3r1 .product-1-VT7 {
+  margin-right: 6.625rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Hannari, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .auto-group-xclq-UQy .top-products-Kt5 .product1-3r1 .item-1000-Dtu {
+  margin-right: 7.4578rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Hannari, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .auto-group-xclq-UQy .top-products-Kt5 .product1-3r1 .item-40--wpu {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #40881e;
+  font-family: Hannari, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .auto-group-xclq-UQy .top-products-Kt5 .product2-Fqb {
+  margin: 0rem 2.89rem 3.436rem 2.667rem;
+  width: calc(100% - 5.557rem);
+ 
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .auto-group-xclq-UQy .top-products-Kt5 .product2-Fqb .product-2-z2V {
+  margin: 0.099rem 6.625rem 0rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Hannari, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .auto-group-xclq-UQy .top-products-Kt5 .product2-Fqb .item-2000-Jos {
+  margin: 0rem 7.458rem 0.099rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Hannari, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.dashboard-iA5 .auto-group-99i9-piD .auto-group-xclq-UQy .top-products-Kt5 .product2-Fqb .item-30--pnD {
+  
+  margin-bottom: 0.0988rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #40881e;
+  font-family: Hannari, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.purchasepage{
+  text-decoration: none;
+}
+
+

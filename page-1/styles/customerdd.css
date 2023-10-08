@@ -1,0 +1,323 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 19.6rem;
+}.customerdd-uSy {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.customerdd-uSy .group-123-fBF {
+  box-sizing: border-box;
+  padding: 0.6rem 0.4rem 0rem 1.1rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #000000;
+  background-color: #c7e4ff;
+  border-radius: 1rem 1rem 0 0;
+  flex-shrink: 0;
+}
+.customerdd-uSy .group-123-fBF .all-customer-Pd3 {
+  margin-right: 1.6rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.7025;
+  color: rgba(0, 0, 0, 0.6999999881);
+  font-family: Harmattan, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.customerdd-uSy .group-123-fBF .item-200-KFo {
+  margin-top: 0.2rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.7025;
+  color: rgba(0, 0, 0, 0.6999999881);
+  font-family: Harmattan, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.customerdd-uSy .group-123-fBF .polygon-7-FQM {
+  margin-top: 0.2rem;
+  width: 2.2rem;
+  height: 1.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.customerdd-uSy .frame-151-9Vj {
+  width: 100%;
+  height: 19.2rem;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.customerdd-uSy .frame-151-9Vj .shoes-Hbw {
+  width: 100%;
+  height: 4.8rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.customerdd-uSy .frame-151-9Vj .shoes-Hbw .rectangle-762-qtM {
+  width: 19.6rem;
+  height: 4.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.customerdd-uSy .frame-151-9Vj .shoes-Hbw .item-130-aL9 {
+  width: 3.5rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 12.4rem;
+  top: 1.1rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.7025;
+  color: rgba(0, 0, 0, 0.6999999881);
+  font-family: Harmattan, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.customerdd-uSy .frame-151-9Vj .shoes-Hbw .shoes-HEZ {
+  width: 5.7rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 1.5rem;
+  top: 0;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.7025;
+  color: #000000;
+  font-family: Harmattan, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.customerdd-uSy .frame-151-9Vj .cloths-zem {
+  width: 100%;
+  height: 4.8rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.customerdd-uSy .frame-151-9Vj .cloths-zem .rectangle-763-x5o {
+  width: 19.6rem;
+  height: 4.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.customerdd-uSy .frame-151-9Vj .cloths-zem .item-140-gnV {
+  width: 3.5rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 12.4rem;
+  top: 1.1rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.7025;
+  color: rgba(0, 0, 0, 0.6999999881);
+  font-family: Harmattan, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.customerdd-uSy .frame-151-9Vj .cloths-zem .cloths-zHP {
+  width: 6.2rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 1.5rem;
+  top: 0;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.7025;
+  color: #000000;
+  font-family: Harmattan, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.customerdd-uSy .frame-151-9Vj .shoes-uQM {
+  width: 100%;
+  height: 4.8rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.customerdd-uSy .frame-151-9Vj .shoes-uQM .rectangle-762-FUD {
+  width: 19.6rem;
+  height: 4.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.customerdd-uSy .frame-151-9Vj .shoes-uQM .item-130-b2H {
+  width: 3.5rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 12.4rem;
+  top: 1.1rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.7025;
+  color: rgba(0, 0, 0, 0.6999999881);
+  font-family: Harmattan, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.customerdd-uSy .frame-151-9Vj .shoes-uQM .shoes-JBb {
+  width: 5.7rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 1.5rem;
+  top: 0;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.7025;
+  color: #000000;
+  font-family: Harmattan, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.customerdd-uSy .frame-151-9Vj .cloths-1rh {
+  width: 100%;
+  height: 4.8rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.customerdd-uSy .frame-151-9Vj .cloths-1rh .rectangle-763-AzV {
+  width: 19.6rem;
+  height: 4.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.customerdd-uSy .frame-151-9Vj .cloths-1rh .item-140-iFK {
+  width: 3.5rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 12.4rem;
+  top: 1.1rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.7025;
+  color: rgba(0, 0, 0, 0.6999999881);
+  font-family: Harmattan, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.customerdd-uSy .frame-151-9Vj .cloths-1rh .cloths-d7P {
+  width: 6.2rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 1.5rem;
+  top: 0;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.7025;
+  color: #000000;
+  font-family: Harmattan, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.customerdd-uSy .frame-151-9Vj .shoes-kC1 {
+  width: 100%;
+  height: 4.8rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.customerdd-uSy .frame-151-9Vj .shoes-kC1 .rectangle-762-hN9 {
+  width: 19.6rem;
+  height: 4.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.customerdd-uSy .frame-151-9Vj .shoes-kC1 .item-130-qUM {
+  width: 3.5rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 12.4rem;
+  top: 1.1rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.7025;
+  color: rgba(0, 0, 0, 0.6999999881);
+  font-family: Harmattan, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.customerdd-uSy .frame-151-9Vj .shoes-kC1 .shoes-wnH {
+  width: 5.7rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 1.5rem;
+  top: 0;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.7025;
+  color: #000000;
+  font-family: Harmattan, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.customerdd-uSy .frame-151-9Vj .cloths-TEq {
+  width: 100%;
+  height: 4.8rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.customerdd-uSy .frame-151-9Vj .cloths-TEq .rectangle-763-1GM {
+  width: 19.6rem;
+  height: 4.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.customerdd-uSy .frame-151-9Vj .cloths-TEq .item-140-9NZ {
+  width: 3.5rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 12.4rem;
+  top: 1.1rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.7025;
+  color: rgba(0, 0, 0, 0.6999999881);
+  font-family: Harmattan, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.customerdd-uSy .frame-151-9Vj .cloths-TEq .cloths-3yj {
+  width: 6.2rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 1.5rem;
+  top: 0;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.7025;
+  color: #000000;
+  font-family: Harmattan, 'Source Sans Pro';
+  white-space: nowrap;
+}

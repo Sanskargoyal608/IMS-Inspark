@@ -1,0 +1,700 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 75.9rem;
+}.table-1-AAu {
+  width: 100%;
+  height: 39.6rem;
+  border-radius: 3rem;
+}
+.table-1-AAu .table-vA5 {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem #110e0e;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 2.5rem;
+}
+.table-1-AAu .table-vA5 .row-ftM {
+  box-sizing: border-box;
+  padding: 0 0.15rem;
+  width: 100%;
+  height: 3.6rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.table-1-AAu .table-vA5 .row-ftM .cell-CtH {
+  width: 10.8rem;
+  height: 100%;
+  border: solid 0.1rem #110e0e;
+  box-sizing: border-box;
+  background-color: rgba(27, 20, 20, 0.0500000007);
+  flex-shrink: 0;
+}
+.table-1-AAu .table-vA5 .row-ftM .cell-way {
+  width: 10.8rem;
+  height: 100%;
+  border: solid 0.1rem #110e0e;
+  box-sizing: border-box;
+  background-color: rgba(27, 20, 20, 0.0500000007);
+  flex-shrink: 0;
+}
+.table-1-AAu .table-vA5 .row-ftM .cell-Uqo {
+  width: 10.8rem;
+  height: 100%;
+  border: solid 0.1rem #110e0e;
+  box-sizing: border-box;
+  background-color: rgba(27, 20, 20, 0.0500000007);
+  flex-shrink: 0;
+}
+.table-1-AAu .table-vA5 .row-ftM .cell-DoP {
+  width: 10.8rem;
+  height: 100%;
+  border: solid 0.1rem #110e0e;
+  box-sizing: border-box;
+  background-color: rgba(27, 20, 20, 0.0500000007);
+  flex-shrink: 0;
+}
+.table-1-AAu .table-vA5 .row-ftM .cell-ZsF {
+  width: 10.8rem;
+  height: 100%;
+  border: solid 0.1rem #110e0e;
+  box-sizing: border-box;
+  background-color: rgba(27, 20, 20, 0.0500000007);
+  flex-shrink: 0;
+}
+.table-1-AAu .table-vA5 .row-ftM .cell-hTf {
+  width: 10.8rem;
+  height: 100%;
+  border: solid 0.1rem #110e0e;
+  box-sizing: border-box;
+  background-color: rgba(27, 20, 20, 0.0500000007);
+  flex-shrink: 0;
+}
+.table-1-AAu .table-vA5 .row-ftM .auto-group-sjmf-Sg9 {
+  width: 10.8rem;
+  height: 3.6rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.table-1-AAu .table-vA5 .auto-group-vjd3-B7w {
+  box-sizing: border-box;
+  padding: 0 0.15rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.table-1-AAu .table-vA5 .auto-group-vjd3-B7w .row-7GV {
+  width: 100%;
+  height: 3.6rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.table-1-AAu .table-vA5 .auto-group-vjd3-B7w .row-7GV .cell-3vq {
+  width: 10.8rem;
+  height: 100%;
+  border: solid 0.1rem #110e0e;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.table-1-AAu .table-vA5 .auto-group-vjd3-B7w .row-7GV .cell-bSZ {
+  width: 10.8rem;
+  height: 100%;
+  border: solid 0.1rem #110e0e;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.table-1-AAu .table-vA5 .auto-group-vjd3-B7w .row-7GV .cell-jof {
+  width: 10.8rem;
+  height: 100%;
+  border: solid 0.1rem #110e0e;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.table-1-AAu .table-vA5 .auto-group-vjd3-B7w .row-7GV .cell-V29 {
+  width: 10.8rem;
+  height: 100%;
+  border: solid 0.1rem #110e0e;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.table-1-AAu .table-vA5 .auto-group-vjd3-B7w .row-7GV .cell-de9 {
+  width: 10.8rem;
+  height: 100%;
+  border: solid 0.1rem #110e0e;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.table-1-AAu .table-vA5 .auto-group-vjd3-B7w .row-7GV .cell-nG9 {
+  width: 10.8rem;
+  height: 100%;
+  border: solid 0.1rem #110e0e;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.table-1-AAu .table-vA5 .auto-group-vjd3-B7w .row-7GV .auto-group-kvhx-jSH {
+  width: 10.8rem;
+  height: 3.6rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.table-1-AAu .table-vA5 .auto-group-vjd3-B7w .row-fqj {
+  width: 100%;
+  height: 3.6rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.table-1-AAu .table-vA5 .auto-group-vjd3-B7w .row-fqj .cell-QoK {
+  width: 10.8rem;
+  height: 100%;
+  border: solid 0.1rem #110e0e;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.table-1-AAu .table-vA5 .auto-group-vjd3-B7w .row-fqj .cell-MyT {
+  width: 10.8rem;
+  height: 100%;
+  border: solid 0.1rem #110e0e;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.table-1-AAu .table-vA5 .auto-group-vjd3-B7w .row-fqj .cell-Jth {
+  width: 10.8rem;
+  height: 100%;
+  border: solid 0.1rem #110e0e;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.table-1-AAu .table-vA5 .auto-group-vjd3-B7w .row-fqj .cell-TFo {
+  width: 10.8rem;
+  height: 100%;
+  border: solid 0.1rem #110e0e;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.table-1-AAu .table-vA5 .auto-group-vjd3-B7w .row-fqj .cell-CUH {
+  width: 10.8rem;
+  height: 100%;
+  border: solid 0.1rem #110e0e;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.table-1-AAu .table-vA5 .auto-group-vjd3-B7w .row-fqj .cell-9eR {
+  width: 10.8rem;
+  height: 100%;
+  border: solid 0.1rem #110e0e;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.table-1-AAu .table-vA5 .auto-group-vjd3-B7w .row-fqj .auto-group-nr4h-HVj {
+  width: 10.8rem;
+  height: 3.6rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.table-1-AAu .table-vA5 .auto-group-vjd3-B7w .row-pEm {
+  width: 100%;
+  height: 3.6rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.table-1-AAu .table-vA5 .auto-group-vjd3-B7w .row-pEm .cell-xrm {
+  width: 10.8rem;
+  height: 100%;
+  border: solid 0.1rem #110e0e;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.table-1-AAu .table-vA5 .auto-group-vjd3-B7w .row-pEm .cell-Jvd {
+  width: 10.8rem;
+  height: 100%;
+  border: solid 0.1rem #110e0e;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.table-1-AAu .table-vA5 .auto-group-vjd3-B7w .row-pEm .cell-Fqs {
+  width: 10.8rem;
+  height: 100%;
+  border: solid 0.1rem #110e0e;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.table-1-AAu .table-vA5 .auto-group-vjd3-B7w .row-pEm .cell-osP {
+  width: 10.8rem;
+  height: 100%;
+  border: solid 0.1rem #110e0e;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.table-1-AAu .table-vA5 .auto-group-vjd3-B7w .row-pEm .cell-AC9 {
+  width: 10.8rem;
+  height: 100%;
+  border: solid 0.1rem #110e0e;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.table-1-AAu .table-vA5 .auto-group-vjd3-B7w .row-pEm .cell-Jp9 {
+  width: 10.8rem;
+  height: 100%;
+  border: solid 0.1rem #110e0e;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.table-1-AAu .table-vA5 .auto-group-vjd3-B7w .row-pEm .auto-group-scnm-FzH {
+  width: 10.8rem;
+  height: 3.6rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.table-1-AAu .table-vA5 .auto-group-vjd3-B7w .row-bYM {
+  width: 100%;
+  height: 3.6rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.table-1-AAu .table-vA5 .auto-group-vjd3-B7w .row-bYM .cell-LVw {
+  width: 10.8rem;
+  height: 100%;
+  border: solid 0.1rem #110e0e;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.table-1-AAu .table-vA5 .auto-group-vjd3-B7w .row-bYM .cell-tXT {
+  width: 10.8rem;
+  height: 100%;
+  border: solid 0.1rem #110e0e;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.table-1-AAu .table-vA5 .auto-group-vjd3-B7w .row-bYM .cell-3QM {
+  width: 10.8rem;
+  height: 100%;
+  border: solid 0.1rem #110e0e;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.table-1-AAu .table-vA5 .auto-group-vjd3-B7w .row-bYM .cell-C2M {
+  width: 10.8rem;
+  height: 100%;
+  border: solid 0.1rem #110e0e;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.table-1-AAu .table-vA5 .auto-group-vjd3-B7w .row-bYM .cell-9CV {
+  width: 10.8rem;
+  height: 100%;
+  border: solid 0.1rem #110e0e;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.table-1-AAu .table-vA5 .auto-group-vjd3-B7w .row-bYM .cell-HpV {
+  width: 10.8rem;
+  height: 100%;
+  border: solid 0.1rem #110e0e;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.table-1-AAu .table-vA5 .auto-group-vjd3-B7w .row-bYM .auto-group-7ahx-qb7 {
+  width: 10.8rem;
+  height: 3.6rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.table-1-AAu .table-vA5 .auto-group-vjd3-B7w .row-Nqw {
+  width: 100%;
+  height: 3.6rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.table-1-AAu .table-vA5 .auto-group-vjd3-B7w .row-Nqw .cell-uqs {
+  width: 10.8rem;
+  height: 100%;
+  border: solid 0.1rem #110e0e;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.table-1-AAu .table-vA5 .auto-group-vjd3-B7w .row-Nqw .cell-TcV {
+  width: 10.8rem;
+  height: 100%;
+  border: solid 0.1rem #110e0e;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.table-1-AAu .table-vA5 .auto-group-vjd3-B7w .row-Nqw .cell-18D {
+  width: 10.8rem;
+  height: 100%;
+  border: solid 0.1rem #110e0e;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.table-1-AAu .table-vA5 .auto-group-vjd3-B7w .row-Nqw .cell-kbb {
+  width: 10.8rem;
+  height: 100%;
+  border: solid 0.1rem #110e0e;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.table-1-AAu .table-vA5 .auto-group-vjd3-B7w .row-Nqw .cell-Jd7 {
+  width: 10.8rem;
+  height: 100%;
+  border: solid 0.1rem #110e0e;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.table-1-AAu .table-vA5 .auto-group-vjd3-B7w .row-Nqw .cell-qsw {
+  width: 10.8rem;
+  height: 100%;
+  border: solid 0.1rem #110e0e;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.table-1-AAu .table-vA5 .auto-group-vjd3-B7w .row-Nqw .auto-group-py7s-PeZ {
+  width: 10.8rem;
+  height: 3.6rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.table-1-AAu .table-vA5 .auto-group-vjd3-B7w .row-Y1f {
+  width: 100%;
+  height: 3.6rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.table-1-AAu .table-vA5 .auto-group-vjd3-B7w .row-Y1f .cell-GTT {
+  width: 10.8rem;
+  height: 100%;
+  border: solid 0.1rem #110e0e;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.table-1-AAu .table-vA5 .auto-group-vjd3-B7w .row-Y1f .cell-R5T {
+  width: 10.8rem;
+  height: 100%;
+  border: solid 0.1rem #110e0e;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.table-1-AAu .table-vA5 .auto-group-vjd3-B7w .row-Y1f .cell-ZhT {
+  width: 10.8rem;
+  height: 100%;
+  border: solid 0.1rem #110e0e;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.table-1-AAu .table-vA5 .auto-group-vjd3-B7w .row-Y1f .cell-i4Z {
+  width: 10.8rem;
+  height: 100%;
+  border: solid 0.1rem #110e0e;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.table-1-AAu .table-vA5 .auto-group-vjd3-B7w .row-Y1f .cell-FKP {
+  width: 10.8rem;
+  height: 100%;
+  border: solid 0.1rem #110e0e;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.table-1-AAu .table-vA5 .auto-group-vjd3-B7w .row-Y1f .cell-CEd {
+  width: 10.8rem;
+  height: 100%;
+  border: solid 0.1rem #110e0e;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.table-1-AAu .table-vA5 .auto-group-vjd3-B7w .row-Y1f .auto-group-7vsr-wCD {
+  width: 10.8rem;
+  height: 3.6rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.table-1-AAu .table-vA5 .auto-group-vjd3-B7w .row-Uhw {
+  width: 100%;
+  height: 3.6rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.table-1-AAu .table-vA5 .auto-group-vjd3-B7w .row-Uhw .cell-pWu {
+  width: 10.8rem;
+  height: 100%;
+  border: solid 0.1rem #110e0e;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.table-1-AAu .table-vA5 .auto-group-vjd3-B7w .row-Uhw .cell-mS9 {
+  width: 10.8rem;
+  height: 100%;
+  border: solid 0.1rem #110e0e;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.table-1-AAu .table-vA5 .auto-group-vjd3-B7w .row-Uhw .cell-KCm {
+  width: 10.8rem;
+  height: 100%;
+  border: solid 0.1rem #110e0e;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.table-1-AAu .table-vA5 .auto-group-vjd3-B7w .row-Uhw .cell-4RF {
+  width: 10.8rem;
+  height: 100%;
+  border: solid 0.1rem #110e0e;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.table-1-AAu .table-vA5 .auto-group-vjd3-B7w .row-Uhw .cell-D3F {
+  width: 10.8rem;
+  height: 100%;
+  border: solid 0.1rem #110e0e;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.table-1-AAu .table-vA5 .auto-group-vjd3-B7w .row-Uhw .cell-Mv9 {
+  width: 10.8rem;
+  height: 100%;
+  border: solid 0.1rem #110e0e;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.table-1-AAu .table-vA5 .auto-group-vjd3-B7w .row-Uhw .auto-group-argh-JqP {
+  width: 10.8rem;
+  height: 3.6rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.table-1-AAu .table-vA5 .auto-group-vjd3-B7w .row-43s {
+  width: 100%;
+  height: 3.6rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.table-1-AAu .table-vA5 .auto-group-vjd3-B7w .row-43s .cell-Cfs {
+  width: 10.8rem;
+  height: 100%;
+  border: solid 0.1rem #110e0e;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.table-1-AAu .table-vA5 .auto-group-vjd3-B7w .row-43s .cell-95K {
+  width: 10.8rem;
+  height: 100%;
+  border: solid 0.1rem #110e0e;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.table-1-AAu .table-vA5 .auto-group-vjd3-B7w .row-43s .cell-6FT {
+  width: 10.8rem;
+  height: 100%;
+  border: solid 0.1rem #110e0e;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.table-1-AAu .table-vA5 .auto-group-vjd3-B7w .row-43s .cell-EcZ {
+  width: 10.8rem;
+  height: 100%;
+  border: solid 0.1rem #110e0e;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.table-1-AAu .table-vA5 .auto-group-vjd3-B7w .row-43s .cell-awK {
+  width: 10.8rem;
+  height: 100%;
+  border: solid 0.1rem #110e0e;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.table-1-AAu .table-vA5 .auto-group-vjd3-B7w .row-43s .cell-8hw {
+  width: 10.8rem;
+  height: 100%;
+  border: solid 0.1rem #110e0e;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.table-1-AAu .table-vA5 .auto-group-vjd3-B7w .row-43s .auto-group-edqm-tBK {
+  width: 10.8rem;
+  height: 3.6rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.table-1-AAu .table-vA5 .auto-group-vjd3-B7w .row-pam {
+  width: 100%;
+  height: 3.6rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.table-1-AAu .table-vA5 .auto-group-vjd3-B7w .row-pam .cell-ZYM {
+  width: 10.8rem;
+  height: 100%;
+  border: solid 0.1rem #110e0e;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.table-1-AAu .table-vA5 .auto-group-vjd3-B7w .row-pam .cell-WTb {
+  width: 10.8rem;
+  height: 100%;
+  border: solid 0.1rem #110e0e;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.table-1-AAu .table-vA5 .auto-group-vjd3-B7w .row-pam .cell-Fvy {
+  width: 10.8rem;
+  height: 100%;
+  border: solid 0.1rem #110e0e;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.table-1-AAu .table-vA5 .auto-group-vjd3-B7w .row-pam .cell-D77 {
+  width: 10.8rem;
+  height: 100%;
+  border: solid 0.1rem #110e0e;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.table-1-AAu .table-vA5 .auto-group-vjd3-B7w .row-pam .cell-ZRs {
+  width: 10.8rem;
+  height: 100%;
+  border: solid 0.1rem #110e0e;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.table-1-AAu .table-vA5 .auto-group-vjd3-B7w .row-pam .cell-v1X {
+  width: 10.8rem;
+  height: 100%;
+  border: solid 0.1rem #110e0e;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.table-1-AAu .table-vA5 .auto-group-vjd3-B7w .row-pam .auto-group-sz3j-GbB {
+  width: 10.8rem;
+  height: 3.6rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.table-1-AAu .table-vA5 .auto-group-vjd3-B7w .row-oLD {
+  width: 100%;
+  height: 3.6rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.table-1-AAu .table-vA5 .auto-group-vjd3-B7w .row-oLD .cell-kFT {
+  width: 10.8rem;
+  height: 100%;
+  border: solid 0.1rem #110e0e;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.table-1-AAu .table-vA5 .auto-group-vjd3-B7w .row-oLD .cell-JGy {
+  width: 10.8rem;
+  height: 100%;
+  border: solid 0.1rem #110e0e;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.table-1-AAu .table-vA5 .auto-group-vjd3-B7w .row-oLD .cell-T9s {
+  width: 10.8rem;
+  height: 100%;
+  border: solid 0.1rem #110e0e;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.table-1-AAu .table-vA5 .auto-group-vjd3-B7w .row-oLD .cell-1BP {
+  width: 10.8rem;
+  height: 100%;
+  border: solid 0.1rem #110e0e;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.table-1-AAu .table-vA5 .auto-group-vjd3-B7w .row-oLD .cell-Yx1 {
+  width: 10.8rem;
+  height: 100%;
+  border: solid 0.1rem #110e0e;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.table-1-AAu .table-vA5 .auto-group-vjd3-B7w .row-oLD .cell-u1s {
+  width: 10.8rem;
+  height: 100%;
+  border: solid 0.1rem #110e0e;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.table-1-AAu .table-vA5 .auto-group-vjd3-B7w .row-oLD .auto-group-sj9j-SXb {
+  width: 10.8rem;
+  height: 3.6rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}

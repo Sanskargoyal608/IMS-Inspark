@@ -1,0 +1,4391 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 145.1rem;
+}.myonlinestore-QxR {
+  width: 100%;
+  height: 106.8rem;
+  position: relative;
+  background-color: #ffffff;
+
+  .auto-group-vqym-xDF {
+    width: 91.2rem;
+    height: 99.6rem;
+    position: absolute;
+    left: 13.3rem;
+    top: 2.9rem;
+
+    .searchbar-4n5 {
+      background-color: #ffffff;
+      margin: 0rem 43.9rem 1.9rem 0rem;
+      display: flex;
+      align-items: center;
+      border: solid 0.1rem #000000;
+      border-radius: 2.5rem;
+      box-sizing: border-box;
+      padding: 1.1rem 30rem 1rem 1.6rem;
+      width: calc(100% - 43.9rem);
+      box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+
+      .vector-Zyj {
+        flex-shrink: 0;
+        margin: 0.2rem 3.4rem 0rem 0rem;
+        width: 3.4rem;
+        height: 2.9rem;
+        object-fit: contain;
+        vertical-align: top;
+      }
+      .search-JRX {
+        flex-shrink: 0;
+        font-size: 2.7rem;
+        font-weight: 400;
+        line-height: 1.2125;
+        color: rgba(0, 0, 0, 0.5299999714);
+        font-family: Inter, 'Source Sans Pro';
+        white-space: nowrap;
+      }
+    }
+    .auto-group-ajgq-adw {
+      background-position: center;
+      width: calc(100% - 0.3rem);
+      height: 27rem;
+      display: flex;
+      align-items: center;
+      background-size: cover;
+      margin: 0rem 0.3rem 0.9rem 0rem;
+      box-sizing: border-box;
+      padding: 1.4rem 0.283rem 1.5rem 0.9rem;
+      background-repeat: no-repeat;
+      background-image: url('REPLACE_IMAGE:1045:6656');
+
+      .purchase-order-summary-H2Z {
+        padding: 0.6rem 0.9rem 0.4rem 0.6rem;
+        border-radius: 2.5rem;
+        flex-shrink: 0;
+        margin-right: 1.2rem;
+        box-sizing: border-box;
+        width: 43.4rem;
+        height: 100%;
+        border: solid 0.1rem #000000;
+        background-color: #ffffff;
+
+        .auto-group-tzms-b3F {
+          display: flex;
+          align-items: center;
+          margin-bottom: 1.4rem;
+          width: 100%;
+          height: 4.3rem;
+
+          .sales-order-summary-8J5 {
+            font-size: 2.5rem;
+            font-weight: 400;
+            line-height: 1.7025;
+            color: rgba(0, 0, 0, 0.7300000191);
+            font-family: Harmattan, 'Source Sans Pro';
+            white-space: nowrap;
+            flex-shrink: 0;
+            margin-right: 10.2rem;
+          }
+          .purchase-order-filter-F7o {
+            margin: 0.6rem 0rem 0.2rem 0rem;
+            width: 12.9rem;
+            height: calc(100% - 0.8rem);
+            cursor: pointer;
+            position: relative;
+            flex-shrink: 0;
+
+            .rectangle-761-MwX {
+              width: 12.9rem;
+              left: 0;
+              top: 0;
+              box-sizing: border-box;
+              background-color: #c7e4ff;
+              border-radius: 1rem;
+              height: 3.1rem;
+              position: absolute;
+              border: solid 0.1rem #000000;
+            }
+            .last-7-days-Gob {
+              position: absolute;
+              font-weight: 400;
+              line-height: 1.7025;
+              font-family: Harmattan, 'Source Sans Pro';
+              height: 3.5rem;
+              left: 1.3rem;
+              top: 0;
+              font-size: 2rem;
+              color: rgba(0, 0, 0, 0.6999999881);
+              white-space: nowrap;
+              width: 7.9rem;
+            }
+            .polygon-7-BQm {
+              height: 1.2rem;
+              position: absolute;
+              left: 10.3rem;
+              top: 1rem;
+              object-fit: contain;
+              vertical-align: top;
+              width: 1.9rem;
+            }
+          }
+        }
+        .auto-group-llg9-61w {
+          margin: 0rem 21.2rem 0.6rem 2.7rem;
+          width: calc(100% - 23.9rem);
+          height: 12.5rem;
+          display: flex;
+          align-items: center;
+
+          .auto-group-ye1w-w2Z {
+            flex-direction: column;
+            flex-shrink: 0;
+            margin: 0.8rem 4.7rem 0.6rem 0rem;
+            height: calc(100% - 1.4rem);
+            row-gap: 1.5rem;
+            display: flex;
+
+            .total-orders-Fow {
+              line-height: 1.7348632812;
+              color: #000000;
+              font-family: Hannari, 'Source Sans Pro';
+              white-space: nowrap;
+              flex-shrink: 0;
+              margin-left: 0.3rem;
+              font-size: 1.5rem;
+              font-weight: 400;
+            }
+            .delivered-orders-b77 {
+              flex-shrink: 0;
+              margin-left: 0.3rem;
+              font-size: 1.5rem;
+              font-weight: 400;
+              line-height: 1.7348632812;
+              color: #000000;
+              font-family: Hannari, 'Source Sans Pro';
+              white-space: nowrap;
+            }
+            .pending-orders-utV {
+              flex-shrink: 0;
+              font-size: 1.5rem;
+              font-weight: 400;
+              line-height: 1.7348632812;
+              color: #000000;
+              font-family: Hannari, 'Source Sans Pro';
+              white-space: nowrap;
+            }
+          }
+          .auto-group-gaky-rYq {
+            position: relative;
+            flex-shrink: 0;
+            width: 2.2rem;
+            height: 100%;
+
+            .item-20-zuw {
+              left: 0;
+              font-size: 2.5rem;
+              font-weight: 400;
+              line-height: 1.7025;
+              font-family: Harmattan, 'Source Sans Pro';
+              width: 2.2rem;
+              height: 4.3rem;
+              color: #000000;
+              white-space: nowrap;
+              position: absolute;
+              top: 0;
+            }
+            .item-10-7jf {
+              height: 4.3rem;
+              left: 0;
+              font-size: 2.5rem;
+              font-weight: 400;
+              line-height: 1.7025;
+              color: #000000;
+              width: 2.2rem;
+              top: 8.2rem;
+              font-family: Harmattan, 'Source Sans Pro';
+              white-space: nowrap;
+              position: absolute;
+            }
+            .item-10-dT7 {
+              font-size: 2.5rem;
+              line-height: 1.7025;
+              white-space: nowrap;
+              font-family: Harmattan, 'Source Sans Pro';
+              width: 2.2rem;
+              height: 4.3rem;
+              position: absolute;
+              left: 0;
+              top: 4.2rem;
+              font-weight: 400;
+              color: #000000;
+            }
+          }
+        }
+        .auto-group-g2ob-wTo {
+          margin: 0rem 21.2rem 0rem 2.7rem;
+          width: calc(100% - 23.9rem);
+          display: flex;
+          align-items: flex-start;
+
+          .returned-orders-54D {
+            margin: 0.3rem 5.1rem 0rem 0rem;
+            font-size: 1.5rem;
+            font-weight: 400;
+            line-height: 1.7348632812;
+            color: #000000;
+            font-family: Hannari, 'Source Sans Pro';
+            white-space: nowrap;
+            flex-shrink: 0;
+          }
+          .item-10-zgy {
+            white-space: nowrap;
+            flex-shrink: 0;
+            font-size: 2.5rem;
+            font-weight: 400;
+            line-height: 1.7025;
+            color: #000000;
+            font-family: Harmattan, 'Source Sans Pro';
+          }
+        }
+      }
+      .basic-reports-uJ9 {
+        width: 45.1172rem;
+        height: 100%;
+        position: relative;
+        flex-shrink: 0;
+
+        .rectangle-722-DJq {
+          top: 0;
+          width: 44.5rem;
+          position: absolute;
+          border: solid 0.1rem #000000;
+          box-sizing: border-box;
+          background-color: #fffdfd;
+          border-radius: 2.5rem;
+          height: 24.1rem;
+          left: 0;
+        }
+        .visits-j2H {
+          width: 4.9rem;
+          position: absolute;
+          font-size: 2.5rem;
+          line-height: 1.7025;
+          color: rgba(0, 0, 0, 0.7300000191);
+          white-space: nowrap;
+          height: 4.3rem;
+          left: 5rem;
+          top: 0.9rem;
+          font-weight: 400;
+          font-family: Harmattan, 'Source Sans Pro';
+        }
+        .cities-ddT {
+          font-size: 2.5rem;
+          font-weight: 400;
+          line-height: 1.7025;
+          color: rgba(0, 0, 0, 0.7300000191);
+          width: 5rem;
+          height: 4.3rem;
+          position: absolute;
+          left: 17.9rem;
+          font-family: Harmattan, 'Source Sans Pro';
+          white-space: nowrap;
+          cursor: pointer;
+          top: 0.9rem;
+        }
+        .searches-YVX {
+          cursor: pointer;
+          top: 0.9rem;
+          font-weight: 400;
+          font-family: Harmattan, 'Source Sans Pro';
+          color: rgba(0, 0, 0, 0.7300000191);
+          white-space: nowrap;
+          width: 7.9rem;
+          height: 4.3rem;
+          position: absolute;
+          left: 30.9rem;
+          font-size: 2.5rem;
+          line-height: 1.7025;
+        }
+        .total-visits-T6h {
+          top: 7rem;
+          color: #000000;
+          font-family: Hannari, 'Source Sans Pro';
+          font-size: 1.5rem;
+          font-weight: 400;
+          line-height: 1.7348632812;
+          white-space: nowrap;
+          width: 7rem;
+          height: 2.7rem;
+          position: absolute;
+          left: 3.6rem;
+        }
+        .product-visits-ZfX {
+          color: #000000;
+          font-family: Hannari, 'Source Sans Pro';
+          height: 2.7rem;
+          line-height: 1.7348632812;
+          left: 3.6rem;
+          top: 11rem;
+          font-size: 1.5rem;
+          font-weight: 400;
+          white-space: nowrap;
+          width: 8.6rem;
+          position: absolute;
+        }
+        .non-product-visits-tC1 {
+          left: 3.6rem;
+          top: 15rem;
+          font-size: 1.5rem;
+          color: #000000;
+          width: 11.7rem;
+          height: 2.7rem;
+          line-height: 1.7348632812;
+          font-family: Hannari, 'Source Sans Pro';
+          white-space: nowrap;
+          position: absolute;
+          font-weight: 400;
+        }
+        .returned-visits-bcD {
+          width: 9.4rem;
+          top: 19rem;
+          font-size: 1.5rem;
+          color: #000000;
+          font-family: Hannari, 'Source Sans Pro';
+          white-space: nowrap;
+          height: 2.7rem;
+          position: absolute;
+          left: 3.6rem;
+          font-weight: 400;
+          line-height: 1.7348632812;
+        }
+        .item-25000-YA5 {
+          font-size: 2.5rem;
+          color: #000000;
+          white-space: nowrap;
+          top: 6.2rem;
+          font-weight: 400;
+          line-height: 1.7025;
+          font-family: Harmattan, 'Source Sans Pro';
+          width: 6.1rem;
+          height: 4.3rem;
+          position: absolute;
+          left: 19.1rem;
+        }
+        .item-5000-b8M {
+          width: 5rem;
+          height: 4.3rem;
+          position: absolute;
+          font-family: Harmattan, 'Source Sans Pro';
+          left: 19.1rem;
+          top: 14.2rem;
+          font-size: 2.5rem;
+          font-weight: 400;
+          line-height: 1.7025;
+          color: #000000;
+          white-space: nowrap;
+        }
+        .item-10000-r4H {
+          height: 4.3rem;
+          position: absolute;
+          left: 19.1rem;
+          top: 18.2rem;
+          font-size: 2.5rem;
+          line-height: 1.7025;
+          width: 6.1rem;
+          font-weight: 400;
+          color: #000000;
+          font-family: Harmattan, 'Source Sans Pro';
+          white-space: nowrap;
+        }
+        .item-10000-Lk9 {
+          color: #000000;
+          font-family: Harmattan, 'Source Sans Pro';
+          height: 4.3rem;
+          left: 19.1rem;
+          top: 10.2rem;
+          line-height: 1.7025;
+          white-space: nowrap;
+          width: 6.1rem;
+          position: absolute;
+          font-size: 2.5rem;
+          font-weight: 400;
+        }
+        .line-289-ekq {
+          background-color: rgba(0, 0, 0, 0.6499999762);
+          width: 44.6rem;
+          height: 0.1rem;
+          position: absolute;
+          left: 0;
+          top: 4.5255rem;
+        }
+        .line-290-nc9 {
+          width: 5.9rem;
+          height: 0.3rem;
+          position: absolute;
+          left: 4.6rem;
+          top: 4.5rem;
+          background-color: rgba(12, 37, 255, 0.7200000286);
+        }
+        .line-291-Kc5 {
+          width: 0.1rem;
+          height: 0.1rem;
+          position: absolute;
+          left: 30.5rem;
+          top: 7.6rem;
+          background-color: #000000;
+        }
+        .line-292-euF {
+          position: absolute;
+          left: 30.6rem;
+          top: 19.4rem;
+          background-color: #000000;
+          width: 12.5rem;
+          height: 0.1rem;
+        }
+        .line-293-Prq {
+          height: 0.1rem;
+          position: absolute;
+          left: 30.6rem;
+          top: 18.1rem;
+          background-color: rgba(0, 0, 0, 0.2599999905);
+          width: 12.5rem;
+        }
+        .line-298-jQu {
+          width: 12.5rem;
+          height: 0.1rem;
+          position: absolute;
+          left: 30.6rem;
+          top: 13.1rem;
+          background-color: rgba(0, 0, 0, 0.2599999905);
+        }
+        .line-294-U7b {
+          position: absolute;
+          left: 30.6rem;
+          top: 16.8rem;
+          background-color: rgba(0, 0, 0, 0.2599999905);
+          width: 12.5rem;
+          height: 0.1rem;
+        }
+        .line-299-CJV {
+          width: 12.5rem;
+          height: 0.1rem;
+          position: absolute;
+          left: 30.5rem;
+          top: 10.6rem;
+          background-color: rgba(0, 0, 0, 0.2599999905);
+        }
+        .line-295-wG5 {
+          width: 12.5rem;
+          height: 0.1rem;
+          position: absolute;
+          left: 30.6rem;
+          top: 15.6rem;
+          background-color: rgba(0, 0, 0, 0.2599999905);
+        }
+        .line-300-UG1 {
+          left: 30.5rem;
+          top: 9.4rem;
+          background-color: rgba(0, 0, 0, 0.2599999905);
+          width: 12.5rem;
+          height: 0.1rem;
+          position: absolute;
+        }
+        .line-296-DDb {
+          position: absolute;
+          left: 30.6rem;
+          top: 14.5rem;
+          background-color: rgba(0, 0, 0, 0.2599999905);
+          width: 12.5rem;
+          height: 0.1rem;
+        }
+        .line-301-wvH {
+          width: 12.5rem;
+          height: 0.1rem;
+          position: absolute;
+          left: 30.5rem;
+          top: 8.3rem;
+          background-color: rgba(0, 0, 0, 0.2599999905);
+        }
+        .line-297-VB7 {
+          height: 0.1rem;
+          position: absolute;
+          left: 30.5rem;
+          top: 12rem;
+          background-color: rgba(0, 0, 0, 0.2599999905);
+          width: 12.5rem;
+        }
+        .arrow-3-RqT {
+          width: 0;
+          height: 0.3rem;
+          position: absolute;
+          left: 30.55rem;
+          top: 7.3rem;
+          object-fit: contain;
+          vertical-align: top;
+        }
+        .arrow-4-x4h {
+          width: 0.7rem;
+          height: 0;
+          position: absolute;
+          left: 43.1rem;
+          top: 19.45rem;
+          object-fit: contain;
+          vertical-align: top;
+        }
+        .line-302-UYq {
+          position: absolute;
+          left: 28.5297rem;
+          top: 5.8503rem;
+          object-fit: contain;
+          vertical-align: top;
+          border-radius: 0.2rem;
+          width: 16.5875rem;
+          height: 15.784rem;
+        }
+      }
+    }
+    .myonlinestoreorderpurchase-mnq {
+      margin-left: 0.3rem;
+      width: 90.9rem;
+      align-items: center;
+      display: flex;
+      flex-direction: column;
+
+      .auto-group-8cuw-hgV {
+        background-color: #cad0f4;
+        margin-bottom: 2.2rem;
+        box-sizing: border-box;
+        width: 100%;
+        display: flex;
+        border: solid 0.1rem #000000;
+        padding: 1.6rem 1.3rem 1.8rem 0.9rem;
+        flex-direction: column;
+        border-radius: 2rem;
+        flex-shrink: 0;
+
+        .auto-group-a7gd-Deq {
+          margin: 0rem 9.5rem 1.3rem 2rem;
+          width: calc(100% - 11.5rem);
+          height: 3.6rem;
+          display: flex;
+          align-items: center;
+          flex-shrink: 0;
+
+          .orders-jt5 {
+            white-space: nowrap;
+            flex-shrink: 0;
+            margin: 0rem 54.1rem 0.4rem 0rem;
+            font-size: 2.2rem;
+            font-weight: 400;
+            line-height: 1.2575;
+            color: #000000;
+            font-family: Hannari, 'Source Sans Pro';
+          }
+          .purchase-order-filter-sDb {
+            cursor: pointer;
+            position: relative;
+            flex-shrink: 0;
+            width: 16.9rem;
+            height: 100%;
+
+            .rectangle-761-QUR {
+              border-radius: 1rem;
+              height: 3.2823rem;
+              top: 0;
+              left: 0;
+              border: solid 0.1rem #000000;
+              box-sizing: border-box;
+              background-color: #c7e4ff;
+              width: 16.9rem;
+              position: absolute;
+            }
+            .last-7-days-XJ9 {
+              width: 7.9rem;
+              height: 3.5rem;
+              left: 1.7031rem;
+              top: 0;
+              font-size: 2rem;
+              line-height: 1.7025;
+              position: absolute;
+              font-weight: 400;
+              color: rgba(0, 0, 0, 0.6999999881);
+              font-family: Harmattan, 'Source Sans Pro';
+              white-space: nowrap;
+            }
+            .polygon-7-dry {
+              vertical-align: top;
+              width: 2.4891rem;
+              height: 1.2706rem;
+              position: absolute;
+              left: 13.4938rem;
+              top: 1.0589rem;
+              object-fit: contain;
+            }
+          }
+        }
+        .auto-group-7da9-kgh {
+          width: 100%;
+          height: 48.7rem;
+          position: relative;
+          background-color: #ffffff;
+          flex-shrink: 0;
+
+          .frame-85-hM3 {
+            width: 88.6rem;
+            height: 46.4rem;
+            position: absolute;
+            left: 0.1rem;
+            top: 1.1rem;
+            overflow: hidden;
+
+            .purchaselistheader-pgZ {
+              height: 3.3rem;
+              display: flex;
+              align-items: center;
+              margin: 0rem 0rem 0.4rem 1.15rem;
+
+              .frame-114-L97 {
+                margin: 0.1rem 4.05rem 0rem 0rem;
+                display: flex;
+                align-items: center;
+                flex-shrink: 0;
+
+                .rectangle-753-seq {
+                  box-sizing: border-box;
+                  background-color: #ffffff;
+                  flex-shrink: 0;
+                  margin: 0rem 3.5rem 0.1rem 0rem;
+                  width: 1.8rem;
+                  height: 1.8rem;
+                  border: solid 0.1rem #0276ff;
+                }
+                .oid-BvR {
+                  white-space: nowrap;
+                  flex-shrink: 0;
+                  font-size: 1.8rem;
+                  font-weight: 400;
+                  line-height: 1.7386133406;
+                  color: #000000;
+                  font-family: Harmattan, 'Source Sans Pro';
+                }
+              }
+              .customer-vt1 {
+                font-family: Harmattan, 'Source Sans Pro';
+                white-space: nowrap;
+                flex-shrink: 0;
+                margin: 0.1rem 5.1rem 0rem 0rem;
+                font-size: 1.8rem;
+                font-weight: 400;
+                line-height: 1.7386133406;
+                color: #000000;
+              }
+              .frame-114-TN9 {
+                margin: 0.1rem 2.75rem 0rem 0rem;
+                box-sizing: border-box;
+                padding-right: 0.3rem;
+                display: flex;
+                align-items: center;
+                flex-shrink: 0;
+
+                .items-Bow {
+                  margin-right: 0.8rem;
+                  font-size: 1.8rem;
+                  font-weight: 400;
+                  line-height: 1.7386133406;
+                  color: #000000;
+                  font-family: Harmattan, 'Source Sans Pro';
+                  white-space: nowrap;
+                  flex-shrink: 0;
+                }
+                .filter-variant-j4m {
+                  vertical-align: top;
+                  flex-shrink: 0;
+                  margin-bottom: 0.1rem;
+                  width: 1.8rem;
+                  height: 1.05rem;
+                  object-fit: contain;
+                }
+              }
+              .frame-115-rQH {
+                box-sizing: border-box;
+                padding-right: 0.3rem;
+                height: calc(100% - 0.3rem);
+                display: flex;
+                align-items: center;
+                flex-shrink: 0;
+                margin: 0.1rem 2.05rem 0.2rem 0rem;
+
+                .discount-abB {
+                  margin-right: 0.8rem;
+                  font-size: 1.7rem;
+                  font-weight: 400;
+                  line-height: 1.7386133531;
+                  color: #000000;
+                  font-family: Harmattan, 'Source Sans Pro';
+                  white-space: nowrap;
+                  flex-shrink: 0;
+                }
+                .filter-variant-86u {
+                  flex-shrink: 0;
+                  width: 1.8rem;
+                  height: 1.2rem;
+                  object-fit: contain;
+                  vertical-align: top;
+                }
+              }
+              .frame-116-4mF {
+                margin: 0rem 3.6rem 0.1rem 0rem;
+                box-sizing: border-box;
+                padding-right: 0.3rem;
+                display: flex;
+                align-items: center;
+                flex-shrink: 0;
+
+                .total-amt-CcZ {
+                  font-size: 1.8rem;
+                  font-weight: 700;
+                  line-height: 1.7386133406;
+                  color: #000000;
+                  font-family: Harmattan, 'Source Sans Pro';
+                  white-space: nowrap;
+                  flex-shrink: 0;
+                  margin-right: 0.8rem;
+                }
+                .filter-variant-LCy {
+                  vertical-align: top;
+                  flex-shrink: 0;
+                  margin-bottom: 0.1rem;
+                  width: 1.8rem;
+                  height: 1.2rem;
+                  object-fit: contain;
+                }
+              }
+              .frame-117-fm3 {
+                padding-right: 0.3rem;
+                display: flex;
+                align-items: center;
+                flex-shrink: 0;
+                margin: 0rem 3.1rem 0.1rem 0rem;
+                box-sizing: border-box;
+
+                .tracking-id-bub {
+                  font-weight: 400;
+                  line-height: 1.7386133406;
+                  color: #000000;
+                  font-family: Harmattan, 'Source Sans Pro';
+                  white-space: nowrap;
+                  flex-shrink: 0;
+                  margin-right: 0.8rem;
+                  font-size: 1.8rem;
+                }
+                .filter-variant-YK3 {
+                  height: 1.2rem;
+                  object-fit: contain;
+                  vertical-align: top;
+                  flex-shrink: 0;
+                  margin-bottom: 0.1rem;
+                  width: 1.8rem;
+                }
+              }
+              .frame-118-t81 {
+                padding-right: 0.3rem;
+                display: flex;
+                align-items: center;
+                flex-shrink: 0;
+                margin-bottom: 0.1rem;
+                box-sizing: border-box;
+
+                .delivery-status-Rdj {
+                  font-family: Harmattan, 'Source Sans Pro';
+                  white-space: nowrap;
+                  flex-shrink: 0;
+                  margin-right: 0.8rem;
+                  font-size: 1.8rem;
+                  font-weight: 400;
+                  line-height: 1.7386133406;
+                  color: #000000;
+                }
+                .filter-variant-Zjw {
+                  vertical-align: top;
+                  flex-shrink: 0;
+                  margin-bottom: 0.1rem;
+                  width: 1.8rem;
+                  height: 1.2rem;
+                  object-fit: contain;
+                }
+              }
+            }
+            .frame-84-u37 {
+              width: 100%;
+              height: 42.8rem;
+              overflow: hidden;
+              position: relative;
+
+              .group-113-Fcm {
+                position: relative;
+                width: 100%;
+                height: 114.6rem;
+
+                .purchaselist-MA1 {
+                  position: absolute;
+                  left: 0.2rem;
+                  top: 0;
+                  display: flex;
+                  background-color: #d9d9d9;
+                  width: 88.7rem;
+                  height: 4.6rem;
+                  align-items: center;
+                  box-sizing: border-box;
+                  padding: 1.2rem 1.6rem 1.2rem 1.1rem;
+
+                  .rectangle-753-qL5 {
+                    width: 1.8rem;
+                    height: 1.8rem;
+                    border: solid 0.1rem #0276ff;
+                    box-sizing: border-box;
+                    background-color: #ffffff;
+                    flex-shrink: 0;
+                    margin-right: 2.75rem;
+                  }
+                  .item-1651565-kxq {
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 2rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                  }
+                  .abc-supplier-HC5 {
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 6.25rem 0rem 0rem;
+                  }
+                  .item-10-1Ny {
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 4.95rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                  }
+                  .item-100-XcD {
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 8.1rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                  }
+                  .item-250100-ewj {
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.7rem 10.15rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                  }
+                  .item-50100-AQH {
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 6.65rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                  }
+                  .delivered-tLH {
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 5.7rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                  }
+                  .pencil-box-outline-cn5 {
+                    width: 2.2rem;
+                    height: 2.2rem;
+                    object-fit: contain;
+                    vertical-align: top;
+                    flex-shrink: 0;
+                    margin-right: 1.4rem;
+                  }
+                  .printer-pos-check-outline-xL9 {
+                    margin-top: 0.2rem;
+                    width: 1.85rem;
+                    height: 1.8rem;
+                    object-fit: contain;
+                    vertical-align: top;
+                    flex-shrink: 0;
+                  }
+                }
+                .purchaselist-gG9 {
+                  height: 4.6rem;
+                  left: 0.4rem;
+                  top: 4.6rem;
+                  align-items: center;
+                  width: 88.7rem;
+                  padding: 1.3rem 9.5rem 1.5rem 0.9rem;
+                  position: absolute;
+                  display: flex;
+                  background-color: #ffffff;
+                  box-sizing: border-box;
+
+                  .rectangle-753-MNH {
+                    height: 1.8rem;
+                    border: solid 0.1rem #0276ff;
+                    box-sizing: border-box;
+                    background-color: #ffffff;
+                    flex-shrink: 0;
+                    margin-right: 3.8rem;
+                    width: 1.8rem;
+                  }
+                  .item-1651565-t7K {
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.3rem 1.8rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                  }
+                  .abc-supplier-oEH {
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.3rem 5.4rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                  }
+                  .item-10-8XT {
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.3rem 5.9rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                  }
+                  .item-100-fGV {
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.3rem 7.1rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                  }
+                  .item-250100-auF {
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.3rem 10rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                  }
+                  .item-50100-tQ9 {
+                    margin: 0.3rem 10.3rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                  }
+                  .delivered-zxy {
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin-top: 0.3rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                  }
+                }
+                .purchaselist-XCD {
+                  left: 0.4rem;
+                  top: 23rem;
+                  display: flex;
+                  box-sizing: border-box;
+                  padding: 1.4rem 9.45rem 1.4rem 1.1rem;
+                  width: 88.7rem;
+                  height: 4.6rem;
+                  position: absolute;
+                  align-items: center;
+                  background-color: #ffffff;
+
+                  .rectangle-753-C3T {
+                    border: solid 0.1rem #0276ff;
+                    box-sizing: border-box;
+                    background-color: #ffffff;
+                    flex-shrink: 0;
+                    margin-right: 3.65rem;
+                    width: 1.8rem;
+                    height: 1.8rem;
+                  }
+                  .item-1651565-iXb {
+                    flex-shrink: 0;
+                    margin: 0.1rem 1.8rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                  }
+                  .abc-supplier-Ekq {
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 5.4rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                  }
+                  .item-10-mVs {
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 5.9rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                  }
+                  .item-100-gsj {
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 7.1rem 0rem 0rem;
+                    font-size: 1.2rem;
+                  }
+                  .item-250100-1QD {
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 10.1rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                  }
+                  .item-50100-Kvh {
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 10.2rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                  }
+                  .delivered-TGD {
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin-top: 0.1rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                  }
+                }
+                .purchaselist-Bxu {
+                  box-sizing: border-box;
+                  padding: 1.4rem 9.45rem 1.4rem 0.9rem;
+                  position: absolute;
+                  display: flex;
+                  width: 88.7rem;
+                  height: 4.6rem;
+                  left: 0.4rem;
+                  top: 13.8rem;
+                  align-items: center;
+                  background-color: #ffffff;
+
+                  .rectangle-753-5Hb {
+                    width: 1.8rem;
+                    height: 1.8rem;
+                    border: solid 0.1rem #0276ff;
+                    box-sizing: border-box;
+                    background-color: #ffffff;
+                    flex-shrink: 0;
+                    margin-right: 3.75rem;
+                  }
+                  .item-1651565-Ct1 {
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 1.9rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                  }
+                  .abc-supplier-j7F {
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 5.4rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                  }
+                  .item-10-FrH {
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 5.9rem 0rem 0rem;
+                  }
+                  .item-100-nLR {
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 7.1rem 0rem 0rem;
+                    font-size: 1.2rem;
+                  }
+                  .item-250100-K5T {
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 10rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                  }
+                  .item-50100-SQy {
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 10.3rem 0rem 0rem;
+                  }
+                  .delivered-mCM {
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin-top: 0.1rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                  }
+                }
+                .purchaselist-u3f {
+                  align-items: center;
+                  box-sizing: border-box;
+                  left: 0.4rem;
+                  display: flex;
+                  position: absolute;
+                  top: 32.2rem;
+                  background-color: #ffffff;
+                  padding: 1.4rem 9.45rem 1.4rem 1.1rem;
+                  width: 88.7rem;
+                  height: 4.6rem;
+
+                  .rectangle-753-ndF {
+                    flex-shrink: 0;
+                    margin-right: 3.55rem;
+                    width: 1.8rem;
+                    height: 1.8rem;
+                    border: solid 0.1rem #0276ff;
+                    box-sizing: border-box;
+                    background-color: #ffffff;
+                  }
+                  .item-1651565-uxm {
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 1.9rem 0rem 0rem;
+                  }
+                  .abc-supplier-q5j {
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 5.4rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                  }
+                  .item-10-MJy {
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 5.9rem 0rem 0rem;
+                  }
+                  .item-100-gMF {
+                    flex-shrink: 0;
+                    margin: 0.1rem 7.1rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                  }
+                  .item-250100-bz1 {
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 10rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                  }
+                  .item-50100-Kf7 {
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 10.3rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                  }
+                  .delivered-FHs {
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin-top: 0.1rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                  }
+                }
+                .purchaselist-yjf {
+                  height: 4.6rem;
+                  position: absolute;
+                  top: 9.2rem;
+                  display: flex;
+                  align-items: center;
+                  padding: 1.4rem 9.25rem 1.4rem 1.1rem;
+                  width: 88.7rem;
+                  background-color: #ffffff;
+                  box-sizing: border-box;
+                  left: 0.2rem;
+
+                  .rectangle-753-eqo {
+                    border: solid 0.1rem #0276ff;
+                    box-sizing: border-box;
+                    background-color: #ffffff;
+                    flex-shrink: 0;
+                    margin-right: 3.65rem;
+                    width: 1.8rem;
+                    height: 1.8rem;
+                  }
+                  .item-1651565-nh7 {
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 1.8rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                  }
+                  .abc-supplier-KBF {
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 5.5rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                  }
+                  .item-10-3d3 {
+                    margin: 0.1rem 5.8rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                  }
+                  .item-100-BUM {
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 7.2rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                  }
+                  .item-250100-WmX {
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 10.1rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                  }
+                  .item-50100-SQH {
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 10.3rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                  }
+                  .delivered-MXF {
+                    margin-top: 0.1rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                  }
+                }
+                .purchaselist-gpR {
+                  padding: 1.4rem 9.25rem 1.4rem 1.15rem;
+                  position: absolute;
+                  top: 27.6rem;
+                  align-items: center;
+                  background-color: #ffffff;
+                  box-sizing: border-box;
+                  width: 88.7rem;
+                  height: 4.6rem;
+                  left: 0.2rem;
+                  display: flex;
+
+                  .rectangle-753-n6m {
+                    margin-right: 3.8rem;
+                    width: 1.8rem;
+                    height: 1.8rem;
+                    border: solid 0.1rem #0276ff;
+                    box-sizing: border-box;
+                    background-color: #ffffff;
+                    flex-shrink: 0;
+                  }
+                  .item-1651565-K6h {
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 1.9rem 0rem 0rem;
+                    font-size: 1.2rem;
+                  }
+                  .abc-supplier-EjT {
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 5.4rem 0rem 0rem;
+                  }
+                  .item-10-a2d {
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 5.8rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                  }
+                  .item-100-JUR {
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 7.1rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                  }
+                  .item-250100-E7B {
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 10rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                  }
+                  .item-50100-YtZ {
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 10.3rem 0rem 0rem;
+                    font-size: 1.2rem;
+                  }
+                  .delivered-gE5 {
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin-top: 0.1rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                  }
+                }
+                .purchaselist-c7j {
+                  box-sizing: border-box;
+                  padding: 1.4rem 9.25rem 1.4rem 1.1rem;
+                  position: absolute;
+                  left: 0.2rem;
+                  top: 18.4rem;
+                  width: 88.7rem;
+                  height: 4.6rem;
+                  display: flex;
+                  align-items: center;
+                  background-color: #ffffff;
+
+                  .rectangle-753-JFT {
+                    width: 1.8rem;
+                    height: 1.8rem;
+                    border: solid 0.1rem #0276ff;
+                    box-sizing: border-box;
+                    background-color: #ffffff;
+                    flex-shrink: 0;
+                    margin-right: 3.65rem;
+                  }
+                  .item-1651565-2SM {
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 1.8rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                  }
+                  .abc-supplier-YvV {
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 5.5rem 0rem 0rem;
+                  }
+                  .item-10-gG1 {
+                    margin: 0.1rem 5.8rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                  }
+                  .item-100-DFw {
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 7.2rem 0rem 0rem;
+                    font-size: 1.2rem;
+                  }
+                  .item-250100-YZ7 {
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 10.1rem 0rem 0rem;
+                  }
+                  .item-50100-USm {
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 10.3rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                  }
+                  .delivered-QLR {
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin-top: 0.1rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                  }
+                }
+                .auto-group-8j4d-j7o {
+                  width: 88.9rem;
+                  height: 9rem;
+                  position: absolute;
+                  left: 0.2rem;
+                  top: 36.8rem;
+
+                  .purchaselist-4Qy {
+                    box-sizing: border-box;
+                    position: absolute;
+                    top: 0;
+                    display: flex;
+                    background-color: #ffffff;
+                    padding: 1.4rem 9.25rem 1.4rem 1.1rem;
+                    width: 88.7rem;
+                    height: 4.6rem;
+                    left: 0;
+                    align-items: center;
+
+                    .rectangle-753-9xD {
+                      margin-right: 3.65rem;
+                      width: 1.8rem;
+                      height: 1.8rem;
+                      border: solid 0.1rem #0276ff;
+                      box-sizing: border-box;
+                      background-color: #ffffff;
+                      flex-shrink: 0;
+                    }
+                    .item-1651565-HHj {
+                      font-weight: 400;
+                      line-height: 1.2125;
+                      color: #000000;
+                      font-family: Inter, 'Source Sans Pro';
+                      white-space: nowrap;
+                      flex-shrink: 0;
+                      margin: 0.1rem 1.8rem 0rem 0rem;
+                      font-size: 1.2rem;
+                    }
+                    .abc-supplier-p2m {
+                      font-family: Inter, 'Source Sans Pro';
+                      white-space: nowrap;
+                      flex-shrink: 0;
+                      margin: 0.1rem 5.5rem 0rem 0rem;
+                      font-size: 1.2rem;
+                      font-weight: 400;
+                      line-height: 1.2125;
+                      color: #000000;
+                    }
+                    .item-10-9Kw {
+                      color: #000000;
+                      font-family: Inter, 'Source Sans Pro';
+                      white-space: nowrap;
+                      flex-shrink: 0;
+                      margin: 0.1rem 5.8rem 0rem 0rem;
+                      font-size: 1.2rem;
+                      font-weight: 400;
+                      line-height: 1.2125;
+                    }
+                    .item-100-smj {
+                      white-space: nowrap;
+                      flex-shrink: 0;
+                      margin: 0.1rem 7.2rem 0rem 0rem;
+                      font-size: 1.2rem;
+                      font-weight: 400;
+                      line-height: 1.2125;
+                      color: #000000;
+                      font-family: Inter, 'Source Sans Pro';
+                    }
+                    .item-250100-cDX {
+                      font-size: 1.2rem;
+                      font-weight: 400;
+                      line-height: 1.2125;
+                      color: #000000;
+                      font-family: Inter, 'Source Sans Pro';
+                      white-space: nowrap;
+                      flex-shrink: 0;
+                      margin: 0.1rem 10.1rem 0rem 0rem;
+                    }
+                    .item-50100-LQR {
+                      margin: 0.1rem 10.3rem 0rem 0rem;
+                      font-size: 1.2rem;
+                      font-weight: 400;
+                      line-height: 1.2125;
+                      color: #000000;
+                      font-family: Inter, 'Source Sans Pro';
+                      white-space: nowrap;
+                      flex-shrink: 0;
+                    }
+                    .delivered-FnH {
+                      color: #000000;
+                      font-family: Inter, 'Source Sans Pro';
+                      white-space: nowrap;
+                      flex-shrink: 0;
+                      margin-top: 0.1rem;
+                      font-size: 1.2rem;
+                      font-weight: 400;
+                      line-height: 1.2125;
+                    }
+                  }
+                  .purchaselist-zE5 {
+                    box-sizing: border-box;
+                    height: 4.6rem;
+                    position: absolute;
+                    align-items: center;
+                    padding: 1.4rem 9.45rem 1.4rem 1.1rem;
+                    width: 88.7rem;
+                    left: 0.2rem;
+                    top: 4.4rem;
+                    display: flex;
+                    background-color: #ffffff;
+
+                    .rectangle-753-GxH {
+                      flex-shrink: 0;
+                      margin-right: 3.55rem;
+                      width: 1.8rem;
+                      height: 1.8rem;
+                      border: solid 0.1rem #0276ff;
+                      box-sizing: border-box;
+                      background-color: #ffffff;
+                    }
+                    .item-1651565-1ey {
+                      margin: 0.1rem 1.9rem 0rem 0rem;
+                      font-size: 1.2rem;
+                      font-weight: 400;
+                      line-height: 1.2125;
+                      color: #000000;
+                      font-family: Inter, 'Source Sans Pro';
+                      white-space: nowrap;
+                      flex-shrink: 0;
+                    }
+                    .abc-supplier-jay {
+                      white-space: nowrap;
+                      flex-shrink: 0;
+                      margin: 0.1rem 5.4rem 0rem 0rem;
+                      font-size: 1.2rem;
+                      font-weight: 400;
+                      line-height: 1.2125;
+                      color: #000000;
+                      font-family: Inter, 'Source Sans Pro';
+                    }
+                    .item-10-fDj {
+                      color: #000000;
+                      font-family: Inter, 'Source Sans Pro';
+                      white-space: nowrap;
+                      flex-shrink: 0;
+                      margin: 0.1rem 5.9rem 0rem 0rem;
+                      font-size: 1.2rem;
+                      font-weight: 400;
+                      line-height: 1.2125;
+                    }
+                    .item-100-CDf {
+                      line-height: 1.2125;
+                      color: #000000;
+                      font-family: Inter, 'Source Sans Pro';
+                      white-space: nowrap;
+                      flex-shrink: 0;
+                      margin: 0.1rem 7.1rem 0rem 0rem;
+                      font-size: 1.2rem;
+                      font-weight: 400;
+                    }
+                    .item-250100-utm {
+                      font-weight: 400;
+                      line-height: 1.2125;
+                      color: #000000;
+                      font-family: Inter, 'Source Sans Pro';
+                      white-space: nowrap;
+                      flex-shrink: 0;
+                      margin: 0.1rem 10rem 0rem 0rem;
+                      font-size: 1.2rem;
+                    }
+                    .item-50100-qGd {
+                      margin: 0.1rem 10.3rem 0rem 0rem;
+                      font-size: 1.2rem;
+                      font-weight: 400;
+                      line-height: 1.2125;
+                      color: #000000;
+                      font-family: Inter, 'Source Sans Pro';
+                      white-space: nowrap;
+                      flex-shrink: 0;
+                    }
+                    .delivered-ZTX {
+                      color: #000000;
+                      font-family: Inter, 'Source Sans Pro';
+                      white-space: nowrap;
+                      flex-shrink: 0;
+                      margin-top: 0.1rem;
+                      font-size: 1.2rem;
+                      font-weight: 400;
+                      line-height: 1.2125;
+                    }
+                  }
+                }
+                .purchaselist-6CZ {
+                  box-sizing: border-box;
+                  padding: 1.4rem 12.6rem 1.4rem 1.1rem;
+                  width: 88.7rem;
+                  background-color: #ffffff;
+                  display: flex;
+                  align-items: center;
+                  height: 4.6rem;
+                  position: absolute;
+                  left: 0.4rem;
+                  top: 50.4rem;
+
+                  .rectangle-753-BUu {
+                    margin-right: 3.6rem;
+                    width: 1.8rem;
+                    height: 1.8rem;
+                    border: solid 0.1rem #0276ff;
+                    box-sizing: border-box;
+                    background-color: #ffffff;
+                    flex-shrink: 0;
+                  }
+                  .item-1651565-uvh {
+                    flex-shrink: 0;
+                    margin: 0.1rem 1.5rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                  }
+                  .abc-supplier-SQq {
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 4.8rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                  }
+                  .item-10-y9s {
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 5.5rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                  }
+                  .item-100-JT3 {
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 6.7rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                  }
+                  .item-250100-Ebb {
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 9.3rem 0rem 0rem;
+                    font-size: 1.2rem;
+                  }
+                  .item-50100-Z85 {
+                    margin: 0.1rem 9.6rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                  }
+                  .delivered-gTb {
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin-top: 0.1rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                  }
+                }
+                .purchaselist-pZo {
+                  width: 88.7rem;
+                  height: 4.6rem;
+                  left: 0.2rem;
+                  align-items: center;
+                  background-color: #ffffff;
+                  box-sizing: border-box;
+                  padding: 1.4rem 9.25rem 1.4rem 1.1rem;
+                  position: absolute;
+                  top: 45.8rem;
+                  display: flex;
+
+                  .rectangle-753-JE5 {
+                    margin-right: 3.65rem;
+                    width: 1.8rem;
+                    height: 1.8rem;
+                    border: solid 0.1rem #0276ff;
+                    box-sizing: border-box;
+                    background-color: #ffffff;
+                    flex-shrink: 0;
+                  }
+                  .item-1651565-E7j {
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 1.8rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                  }
+                  .abc-supplier-9kV {
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 5.5rem 0rem 0rem;
+                    font-size: 1.2rem;
+                  }
+                  .item-10-V3f {
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 5.8rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                  }
+                  .item-100-1nh {
+                    flex-shrink: 0;
+                    margin: 0.1rem 7.2rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                  }
+                  .item-250100-M5s {
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 10.1rem 0rem 0rem;
+                  }
+                  .item-50100-GTj {
+                    flex-shrink: 0;
+                    margin: 0.1rem 10.3rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                  }
+                  .delivered-nws {
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin-top: 0.1rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                  }
+                }
+                .purchaselist-Kgu {
+                  position: absolute;
+                  left: 0.2rem;
+                  top: 55rem;
+                  display: flex;
+                  background-color: #ffffff;
+                  box-sizing: border-box;
+                  padding: 1.4rem 12.6rem 1.4rem 1.1rem;
+                  height: 4.6rem;
+                  width: 88.7rem;
+                  align-items: center;
+
+                  .rectangle-753-oMB {
+                    margin-right: 3.6rem;
+                    width: 1.8rem;
+                    height: 1.8rem;
+                    border: solid 0.1rem #0276ff;
+                    box-sizing: border-box;
+                    background-color: #ffffff;
+                    flex-shrink: 0;
+                  }
+                  .item-1651565-wCV {
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 1.5rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                  }
+                  .abc-supplier-TRj {
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 4.8rem 0rem 0rem;
+                    font-size: 1.2rem;
+                  }
+                  .item-10-BsX {
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 5.5rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                  }
+                  .item-100-icZ {
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 6.7rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                  }
+                  .item-250100-3uj {
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 9.3rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                  }
+                  .item-50100-aPs {
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 9.6rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                  }
+                  .delivered-hUV {
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin-top: 0.1rem;
+                    font-size: 1.2rem;
+                  }
+                }
+                .purchaselist-2mf {
+                  padding: 1.4rem 12.6rem 1.4rem 1.1rem;
+                  width: 88.7rem;
+                  position: absolute;
+                  align-items: center;
+                  background-color: #ffffff;
+                  box-sizing: border-box;
+                  height: 4.6rem;
+                  left: 0.2rem;
+                  top: 59.6rem;
+                  display: flex;
+
+                  .rectangle-753-Kkm {
+                    box-sizing: border-box;
+                    background-color: #ffffff;
+                    flex-shrink: 0;
+                    margin-right: 3.6rem;
+                    width: 1.8rem;
+                    height: 1.8rem;
+                    border: solid 0.1rem #0276ff;
+                  }
+                  .item-1651565-dWZ {
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 1.5rem 0rem 0rem;
+                  }
+                  .abc-supplier-x33 {
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 4.8rem 0rem 0rem;
+                    font-size: 1.2rem;
+                  }
+                  .item-10-GpR {
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 5.5rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                  }
+                  .item-100-o3f {
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 6.7rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                  }
+                  .item-250100-vPB {
+                    margin: 0.1rem 9.3rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                  }
+                  .item-50100-ScR {
+                    flex-shrink: 0;
+                    margin: 0.1rem 9.6rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                  }
+                  .delivered-ZS9 {
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin-top: 0.1rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                  }
+                }
+                .purchaselist-Vah {
+                  height: 4.6rem;
+                  position: absolute;
+                  top: 78rem;
+                  display: flex;
+                  width: 88.7rem;
+                  padding: 1.4rem 12.6rem 1.4rem 1.1rem;
+                  left: 0.2rem;
+                  align-items: center;
+                  background-color: #ffffff;
+                  box-sizing: border-box;
+
+                  .rectangle-753-yVs {
+                    box-sizing: border-box;
+                    background-color: #ffffff;
+                    flex-shrink: 0;
+                    margin-right: 3.6rem;
+                    width: 1.8rem;
+                    height: 1.8rem;
+                    border: solid 0.1rem #0276ff;
+                  }
+                  .item-1651565-JY9 {
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 1.5rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                  }
+                  .abc-supplier-Dv1 {
+                    flex-shrink: 0;
+                    margin: 0.1rem 4.8rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                  }
+                  .item-10-YxH {
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 5.5rem 0rem 0rem;
+                  }
+                  .item-100-5BX {
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 6.7rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                  }
+                  .item-250100-CX3 {
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 9.3rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                  }
+                  .item-50100-Kbf {
+                    flex-shrink: 0;
+                    margin: 0.1rem 9.6rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                  }
+                  .delivered-edw {
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin-top: 0.1rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                  }
+                }
+                .purchaselist-nk9 {
+                  padding: 1.4rem 12.6rem 1.4rem 1.1rem;
+                  height: 4.6rem;
+                  left: 0.2rem;
+                  display: flex;
+                  align-items: center;
+                  background-color: #ffffff;
+                  box-sizing: border-box;
+                  width: 88.7rem;
+                  position: absolute;
+                  top: 68.8rem;
+
+                  .rectangle-753-4xZ {
+                    border: solid 0.1rem #0276ff;
+                    box-sizing: border-box;
+                    background-color: #ffffff;
+                    flex-shrink: 0;
+                    margin-right: 3.6rem;
+                    width: 1.8rem;
+                    height: 1.8rem;
+                  }
+                  .item-1651565-aR7 {
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 1.5rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                  }
+                  .abc-supplier-hVj {
+                    flex-shrink: 0;
+                    margin: 0.1rem 4.8rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                  }
+                  .item-10-2H7 {
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 5.5rem 0rem 0rem;
+                    font-size: 1.2rem;
+                  }
+                  .item-100-ZH3 {
+                    flex-shrink: 0;
+                    margin: 0.1rem 6.7rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                  }
+                  .item-250100-625 {
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 9.3rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                  }
+                  .item-50100-R4M {
+                    margin: 0.1rem 9.6rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                  }
+                  .delivered-9FF {
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin-top: 0.1rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                  }
+                }
+                .purchaselist-58u {
+                  display: flex;
+                  padding: 1.4rem 12.6rem 1.4rem 1.1rem;
+                  width: 88.7rem;
+                  height: 4.6rem;
+                  position: absolute;
+                  background-color: #ffffff;
+                  box-sizing: border-box;
+                  left: 0.2rem;
+                  top: 87.2rem;
+                  align-items: center;
+
+                  .rectangle-753-AAM {
+                    box-sizing: border-box;
+                    background-color: #ffffff;
+                    flex-shrink: 0;
+                    margin-right: 3.6rem;
+                    width: 1.8rem;
+                    height: 1.8rem;
+                    border: solid 0.1rem #0276ff;
+                  }
+                  .item-1651565-641 {
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 1.5rem 0rem 0rem;
+                  }
+                  .abc-supplier-zv5 {
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 4.8rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                  }
+                  .item-10-j6y {
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 5.5rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                  }
+                  .item-100-ezd {
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 6.7rem 0rem 0rem;
+                    font-size: 1.2rem;
+                  }
+                  .item-250100-n5F {
+                    margin: 0.1rem 9.3rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                  }
+                  .item-50100-JZP {
+                    margin: 0.1rem 9.6rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                  }
+                  .delivered-KzH {
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin-top: 0.1rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                  }
+                }
+                .purchaselist-rzD {
+                  background-color: #ffffff;
+                  width: 88.7rem;
+                  position: absolute;
+                  left: 0;
+                  display: flex;
+                  align-items: center;
+                  box-sizing: border-box;
+                  padding: 1.4rem 12.6rem 1.4rem 1.1rem;
+                  height: 4.6rem;
+                  top: 64.2rem;
+
+                  .rectangle-753-9TX {
+                    margin-right: 3.6rem;
+                    width: 1.8rem;
+                    height: 1.8rem;
+                    border: solid 0.1rem #0276ff;
+                    box-sizing: border-box;
+                    background-color: #ffffff;
+                    flex-shrink: 0;
+                  }
+                  .item-1651565-72y {
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 1.5rem 0rem 0rem;
+                  }
+                  .abc-supplier-RpM {
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 4.8rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                  }
+                  .item-10-xZP {
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 5.5rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                  }
+                  .item-100-HrZ {
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 6.7rem 0rem 0rem;
+                  }
+                  .item-250100-23T {
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 9.3rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                  }
+                  .item-50100-kEM {
+                    margin: 0.1rem 9.6rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                  }
+                  .delivered-sJy {
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin-top: 0.1rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                  }
+                }
+                .purchaselist-Q41 {
+                  display: flex;
+                  align-items: center;
+                  background-color: #ffffff;
+                  box-sizing: border-box;
+                  padding: 1.4rem 12.6rem 1.4rem 1.1rem;
+                  width: 88.7rem;
+                  height: 4.6rem;
+                  left: 0;
+                  position: absolute;
+                  top: 82.6rem;
+
+                  .rectangle-753-6Bj {
+                    width: 1.8rem;
+                    height: 1.8rem;
+                    border: solid 0.1rem #0276ff;
+                    box-sizing: border-box;
+                    background-color: #ffffff;
+                    flex-shrink: 0;
+                    margin-right: 3.6rem;
+                  }
+                  .item-1651565-DXF {
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 1.5rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                  }
+                  .abc-supplier-9A1 {
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 4.8rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                  }
+                  .item-10-sLu {
+                    flex-shrink: 0;
+                    margin: 0.1rem 5.5rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                  }
+                  .item-100-CPB {
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 6.7rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                  }
+                  .item-250100-vpy {
+                    margin: 0.1rem 9.3rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                  }
+                  .item-50100-rid {
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 9.6rem 0rem 0rem;
+                    font-size: 1.2rem;
+                  }
+                  .delivered-ncH {
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin-top: 0.1rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                  }
+                }
+                .purchaselist-7uT {
+                  box-sizing: border-box;
+                  width: 88.7rem;
+                  position: absolute;
+                  display: flex;
+                  background-color: #ffffff;
+                  padding: 1.4rem 12.6rem 1.4rem 1.1rem;
+                  height: 4.6rem;
+                  left: 0;
+                  top: 73.4rem;
+                  align-items: center;
+
+                  .rectangle-753-8pZ {
+                    flex-shrink: 0;
+                    margin-right: 3.6rem;
+                    width: 1.8rem;
+                    height: 1.8rem;
+                    border: solid 0.1rem #0276ff;
+                    box-sizing: border-box;
+                    background-color: #ffffff;
+                  }
+                  .item-1651565-Trq {
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 1.5rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                  }
+                  .abc-supplier-awT {
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 4.8rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                  }
+                  .item-10-iXs {
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 5.5rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                  }
+                  .item-100-rPB {
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 6.7rem 0rem 0rem;
+                  }
+                  .item-250100-yih {
+                    margin: 0.1rem 9.3rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                  }
+                  .item-50100-HjP {
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 9.6rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                  }
+                  .delivered-cmf {
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin-top: 0.1rem;
+                  }
+                }
+                .auto-group-us7t-xad {
+                  top: 91.8rem;
+                  width: 88.9rem;
+                  height: 9rem;
+                  position: absolute;
+                  left: 0;
+
+                  .purchaselist-6gq {
+                    box-sizing: border-box;
+                    width: 88.7rem;
+                    top: 0;
+                    display: flex;
+                    align-items: center;
+                    padding: 1.4rem 12.6rem 1.4rem 1.1rem;
+                    height: 4.6rem;
+                    position: absolute;
+                    left: 0;
+                    background-color: #ffffff;
+
+                    .rectangle-753-bNh {
+                      margin-right: 3.6rem;
+                      width: 1.8rem;
+                      height: 1.8rem;
+                      border: solid 0.1rem #0276ff;
+                      box-sizing: border-box;
+                      background-color: #ffffff;
+                      flex-shrink: 0;
+                    }
+                    .item-1651565-XXF {
+                      margin: 0.1rem 1.5rem 0rem 0rem;
+                      font-size: 1.2rem;
+                      font-weight: 400;
+                      line-height: 1.2125;
+                      color: #000000;
+                      font-family: Inter, 'Source Sans Pro';
+                      white-space: nowrap;
+                      flex-shrink: 0;
+                    }
+                    .abc-supplier-FTF {
+                      margin: 0.1rem 4.8rem 0rem 0rem;
+                      font-size: 1.2rem;
+                      font-weight: 400;
+                      line-height: 1.2125;
+                      color: #000000;
+                      font-family: Inter, 'Source Sans Pro';
+                      white-space: nowrap;
+                      flex-shrink: 0;
+                    }
+                    .item-10-mwP {
+                      flex-shrink: 0;
+                      margin: 0.1rem 5.5rem 0rem 0rem;
+                      font-size: 1.2rem;
+                      font-weight: 400;
+                      line-height: 1.2125;
+                      color: #000000;
+                      font-family: Inter, 'Source Sans Pro';
+                      white-space: nowrap;
+                    }
+                    .item-100-JgR {
+                      font-size: 1.2rem;
+                      font-weight: 400;
+                      line-height: 1.2125;
+                      color: #000000;
+                      font-family: Inter, 'Source Sans Pro';
+                      white-space: nowrap;
+                      flex-shrink: 0;
+                      margin: 0.1rem 6.7rem 0rem 0rem;
+                    }
+                    .item-250100-2sK {
+                      font-family: Inter, 'Source Sans Pro';
+                      white-space: nowrap;
+                      flex-shrink: 0;
+                      margin: 0.1rem 9.3rem 0rem 0rem;
+                      font-size: 1.2rem;
+                      font-weight: 400;
+                      line-height: 1.2125;
+                      color: #000000;
+                    }
+                    .item-50100-MPo {
+                      font-size: 1.2rem;
+                      font-weight: 400;
+                      line-height: 1.2125;
+                      color: #000000;
+                      font-family: Inter, 'Source Sans Pro';
+                      white-space: nowrap;
+                      flex-shrink: 0;
+                      margin: 0.1rem 9.6rem 0rem 0rem;
+                    }
+                    .delivered-ssw {
+                      flex-shrink: 0;
+                      margin-top: 0.1rem;
+                      font-size: 1.2rem;
+                      font-weight: 400;
+                      line-height: 1.2125;
+                      color: #000000;
+                      font-family: Inter, 'Source Sans Pro';
+                      white-space: nowrap;
+                    }
+                  }
+                  .purchaselist-Qss {
+                    box-sizing: border-box;
+                    left: 0.2rem;
+                    align-items: center;
+                    background-color: #ffffff;
+                    padding: 1.4rem 12.6rem 1.4rem 1.1rem;
+                    width: 88.7rem;
+                    height: 4.6rem;
+                    position: absolute;
+                    top: 4.4rem;
+                    display: flex;
+
+                    .rectangle-753-6Vo {
+                      height: 1.8rem;
+                      border: solid 0.1rem #0276ff;
+                      box-sizing: border-box;
+                      background-color: #ffffff;
+                      flex-shrink: 0;
+                      margin-right: 3.6rem;
+                      width: 1.8rem;
+                    }
+                    .item-1651565-DqK {
+                      white-space: nowrap;
+                      flex-shrink: 0;
+                      margin: 0.1rem 1.5rem 0rem 0rem;
+                      font-size: 1.2rem;
+                      font-weight: 400;
+                      line-height: 1.2125;
+                      color: #000000;
+                      font-family: Inter, 'Source Sans Pro';
+                    }
+                    .abc-supplier-Luw {
+                      line-height: 1.2125;
+                      color: #000000;
+                      font-family: Inter, 'Source Sans Pro';
+                      white-space: nowrap;
+                      flex-shrink: 0;
+                      margin: 0.1rem 4.8rem 0rem 0rem;
+                      font-size: 1.2rem;
+                      font-weight: 400;
+                    }
+                    .item-10-GHo {
+                      flex-shrink: 0;
+                      margin: 0.1rem 5.5rem 0rem 0rem;
+                      font-size: 1.2rem;
+                      font-weight: 400;
+                      line-height: 1.2125;
+                      color: #000000;
+                      font-family: Inter, 'Source Sans Pro';
+                      white-space: nowrap;
+                    }
+                    .item-100-nmw {
+                      font-weight: 400;
+                      line-height: 1.2125;
+                      color: #000000;
+                      font-family: Inter, 'Source Sans Pro';
+                      white-space: nowrap;
+                      flex-shrink: 0;
+                      margin: 0.1rem 6.7rem 0rem 0rem;
+                      font-size: 1.2rem;
+                    }
+                    .item-250100-7pD {
+                      margin: 0.1rem 9.3rem 0rem 0rem;
+                      font-size: 1.2rem;
+                      font-weight: 400;
+                      line-height: 1.2125;
+                      color: #000000;
+                      font-family: Inter, 'Source Sans Pro';
+                      white-space: nowrap;
+                      flex-shrink: 0;
+                    }
+                    .item-50100-e3T {
+                      white-space: nowrap;
+                      flex-shrink: 0;
+                      margin: 0.1rem 9.6rem 0rem 0rem;
+                      font-size: 1.2rem;
+                      font-weight: 400;
+                      line-height: 1.2125;
+                      color: #000000;
+                      font-family: Inter, 'Source Sans Pro';
+                    }
+                    .delivered-ZRK {
+                      font-size: 1.2rem;
+                      font-weight: 400;
+                      line-height: 1.2125;
+                      color: #000000;
+                      font-family: Inter, 'Source Sans Pro';
+                      white-space: nowrap;
+                      flex-shrink: 0;
+                      margin-top: 0.1rem;
+                    }
+                  }
+                }
+                .purchaselist-VZs {
+                  box-sizing: border-box;
+                  height: 4.6rem;
+                  left: 0.2rem;
+                  display: flex;
+                  align-items: center;
+                  background-color: #ffffff;
+                  padding: 1.4rem 12.6rem 1.4rem 1.1rem;
+                  width: 88.7rem;
+                  position: absolute;
+                  top: 105.4rem;
+
+                  .rectangle-753-yE9 {
+                    width: 1.8rem;
+                    height: 1.8rem;
+                    border: solid 0.1rem #0276ff;
+                    box-sizing: border-box;
+                    background-color: #ffffff;
+                    flex-shrink: 0;
+                    margin-right: 3.6rem;
+                  }
+                  .item-1651565-tc1 {
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 1.5rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                  }
+                  .abc-supplier-Cch {
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 4.8rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                  }
+                  .item-10-8WM {
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 5.5rem 0rem 0rem;
+                    font-size: 1.2rem;
+                  }
+                  .item-100-TYd {
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 6.7rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                  }
+                  .item-250100-z2m {
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 9.3rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                  }
+                  .item-50100-uQd {
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 9.6rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                  }
+                  .delivered-ESu {
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin-top: 0.1rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                  }
+                }
+                .purchaselist-Zzy {
+                  box-sizing: border-box;
+                  left: 0;
+                  top: 100.8rem;
+                  background-color: #ffffff;
+                  padding: 1.4rem 12.6rem 1.4rem 1.1rem;
+                  width: 88.7rem;
+                  height: 4.6rem;
+                  position: absolute;
+                  display: flex;
+                  align-items: center;
+
+                  .rectangle-753-TaZ {
+                    width: 1.8rem;
+                    height: 1.8rem;
+                    border: solid 0.1rem #0276ff;
+                    box-sizing: border-box;
+                    background-color: #ffffff;
+                    flex-shrink: 0;
+                    margin-right: 3.6rem;
+                  }
+                  .item-1651565-zKb {
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 1.5rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                  }
+                  .abc-supplier-WYq {
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 4.8rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                  }
+                  .item-10-3Hs {
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 5.5rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                  }
+                  .item-100-AtH {
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 6.7rem 0rem 0rem;
+                    font-size: 1.2rem;
+                  }
+                  .item-250100-hdK {
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 9.3rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                  }
+                  .item-50100-RJR {
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 9.6rem 0rem 0rem;
+                  }
+                  .delivered-Ytq {
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin-top: 0.1rem;
+                  }
+                }
+                .purchaselist-V3P {
+                  align-items: center;
+                  box-sizing: border-box;
+                  padding: 1.4rem 12.6rem 1.4rem 1.1rem;
+                  height: 4.6rem;
+                  position: absolute;
+                  background-color: #ffffff;
+                  width: 88.7rem;
+                  left: 0;
+                  top: 110rem;
+                  display: flex;
+
+                  .rectangle-753-NN5 {
+                    height: 1.8rem;
+                    border: solid 0.1rem #0276ff;
+                    box-sizing: border-box;
+                    background-color: #ffffff;
+                    flex-shrink: 0;
+                    margin-right: 3.6rem;
+                    width: 1.8rem;
+                  }
+                  .item-1651565-u77 {
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 1.5rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                  }
+                  .abc-supplier-1vq {
+                    margin: 0.1rem 4.8rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                  }
+                  .item-10-9XF {
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 5.5rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                  }
+                  .item-100-tDw {
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 6.7rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                  }
+                  .item-250100-c9w {
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 9.3rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                  }
+                  .item-50100-Xnh {
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin: 0.1rem 9.6rem 0rem 0rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                  }
+                  .delivered-ra5 {
+                    line-height: 1.2125;
+                    color: #000000;
+                    font-family: Inter, 'Source Sans Pro';
+                    white-space: nowrap;
+                    flex-shrink: 0;
+                    margin-top: 0.1rem;
+                    font-size: 1.2rem;
+                    font-weight: 400;
+                  }
+                }
+              }
+            }
+          }
+          .line-282-aW5 {
+            left: 0.1rem;
+            top: 4.7rem;
+            background-color: rgba(0, 0, 0, 0.349999994);
+            width: 88.6rem;
+            height: 0.1rem;
+            position: absolute;
+          }
+        }
+      }
+      .products-SoB {
+        width: calc(100% - 0.8rem);
+        background-color: #cad0f4;
+        border-radius: 1.5rem;
+        margin: 0 0.4rem;
+        box-sizing: border-box;
+        padding: 0.7rem 1.8rem 0.7rem 2rem;
+        display: flex;
+        align-items: center;
+        flex-shrink: 0;
+
+        .products-9xV {
+          line-height: 1.2125;
+          color: #000000;
+          font-family: Inter, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          margin-right: 68rem;
+          font-size: 3.1rem;
+          font-weight: 400;
+        }
+        .vector-gxR {
+          vertical-align: top;
+          flex-shrink: 0;
+          margin-bottom: 0.4rem;
+          width: 5.2rem;
+          height: 3rem;
+          cursor: pointer;
+          object-fit: contain;
+        }
+      }
+    }
+  }
+  .auto-group-h7bp-bZb {
+    left: 105.9rem;
+    top: 2.3rem;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    width: 37.1rem;
+    height: 48.6rem;
+    position: absolute;
+
+    .group-34-7Xw {
+      flex-shrink: 0;
+      margin: 0rem 2.4rem 2.2rem 6.7rem;
+      width: calc(100% - 9.1rem);
+      height: 5.7rem;
+      display: flex;
+      align-items: center;
+
+      .auto-group-j9y5-3Ah {
+        flex-direction: column;
+        flex-shrink: 0;
+        height: 100%;
+        align-items: center;
+        display: flex;
+
+        .hello-inspark-Bnh {
+          color: #000000;
+          font-family: Hannari, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          margin-bottom: 0.1rem;
+          font-size: 2.2rem;
+          font-weight: 400;
+          line-height: 1.2575;
+        }
+        .owner-Wpy {
+          white-space: nowrap;
+          flex-shrink: 0;
+          margin-right: 0.7rem;
+          font-size: 2.2rem;
+          font-weight: 400;
+          line-height: 1.2575;
+          color: rgba(0, 0, 0, 0.7900000215);
+          font-family: Hannari, 'Source Sans Pro';
+        }
+      }
+      .auto-group-oezx-FXf {
+        padding-left: 4.2rem;
+        height: 100%;
+        display: flex;
+        align-items: flex-start;
+        flex-shrink: 0;
+        box-sizing: border-box;
+
+        .auto-group-vhub-o3P {
+          box-shadow: 0 0.4rem 0.4rem #98a0da;
+          background-color: #ffffff;
+          border-radius: 2.7rem;
+          flex-shrink: 0;
+          margin: 0rem 0.8rem 0.3rem 0rem;
+          box-sizing: border-box;
+          padding: 1.455rem 1.1rem 1.234rem 1.1rem;
+          border: solid 0.1rem #000000;
+
+          .vector-7Jy {
+            width: 3.2rem;
+            height: 2.7117rem;
+            object-fit: contain;
+            vertical-align: top;
+          }
+        }
+        .notification-DN1 {
+          margin: 0.1rem 0rem 0.2rem 0rem;
+          box-sizing: border-box;
+          border-radius: 2.7rem;
+          border: solid 0.1rem #000000;
+          box-shadow: 0 0.4rem 0.4rem #98a0da;
+          background-color: #ffffff;
+          flex-shrink: 0;
+          padding: 1.559rem 1.2rem 1.025rem 1.2rem;
+          height: calc(100% - 0.3rem);
+          cursor: pointer;
+
+          .vector-X7o {
+            width: 3rem;
+            height: 2.816rem;
+            object-fit: contain;
+            vertical-align: top;
+          }
+        }
+      }
+    }
+    .notifications-24Z {
+      flex-direction: column;
+      border: solid 0.2rem #000000;
+      flex-shrink: 0;
+      box-sizing: border-box;
+      width: 100%;
+      align-items: center;
+      display: flex;
+      background-color: #fbfbfb;
+      border-radius: 2.5rem;
+      padding: 0.431rem 0.5rem 0.232rem 1.8rem;
+
+      .auto-group-f1yb-Xn1 {
+        align-items: center;
+        flex-shrink: 0;
+        margin: 0rem 25.818rem 1.169rem 0.002rem;
+        width: calc(100% - 25.8195rem);
+        display: flex;
+
+        .vector-erd {
+          height: 1.9833rem;
+          object-fit: contain;
+          vertical-align: top;
+          flex-shrink: 0;
+          margin: 0rem 0.955rem 0.082rem 0rem;
+          width: 2.2258rem;
+        }
+        .alerts-Bbf {
+          font-size: 2.4rem;
+          font-weight: 400;
+          line-height: 1.2575;
+          color: #000000;
+          font-family: Hannari, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+        }
+      }
+      .auto-group-p94d-7VK {
+        height: 5rem;
+        position: relative;
+        flex-shrink: 0;
+        margin-bottom: 2.0271rem;
+        width: 100%;
+
+        .notificationa-TZB {
+          height: 3.2rem;
+          position: absolute;
+          left: 0;
+          top: 0;
+          display: flex;
+          align-items: center;
+          width: 34.8rem;
+
+          .alert-a-CWm {
+            letter-spacing: 0.057rem;
+            font-family: Carrois Gothic, 'Source Sans Pro';
+            white-space: nowrap;
+            margin-right: 20.8rem;
+            font-size: 1.9rem;
+            line-height: 1.6636131688;
+            font-weight: 400;
+            color: #000000;
+            flex-shrink: 0;
+          }
+          .nov-2023-7td {
+            letter-spacing: 0.042rem;
+            color: rgba(0, 0, 0, 0.6399999857);
+            font-family: Carrois Gothic, 'Source Sans Pro';
+            white-space: nowrap;
+            flex-shrink: 0;
+            font-size: 1.4rem;
+            font-weight: 400;
+            line-height: 1.6636131832;
+          }
+        }
+        .fdjfbsjdfj-r5X {
+          left: 0;
+          top: 3rem;
+          letter-spacing: 0.036rem;
+          font-weight: 400;
+          line-height: 1.6636131605;
+          color: #000000;
+          font-family: Carrois Gothic, 'Source Sans Pro';
+          width: 4.9rem;
+          height: 2rem;
+          position: absolute;
+          font-size: 1.2rem;
+          white-space: nowrap;
+        }
+      }
+      .auto-group-yg8q-MHB {
+        height: 4.6729rem;
+        position: relative;
+        flex-shrink: 0;
+        margin-bottom: 2.3rem;
+        width: 100%;
+
+        .notificationb-6kZ {
+          display: flex;
+          align-items: center;
+          width: 34.7977rem;
+          height: 3.2rem;
+          position: absolute;
+          left: 0.0023rem;
+          top: 0;
+
+          .alert-b-qCM {
+            margin-right: 20.7977rem;
+            font-weight: 400;
+            line-height: 1.6636131688;
+            color: #000000;
+            flex-shrink: 0;
+            font-size: 1.9rem;
+            letter-spacing: 0.057rem;
+            font-family: Carrois Gothic, 'Source Sans Pro';
+            white-space: nowrap;
+          }
+          .nov-2023-MRb {
+            color: rgba(0, 0, 0, 0.6399999857);
+            white-space: nowrap;
+            flex-shrink: 0;
+            margin-top: 0.1457rem;
+            font-size: 1.4rem;
+            font-weight: 400;
+            line-height: 1.6636131832;
+            letter-spacing: 0.042rem;
+            font-family: Carrois Gothic, 'Source Sans Pro';
+          }
+        }
+        .fdjfbsjdfj-UWD {
+          line-height: 1.6636131605;
+          letter-spacing: 0.036rem;
+          color: #000000;
+          font-family: Carrois Gothic, 'Source Sans Pro';
+          width: 4.9rem;
+          height: 2rem;
+          top: 2.6729rem;
+          font-size: 1.2rem;
+          position: absolute;
+          left: 0;
+          font-weight: 400;
+          white-space: nowrap;
+        }
+      }
+      .auto-group-lpum-B9j {
+        width: 100%;
+        height: 4.6rem;
+        position: relative;
+        flex-shrink: 0;
+        margin-bottom: 2.3rem;
+
+        .notificationc-ivM {
+          position: absolute;
+          left: 0.0023rem;
+          top: 0;
+          display: flex;
+          align-items: flex-start;
+          width: 34.7977rem;
+          height: 3.2116rem;
+
+          .alert-c-FvH {
+            margin: 0.012rem 20.798rem 0rem 0rem;
+            font-size: 1.9rem;
+            line-height: 1.6636131688;
+            font-family: Carrois Gothic, 'Source Sans Pro';
+            white-space: nowrap;
+            flex-shrink: 0;
+            font-weight: 400;
+            letter-spacing: 0.057rem;
+            color: #000000;
+          }
+          .nov-2023-MyK {
+            flex-shrink: 0;
+            font-size: 1.4rem;
+            font-weight: 400;
+            line-height: 1.6636131832;
+            letter-spacing: 0.042rem;
+            color: rgba(0, 0, 0, 0.6399999857);
+            font-family: Carrois Gothic, 'Source Sans Pro';
+            white-space: nowrap;
+          }
+        }
+        .fdjfbsjdfj-Hry {
+          height: 2rem;
+          position: absolute;
+          left: 0;
+          top: 2.6rem;
+          font-weight: 400;
+          color: #000000;
+          font-family: Carrois Gothic, 'Source Sans Pro';
+          width: 4.9rem;
+          white-space: nowrap;
+          line-height: 1.6636131605;
+          letter-spacing: 0.036rem;
+          font-size: 1.2rem;
+        }
+      }
+      .notificationd-12H {
+        height: 4.5884rem;
+        display: flex;
+        align-items: flex-start;
+        flex-shrink: 0;
+        margin-bottom: 1.9116rem;
+        width: 100%;
+
+        .auto-group-ew8v-wgd {
+          margin-right: 20.7977rem;
+          width: 5.9023rem;
+          height: 100%;
+          position: relative;
+          flex-shrink: 0;
+
+          .alert-c-VCM {
+            width: 5.9rem;
+            height: 3.2rem;
+            position: absolute;
+            left: 0.0023rem;
+            font-size: 1.9rem;
+            font-weight: 400;
+            line-height: 1.6636131688;
+            letter-spacing: 0.057rem;
+            color: #000000;
+            white-space: nowrap;
+            top: 0;
+            font-family: Carrois Gothic, 'Source Sans Pro';
+          }
+          .fdjfbsjdfj-zeu {
+            position: absolute;
+            top: 2.5884rem;
+            font-size: 1.2rem;
+            letter-spacing: 0.036rem;
+            color: #000000;
+            font-family: Carrois Gothic, 'Source Sans Pro';
+            width: 4.9rem;
+            height: 2rem;
+            left: 0;
+            font-weight: 400;
+            line-height: 1.6636131605;
+            white-space: nowrap;
+          }
+        }
+        .nov-2023-7Dj {
+          font-family: Carrois Gothic, 'Source Sans Pro';
+          flex-shrink: 0;
+          font-size: 1.4rem;
+          font-weight: 400;
+          line-height: 1.6636131832;
+          white-space: nowrap;
+          margin-top: 0.4296rem;
+          letter-spacing: 0.042rem;
+          color: rgba(0, 0, 0, 0.6399999857);
+        }
+      }
+      .notificatione-cgH {
+        margin-bottom: 1.0798rem;
+        width: 100%;
+        height: 4.5884rem;
+        display: flex;
+        align-items: center;
+        flex-shrink: 0;
+
+        .auto-group-ccm7-ZLd {
+          margin-right: 20.7977rem;
+          width: 5.9023rem;
+          height: 100%;
+          position: relative;
+          flex-shrink: 0;
+
+          .alert-c-hxd {
+            font-family: Carrois Gothic, 'Source Sans Pro';
+            white-space: nowrap;
+            width: 5.9rem;
+            left: 0.0023rem;
+            font-size: 1.9rem;
+            font-weight: 400;
+            letter-spacing: 0.057rem;
+            height: 3.2rem;
+            position: absolute;
+            top: 0;
+            line-height: 1.6636131688;
+            color: #000000;
+          }
+          .fdjfbsjdfj-2V7 {
+            color: #000000;
+            width: 4.9rem;
+            top: 2.5884rem;
+            font-size: 1.2rem;
+            line-height: 1.6636131605;
+            letter-spacing: 0.036rem;
+            white-space: nowrap;
+            height: 2rem;
+            position: absolute;
+            left: 0;
+            font-weight: 400;
+            font-family: Carrois Gothic, 'Source Sans Pro';
+          }
+        }
+        .nov-2023-jeR {
+          margin-bottom: 0.5323rem;
+          line-height: 1.6636131832;
+          color: rgba(0, 0, 0, 0.6399999857);
+          font-family: Carrois Gothic, 'Source Sans Pro';
+          font-size: 1.4rem;
+          font-weight: 400;
+          letter-spacing: 0.042rem;
+          white-space: nowrap;
+          flex-shrink: 0;
+        }
+      }
+      .see-all--Soj {
+        letter-spacing: 0.048rem;
+        color: #000000;
+        font-family: Carrois Gothic, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        margin-right: 2.3547rem;
+        font-weight: 400;
+        font-size: 1.6rem;
+        line-height: 1.6636132002;
+      }
+    }
+  }
+  .auto-group-twhs-vU1 {
+    left: 0;
+    top: 0.3rem;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    width: 11.7rem;
+    height: 104.7rem;
+    position: absolute;
+
+    .rectangle-728-FWH {
+      margin: 0rem 0rem 1.8rem 0.4rem;
+      width: 9.9rem;
+      height: 9.9rem;
+      object-fit: cover;
+      vertical-align: top;
+      flex-shrink: 0;
+    }
+    .slidingmenu-a2m {
+      width: 11.7rem;
+      height: 93rem;
+      cursor: pointer;
+      position: relative;
+      object-fit: contain;
+      vertical-align: top;
+      flex-shrink: 0;
+    }
+  }
+  .lowstockproducts-WBK {
+    overflow: hidden;
+    width: 38.1rem;
+    height: 52.8rem;
+    position: absolute;
+    left: 105.8rem;
+    top: 53.2rem;
+
+    .rectangle-736-dWq {
+      top: 0;
+      border: solid 0.1rem #000000;
+      box-sizing: border-box;
+      background-color: #cad0f4;
+      border-radius: 2.5rem;
+      width: 38.1rem;
+      height: 53.1rem;
+      left: 0;
+      position: absolute;
+    }
+    .monthly-trends-kbT {
+      position: absolute;
+      font-size: 2.2rem;
+      line-height: 1.2575;
+      color: #000000;
+      font-family: Hannari, 'Source Sans Pro';
+      width: 14.3rem;
+      height: 2.8rem;
+      left: 1.5rem;
+      top: 0.8rem;
+      font-weight: 400;
+      white-space: nowrap;
+    }
+    .frame-80-Tkm {
+      width: 36.5rem;
+      height: 43.5rem;
+      row-gap: 1.5rem;
+      display: flex;
+      position: absolute;
+      left: 0.8rem;
+      top: 5.1rem;
+      overflow: hidden;
+      align-items: center;
+      flex-direction: column;
+
+      .supplier-detail--9tV {
+        width: 100%;
+        display: flex;
+        background-color: rgba(255, 255, 255, 0.8999999762);
+        flex-shrink: 0;
+        box-sizing: border-box;
+        padding: 0.2rem 1rem 0.7rem 0.9rem;
+        flex-direction: column;
+        box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+        border-radius: 1rem;
+
+        .auto-group-zxop-51T {
+          margin-bottom: 0.2rem;
+          width: 100%;
+          display: flex;
+          align-items: center;
+          flex-shrink: 0;
+
+          .january-DtM {
+            font-size: 1.2rem;
+            font-weight: 400;
+            line-height: 1.2575;
+            color: #000000;
+            font-family: Hannari, 'Source Sans Pro';
+            white-space: nowrap;
+            flex-shrink: 0;
+            margin-right: 29rem;
+          }
+          .vector-A2u {
+            margin-bottom: 0.2rem;
+            width: 1.4rem;
+            height: 0.8rem;
+            object-fit: contain;
+            vertical-align: top;
+            flex-shrink: 0;
+          }
+        }
+        .prominent-occasions-tjb {
+          margin-bottom: 1.5rem;
+          font-size: 0.6rem;
+          font-weight: 400;
+          line-height: 1.2575;
+          color: rgba(0, 0, 0, 0.7699999809);
+          font-family: Hannari, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+        }
+        .winter-new-year-makar-sakranti-republic-day-DWy {
+          font-weight: 400;
+          line-height: 1.2575;
+          color: #000000;
+          font-family: Hannari, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          font-size: 1.3rem;
+        }
+      }
+      .supplier-detail--gQZ {
+        flex-shrink: 0;
+        box-sizing: border-box;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+        background-color: rgba(255, 255, 255, 0.8999999762);
+        border-radius: 1rem;
+        padding: 0.2rem 1rem 0.7rem 0.9rem;
+
+        .auto-group-3b2z-cJD {
+          margin-bottom: 0.2rem;
+          width: 100%;
+          display: flex;
+          align-items: center;
+          flex-shrink: 0;
+
+          .january-MFo {
+            color: #000000;
+            font-family: Hannari, 'Source Sans Pro';
+            white-space: nowrap;
+            flex-shrink: 0;
+            margin-right: 29rem;
+            font-size: 1.2rem;
+            font-weight: 400;
+            line-height: 1.2575;
+          }
+          .vector-VN1 {
+            margin-bottom: 0.2rem;
+            width: 1.4rem;
+            height: 0.8rem;
+            object-fit: contain;
+            vertical-align: top;
+            flex-shrink: 0;
+          }
+        }
+        .prominent-occasions-8A5 {
+          white-space: nowrap;
+          flex-shrink: 0;
+          margin-bottom: 1.5rem;
+          font-size: 0.6rem;
+          font-weight: 400;
+          line-height: 1.2575;
+          color: rgba(0, 0, 0, 0.7699999809);
+          font-family: Hannari, 'Source Sans Pro';
+        }
+        .winter-new-year-makar-sakranti-republic-day-rbs {
+          flex-shrink: 0;
+          font-size: 1.3rem;
+          font-weight: 400;
+          line-height: 1.2575;
+          color: #000000;
+          font-family: Hannari, 'Source Sans Pro';
+          white-space: nowrap;
+        }
+      }
+      .supplier-detail--jff {
+        padding: 0.2rem 1rem 0.7rem 0.9rem;
+        box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+        border-radius: 1rem;
+        flex-shrink: 0;
+        box-sizing: border-box;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        background-color: rgba(255, 255, 255, 0.8999999762);
+
+        .auto-group-53v9-sG5 {
+          display: flex;
+          align-items: center;
+          flex-shrink: 0;
+          margin-bottom: 0.2rem;
+          width: 100%;
+
+          .january-pSD {
+            line-height: 1.2575;
+            color: #000000;
+            font-family: Hannari, 'Source Sans Pro';
+            white-space: nowrap;
+            flex-shrink: 0;
+            margin-right: 29rem;
+            font-size: 1.2rem;
+            font-weight: 400;
+          }
+          .vector-kqf {
+            width: 1.4rem;
+            height: 0.8rem;
+            object-fit: contain;
+            vertical-align: top;
+            flex-shrink: 0;
+            margin-bottom: 0.2rem;
+          }
+        }
+        .prominent-occasions-uCm {
+          font-family: Hannari, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          margin-bottom: 1.5rem;
+          font-size: 0.6rem;
+          font-weight: 400;
+          line-height: 1.2575;
+          color: rgba(0, 0, 0, 0.7699999809);
+        }
+        .winter-new-year-makar-sakranti-republic-day-345 {
+          font-size: 1.3rem;
+          font-weight: 400;
+          line-height: 1.2575;
+          color: #000000;
+          font-family: Hannari, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+        }
+      }
+      .supplier-detail--7pd {
+        box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+        flex-shrink: 0;
+        background-color: rgba(255, 255, 255, 0.8999999762);
+        border-radius: 1rem;
+        box-sizing: border-box;
+        padding: 0.2rem 1rem 0.7rem 0.9rem;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+
+        .auto-group-gwhw-r1X {
+          align-items: center;
+          flex-shrink: 0;
+          margin-bottom: 0.2rem;
+          width: 100%;
+          display: flex;
+
+          .january-ztR {
+            font-size: 1.2rem;
+            font-weight: 400;
+            line-height: 1.2575;
+            color: #000000;
+            font-family: Hannari, 'Source Sans Pro';
+            white-space: nowrap;
+            flex-shrink: 0;
+            margin-right: 29rem;
+          }
+          .vector-Y9F {
+            flex-shrink: 0;
+            margin-bottom: 0.2rem;
+            width: 1.4rem;
+            height: 0.8rem;
+            object-fit: contain;
+            vertical-align: top;
+          }
+        }
+        .prominent-occasions-Uob {
+          white-space: nowrap;
+          flex-shrink: 0;
+          margin-bottom: 1.5rem;
+          font-size: 0.6rem;
+          font-weight: 400;
+          line-height: 1.2575;
+          color: rgba(0, 0, 0, 0.7699999809);
+          font-family: Hannari, 'Source Sans Pro';
+        }
+        .winter-new-year-makar-sakranti-republic-day-Qx9 {
+          font-weight: 400;
+          line-height: 1.2575;
+          color: #000000;
+          font-family: Hannari, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          font-size: 1.3rem;
+        }
+      }
+      .supplier-detail--6a5 {
+        background-color: rgba(255, 255, 255, 0.8999999762);
+        box-sizing: border-box;
+        padding: 0.2rem 1rem 0.7rem 0.9rem;
+        width: 100%;
+        display: flex;
+        box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+        flex-direction: column;
+        border-radius: 1rem;
+        flex-shrink: 0;
+
+        .auto-group-pu5b-q1s {
+          margin-bottom: 0.2rem;
+          width: 100%;
+          display: flex;
+          align-items: center;
+          flex-shrink: 0;
+
+          .january-ak9 {
+            line-height: 1.2575;
+            color: #000000;
+            font-family: Hannari, 'Source Sans Pro';
+            white-space: nowrap;
+            flex-shrink: 0;
+            margin-right: 29rem;
+            font-size: 1.2rem;
+            font-weight: 400;
+          }
+          .vector-8Wm {
+            vertical-align: top;
+            flex-shrink: 0;
+            margin-bottom: 0.2rem;
+            width: 1.4rem;
+            height: 0.8rem;
+            object-fit: contain;
+          }
+        }
+        .prominent-occasions-gHP {
+          font-size: 0.6rem;
+          font-weight: 400;
+          line-height: 1.2575;
+          color: rgba(0, 0, 0, 0.7699999809);
+          font-family: Hannari, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          margin-bottom: 1.5rem;
+        }
+        .winter-new-year-makar-sakranti-republic-day-oso {
+          line-height: 1.2575;
+          color: #000000;
+          font-family: Hannari, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          font-size: 1.3rem;
+          font-weight: 400;
+        }
+      }
+      .supplier-detail--Hny {
+        padding: 0.2rem 1rem 0.7rem 0.9rem;
+        flex-direction: column;
+        background-color: rgba(255, 255, 255, 0.8999999762);
+        box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+        border-radius: 1rem;
+        flex-shrink: 0;
+        box-sizing: border-box;
+        width: 100%;
+        display: flex;
+
+        .auto-group-mkub-R8V {
+          flex-shrink: 0;
+          margin-bottom: 0.2rem;
+          width: 100%;
+          display: flex;
+          align-items: center;
+
+          .january-Arm {
+            color: #000000;
+            font-family: Hannari, 'Source Sans Pro';
+            white-space: nowrap;
+            flex-shrink: 0;
+            margin-right: 29rem;
+            font-size: 1.2rem;
+            font-weight: 400;
+            line-height: 1.2575;
+          }
+          .vector-7n1 {
+            flex-shrink: 0;
+            margin-bottom: 0.2rem;
+            width: 1.4rem;
+            height: 0.8rem;
+            object-fit: contain;
+            vertical-align: top;
+          }
+        }
+        .prominent-occasions-fHj {
+          font-family: Hannari, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          margin-bottom: 1.5rem;
+          font-size: 0.6rem;
+          font-weight: 400;
+          line-height: 1.2575;
+          color: rgba(0, 0, 0, 0.7699999809);
+        }
+        .winter-new-year-makar-sakranti-republic-day-PzR {
+          flex-shrink: 0;
+          font-size: 1.3rem;
+          font-weight: 400;
+          line-height: 1.2575;
+          color: #000000;
+          font-family: Hannari, 'Source Sans Pro';
+          white-space: nowrap;
+        }
+      }
+      .supplier-detail--Hpu {
+        background-color: rgba(255, 255, 255, 0.8999999762);
+        border-radius: 1rem;
+        flex-shrink: 0;
+        box-sizing: border-box;
+        padding: 0.2rem 1rem 0.7rem 0.9rem;
+        width: 100%;
+        flex-direction: column;
+        display: flex;
+        box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+
+        .auto-group-nnob-ccH {
+          margin-bottom: 0.2rem;
+          width: 100%;
+          display: flex;
+          align-items: center;
+          flex-shrink: 0;
+
+          .january-xg9 {
+            color: #000000;
+            font-family: Hannari, 'Source Sans Pro';
+            white-space: nowrap;
+            flex-shrink: 0;
+            margin-right: 29rem;
+            font-size: 1.2rem;
+            font-weight: 400;
+            line-height: 1.2575;
+          }
+          .vector-JV7 {
+            margin-bottom: 0.2rem;
+            width: 1.4rem;
+            height: 0.8rem;
+            object-fit: contain;
+            vertical-align: top;
+            flex-shrink: 0;
+          }
+        }
+        .prominent-occasions-rFj {
+          white-space: nowrap;
+          flex-shrink: 0;
+          margin-bottom: 1.5rem;
+          font-size: 0.6rem;
+          font-weight: 400;
+          line-height: 1.2575;
+          color: rgba(0, 0, 0, 0.7699999809);
+          font-family: Hannari, 'Source Sans Pro';
+        }
+        .winter-new-year-makar-sakranti-republic-day-z73 {
+          flex-shrink: 0;
+          font-size: 1.3rem;
+          font-weight: 400;
+          line-height: 1.2575;
+          color: #000000;
+          font-family: Hannari, 'Source Sans Pro';
+          white-space: nowrap;
+        }
+      }
+      .supplier-detail--fiy {
+        box-sizing: border-box;
+        display: flex;
+        flex-direction: column;
+        box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+        flex-shrink: 0;
+        padding: 0.2rem 1rem 0.7rem 0.9rem;
+        width: 100%;
+        background-color: rgba(255, 255, 255, 0.8999999762);
+        border-radius: 1rem;
+
+        .auto-group-hssj-129 {
+          align-items: center;
+          flex-shrink: 0;
+          margin-bottom: 0.2rem;
+          width: 100%;
+          display: flex;
+
+          .january-MLu {
+            margin-right: 29rem;
+            font-size: 1.2rem;
+            font-weight: 400;
+            line-height: 1.2575;
+            color: #000000;
+            font-family: Hannari, 'Source Sans Pro';
+            white-space: nowrap;
+            flex-shrink: 0;
+          }
+          .vector-JG9 {
+            margin-bottom: 0.2rem;
+            width: 1.4rem;
+            height: 0.8rem;
+            object-fit: contain;
+            vertical-align: top;
+            flex-shrink: 0;
+          }
+        }
+        .prominent-occasions-eL1 {
+          color: rgba(0, 0, 0, 0.7699999809);
+          font-family: Hannari, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          margin-bottom: 1.5rem;
+          font-size: 0.6rem;
+          font-weight: 400;
+          line-height: 1.2575;
+        }
+        .winter-new-year-makar-sakranti-republic-day-ajT {
+          color: #000000;
+          font-family: Hannari, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          font-size: 1.3rem;
+          font-weight: 400;
+          line-height: 1.2575;
+        }
+      }
+      .supplier-detail--GsB {
+        border-radius: 1rem;
+        box-sizing: border-box;
+        padding: 0.2rem 1rem 0.7rem 0.9rem;
+        flex-direction: column;
+        background-color: rgba(255, 255, 255, 0.8999999762);
+        flex-shrink: 0;
+        width: 100%;
+        display: flex;
+        box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+
+        .auto-group-3iqf-QiV {
+          width: 100%;
+          display: flex;
+          align-items: center;
+          flex-shrink: 0;
+          margin-bottom: 0.2rem;
+
+          .january-uv9 {
+            font-size: 1.2rem;
+            font-weight: 400;
+            line-height: 1.2575;
+            color: #000000;
+            font-family: Hannari, 'Source Sans Pro';
+            white-space: nowrap;
+            flex-shrink: 0;
+            margin-right: 29rem;
+          }
+          .vector-rKb {
+            width: 1.4rem;
+            height: 0.8rem;
+            object-fit: contain;
+            vertical-align: top;
+            flex-shrink: 0;
+            margin-bottom: 0.2rem;
+          }
+        }
+        .prominent-occasions-PaR {
+          color: rgba(0, 0, 0, 0.7699999809);
+          font-family: Hannari, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          margin-bottom: 1.5rem;
+          font-size: 0.6rem;
+          font-weight: 400;
+          line-height: 1.2575;
+        }
+        .winter-new-year-makar-sakranti-republic-day-Kys {
+          font-weight: 400;
+          line-height: 1.2575;
+          color: #000000;
+          font-family: Hannari, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          font-size: 1.3rem;
+        }
+      }
+      .supplier-detail--cTB {
+        flex-direction: column;
+        box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+        background-color: rgba(255, 255, 255, 0.8999999762);
+        box-sizing: border-box;
+        padding: 0.2rem 1rem 0.7rem 0.9rem;
+        border-radius: 1rem;
+        flex-shrink: 0;
+        width: 100%;
+        display: flex;
+
+        .auto-group-hbyj-Y5w {
+          margin-bottom: 0.2rem;
+          width: 100%;
+          display: flex;
+          align-items: center;
+          flex-shrink: 0;
+
+          .january-gxq {
+            line-height: 1.2575;
+            color: #000000;
+            font-family: Hannari, 'Source Sans Pro';
+            white-space: nowrap;
+            flex-shrink: 0;
+            margin-right: 29rem;
+            font-size: 1.2rem;
+            font-weight: 400;
+          }
+          .vector-Dxm {
+            flex-shrink: 0;
+            margin-bottom: 0.2rem;
+            width: 1.4rem;
+            height: 0.8rem;
+            object-fit: contain;
+            vertical-align: top;
+          }
+        }
+        .prominent-occasions-xfT {
+          margin-bottom: 1.5rem;
+          font-size: 0.6rem;
+          font-weight: 400;
+          line-height: 1.2575;
+          color: rgba(0, 0, 0, 0.7699999809);
+          font-family: Hannari, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+        }
+        .winter-new-year-makar-sakranti-republic-day-tJD {
+          font-family: Hannari, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          font-size: 1.3rem;
+          font-weight: 400;
+          line-height: 1.2575;
+          color: #000000;
+        }
+      }
+      .supplier-detail--NDP {
+        display: flex;
+        box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+        flex-shrink: 0;
+        box-sizing: border-box;
+        padding: 0.2rem 1rem 0.7rem 0.9rem;
+        width: 100%;
+        flex-direction: column;
+        background-color: rgba(255, 255, 255, 0.8999999762);
+        border-radius: 1rem;
+
+        .auto-group-osps-gjs {
+          margin-bottom: 0.2rem;
+          width: 100%;
+          display: flex;
+          align-items: center;
+          flex-shrink: 0;
+
+          .january-df7 {
+            color: #000000;
+            font-family: Hannari, 'Source Sans Pro';
+            white-space: nowrap;
+            flex-shrink: 0;
+            margin-right: 29rem;
+            font-size: 1.2rem;
+            font-weight: 400;
+            line-height: 1.2575;
+          }
+          .vector-Nch {
+            width: 1.4rem;
+            height: 0.8rem;
+            object-fit: contain;
+            vertical-align: top;
+            flex-shrink: 0;
+            margin-bottom: 0.2rem;
+          }
+        }
+        .prominent-occasions-Wiu {
+          font-family: Hannari, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          margin-bottom: 1.5rem;
+          font-size: 0.6rem;
+          font-weight: 400;
+          line-height: 1.2575;
+          color: rgba(0, 0, 0, 0.7699999809);
+        }
+        .winter-new-year-makar-sakranti-republic-day-qFP {
+          line-height: 1.2575;
+          color: #000000;
+          font-family: Hannari, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          font-size: 1.3rem;
+          font-weight: 400;
+        }
+      }
+      .supplier-detail--7ih {
+        display: flex;
+        flex-direction: column;
+        box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+        box-sizing: border-box;
+        padding: 0.2rem 1rem 0.7rem 0.9rem;
+        width: 100%;
+        background-color: rgba(255, 255, 255, 0.8999999762);
+        border-radius: 1rem;
+        flex-shrink: 0;
+
+        .auto-group-6xar-36Z {
+          margin-bottom: 0.2rem;
+          width: 100%;
+          display: flex;
+          align-items: center;
+          flex-shrink: 0;
+
+          .january-z1o {
+            font-family: Hannari, 'Source Sans Pro';
+            white-space: nowrap;
+            flex-shrink: 0;
+            margin-right: 29rem;
+            font-size: 1.2rem;
+            font-weight: 400;
+            line-height: 1.2575;
+            color: #000000;
+          }
+          .vector-uuT {
+            object-fit: contain;
+            vertical-align: top;
+            flex-shrink: 0;
+            margin-bottom: 0.2rem;
+            width: 1.4rem;
+            height: 0.8rem;
+          }
+        }
+        .prominent-occasions-41f {
+          color: rgba(0, 0, 0, 0.7699999809);
+          font-family: Hannari, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          margin-bottom: 1.5rem;
+          font-size: 0.6rem;
+          font-weight: 400;
+          line-height: 1.2575;
+        }
+        .winter-new-year-makar-sakranti-republic-day-b1b {
+          white-space: nowrap;
+          flex-shrink: 0;
+          font-size: 1.3rem;
+          font-weight: 400;
+          line-height: 1.2575;
+          color: #000000;
+          font-family: Hannari, 'Source Sans Pro';
+        }
+      }
+    }
+  }
+}

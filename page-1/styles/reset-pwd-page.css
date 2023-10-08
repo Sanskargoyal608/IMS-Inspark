@@ -1,0 +1,189 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.reset-pwd-page-ycM {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #edf0f2;
+}
+.reset-pwd-page-ycM .header-WsB {
+  margin-bottom: 3.4rem;
+  box-sizing: border-box;
+  padding: 1.1rem 37.05rem 1.1rem 1.9rem;
+  width: 100%;
+  height: 12.9rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: rgba(130, 151, 183, 0.3300000131);
+  flex-shrink: 0;
+}
+.reset-pwd-page-ycM .header-WsB .inspark-logo-1-nph {
+  margin: 0rem 30.95rem 1.6rem 0rem;
+  width: 10.5rem;
+  height: 9.1rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 4.9rem;
+  flex-shrink: 0;
+}
+.reset-pwd-page-ycM .header-WsB .inventory-management-system-UhX {
+  margin-top: 0.1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.reset-pwd-page-ycM .auto-group-ltmf-y8V {
+  margin: 0rem 2.7rem 0rem 3.1rem;
+  width: calc(100% - 5.8rem);
+  height: 103.5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.reset-pwd-page-ycM .auto-group-ltmf-y8V .component-1-gob {
+  width: 138.2rem;
+  height: 103.5rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reset-pwd-page-ycM .auto-group-ltmf-y8V .group-15-1ay {
+  width: 108.35rem;
+  height: 80.1rem;
+  position: absolute;
+  left: 10rem;
+  top: 1.4rem;
+}
+.reset-pwd-page-ycM .auto-group-ltmf-y8V .group-15-1ay .reset-your-credentials-for-uninterrupted-confidentiality-Gmo {
+  margin-bottom: 11.5rem;
+  width: 100%;
+  max-width: 98.9rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.reset-pwd-page-ycM .auto-group-ltmf-y8V .group-15-1ay .enter-new-password--kgy {
+  margin-bottom: 3.2rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.reset-pwd-page-ycM .auto-group-ltmf-y8V .group-15-1ay .auto-group-wjt5-HB7 {
+  margin: 0rem 0rem 4rem 11.15rem;
+  width: 26rem;
+  height: 10rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #d9d9d9;
+  border-radius: 2.5rem;
+}
+.reset-pwd-page-ycM .auto-group-ltmf-y8V .group-15-1ay .re-enter-password--56y {
+  margin: 0rem 0rem 3.1rem 0.8rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.reset-pwd-page-ycM .auto-group-ltmf-y8V .group-15-1ay .auto-group-htfb-zDw {
+  margin: 0rem 0rem 6.7rem 11.1rem;
+  width: 26rem;
+  height: 10rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #d9d9d9;
+  border-radius: 2.5rem;
+}
+.reset-pwd-page-ycM .auto-group-ltmf-y8V .group-15-1ay .auto-group-trku-Sbj {
+  margin: 0rem 15.05rem 0rem 31.1rem;
+  width: calc(100% - 46.15rem);
+  height: 10rem;
+  display: flex;
+  align-items: center;
+}
+.reset-pwd-page-ycM .auto-group-ltmf-y8V .group-15-1ay .auto-group-trku-Sbj .auto-group-axvw-vG1 {
+  margin-right: 10.2rem;
+  width: 26rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: rgba(217, 217, 217, 0.5);
+  border-radius: 4rem;
+  flex-shrink: 0;
+}
+.reset-pwd-page-ycM .auto-group-ltmf-y8V .group-15-1ay .auto-group-trku-Sbj .auto-group-5k5b-N81 {
+  width: 26rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: rgba(217, 217, 217, 0.5);
+  border-radius: 4rem;
+  flex-shrink: 0;
+}

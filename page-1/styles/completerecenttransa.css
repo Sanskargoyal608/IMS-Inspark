@@ -1,0 +1,3949 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 96.605rem;
+}.completerecenttransa-cCy {
+  box-sizing: border-box;
+  padding: 2rem 2rem 1.05rem 2rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: dashed 0.1rem #9747ff;
+  border-radius: 0.5rem;
+}
+.completerecenttransa-cCy .property-1default-bqb {
+  margin-bottom: 151.8rem;
+  width: 100%;
+  height: 7.8rem;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recenttransframe-1uK {
+  margin: 0rem 0.005rem 1.1rem 0rem;
+  box-sizing: border-box;
+  padding: 0.3rem 1.7rem 0.2rem 3.7rem;
+  width: calc(100% - 0.0055rem);
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #cad0f4;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recenttransframe-1uK .recent-transactions-F2y {
+  margin-right: 48rem;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.7025;
+  letter-spacing: 0.396rem;
+  color: #000000;
+  font-family: Harmattan, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recenttransframe-1uK .vector-pkH {
+  margin-bottom: 0.1rem;
+  width: 4.9rem;
+  height: 2.7rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .expenseheadingdetaill-wyK {
+  margin: 0rem 6.79rem 1.35rem 4.616rem;
+  width: calc(100% - 11.4055rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .expenseheadingdetaill-wyK .date-cZf {
+  margin-right: 7.5rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .expenseheadingdetaill-wyK .xid-Hvh {
+  margin-right: 7.5rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .expenseheadingdetaill-wyK .name-9xu {
+  margin-right: 5.4rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .expenseheadingdetaill-wyK .pmt-type-eem {
+  margin-right: 2.7rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .expenseheadingdetaill-wyK .pmt-mode-jw7 {
+  margin-right: 12.9rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .expenseheadingdetaill-wyK .amount-QnM {
+  margin-right: 5.3rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .expenseheadingdetaill-wyK .status-Jcq {
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-rqqy-1XF {
+  box-sizing: border-box;
+  padding: 0rem 0.003rem 0rem 0.002rem;
+  width: 100%;
+  height: 4.4rem;
+  border-top: solid 0.1rem #000000;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-rqqy-1XF .transactiondetail-FRb {
+  box-sizing: border-box;
+  padding: 1.5rem 1.4rem 0.6rem 1.6rem;
+  width: 100%;
+  height: 100%;
+  background-color: #d9d9d9;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-rqqy-1XF .transactiondetail-FRb .expenseheadingdetaill-Yfb {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-rqqy-1XF .transactiondetail-FRb .expenseheadingdetaill-Yfb .item-25-05-2003-VMs {
+  margin: 0rem 3rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-rqqy-1XF .transactiondetail-FRb .expenseheadingdetaill-Yfb .item-132416-Y5F {
+  margin: 0rem 4.4rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-rqqy-1XF .transactiondetail-FRb .expenseheadingdetaill-Yfb .insparkdevs-NKB {
+  margin: 0rem 3.7rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-rqqy-1XF .transactiondetail-FRb .expenseheadingdetaill-Yfb .expenses-dW1 {
+  margin: 0rem 6rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-rqqy-1XF .transactiondetail-FRb .expenseheadingdetaill-Yfb .cash-WJu {
+  margin: 0rem 14.9rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-rqqy-1XF .transactiondetail-FRb .expenseheadingdetaill-Yfb .item-23233232-ZHB {
+  margin: 0.2rem 3.7rem 0rem 0rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-rqqy-1XF .transactiondetail-FRb .expenseheadingdetaill-Yfb .done-E8R {
+  margin: 0rem 2.1rem 0.2rem 0rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-rqqy-1XF .transactiondetail-FRb .expenseheadingdetaill-Yfb .vector-7CD {
+  margin-right: 2.1rem;
+  width: 1.9rem;
+  height: 2.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-rqqy-1XF .transactiondetail-FRb .expenseheadingdetaill-Yfb .vector-Ntq {
+  margin-bottom: 0.1rem;
+  width: 2.2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy {
+  box-sizing: border-box;
+  padding: 0rem 0.003rem 0rem 0.002rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-Nfs {
+  box-sizing: border-box;
+  padding: 1.5rem 1.4rem 0.6rem 1.6rem;
+  width: 100%;
+  height: 4.4rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-Nfs .expenseheadingdetaill-ThK {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-Nfs .expenseheadingdetaill-ThK .item-25-05-2003-82m {
+  margin: 0rem 3rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-Nfs .expenseheadingdetaill-ThK .item-132416-PDb {
+  margin: 0rem 4.4rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-Nfs .expenseheadingdetaill-ThK .insparkdevs-TDT {
+  margin: 0rem 3.7rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-Nfs .expenseheadingdetaill-ThK .expenses-htV {
+  margin: 0rem 6rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-Nfs .expenseheadingdetaill-ThK .cash-bU5 {
+  margin: 0rem 14.9rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-Nfs .expenseheadingdetaill-ThK .item-23233232-tCH {
+  margin: 0.2rem 3.7rem 0rem 0rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-Nfs .expenseheadingdetaill-ThK .done-mG5 {
+  margin: 0rem 2.1rem 0.2rem 0rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-Nfs .expenseheadingdetaill-ThK .vector-Dtm {
+  margin-right: 2.1rem;
+  width: 1.9rem;
+  height: 2.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-Nfs .expenseheadingdetaill-ThK .vector-XeZ {
+  margin-bottom: 0.1rem;
+  width: 2.2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-acq {
+  box-sizing: border-box;
+  padding: 1.5rem 1.4rem 0.6rem 1.6rem;
+  width: 100%;
+  height: 4.4rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-acq .expenseheadingdetaill-s69 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-acq .expenseheadingdetaill-s69 .item-25-05-2003-A5F {
+  margin: 0rem 3rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-acq .expenseheadingdetaill-s69 .item-132416-R1B {
+  margin: 0rem 4.4rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-acq .expenseheadingdetaill-s69 .insparkdevs-fRK {
+  margin: 0rem 3.7rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-acq .expenseheadingdetaill-s69 .expenses-LnM {
+  margin: 0rem 6rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-acq .expenseheadingdetaill-s69 .cash-29P {
+  margin: 0rem 14.9rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-acq .expenseheadingdetaill-s69 .item-23233232-4rm {
+  margin: 0.2rem 3.7rem 0rem 0rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-acq .expenseheadingdetaill-s69 .done-LpH {
+  margin: 0rem 2.1rem 0.2rem 0rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-acq .expenseheadingdetaill-s69 .vector-qFF {
+  margin-right: 2.1rem;
+  width: 1.9rem;
+  height: 2.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-acq .expenseheadingdetaill-s69 .vector-WMP {
+  margin-bottom: 0.1rem;
+  width: 2.2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-oLV {
+  box-sizing: border-box;
+  padding: 1.5rem 1.4rem 0.6rem 1.6rem;
+  width: 100%;
+  height: 4.4rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-oLV .expenseheadingdetaill-6Kb {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-oLV .expenseheadingdetaill-6Kb .item-25-05-2003-MWR {
+  margin: 0rem 3rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-oLV .expenseheadingdetaill-6Kb .item-132416-nrd {
+  margin: 0rem 4.4rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-oLV .expenseheadingdetaill-6Kb .insparkdevs-cjB {
+  margin: 0rem 3.7rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-oLV .expenseheadingdetaill-6Kb .expenses-sf7 {
+  margin: 0rem 6rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-oLV .expenseheadingdetaill-6Kb .cash-XzZ {
+  margin: 0rem 14.9rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-oLV .expenseheadingdetaill-6Kb .item-23233232-ZwF {
+  margin: 0.2rem 3.7rem 0rem 0rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-oLV .expenseheadingdetaill-6Kb .done-RyT {
+  margin: 0rem 2.1rem 0.2rem 0rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-oLV .expenseheadingdetaill-6Kb .vector-guP {
+  margin-right: 2.1rem;
+  width: 1.9rem;
+  height: 2.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-oLV .expenseheadingdetaill-6Kb .vector-oUD {
+  margin-bottom: 0.1rem;
+  width: 2.2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-UqF {
+  box-sizing: border-box;
+  padding: 1.5rem 1.4rem 0.6rem 1.6rem;
+  width: 100%;
+  height: 4.4rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-UqF .expenseheadingdetaill-8uo {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-UqF .expenseheadingdetaill-8uo .item-25-05-2003-drZ {
+  margin: 0rem 3rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-UqF .expenseheadingdetaill-8uo .item-132416-id7 {
+  margin: 0rem 4.4rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-UqF .expenseheadingdetaill-8uo .insparkdevs-YMF {
+  margin: 0rem 3.7rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-UqF .expenseheadingdetaill-8uo .expenses-2XK {
+  margin: 0rem 6rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-UqF .expenseheadingdetaill-8uo .cash-WxH {
+  margin: 0rem 14.9rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-UqF .expenseheadingdetaill-8uo .item-23233232-yqs {
+  margin: 0.2rem 3.7rem 0rem 0rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-UqF .expenseheadingdetaill-8uo .done-rem {
+  margin: 0rem 2.1rem 0.2rem 0rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-UqF .expenseheadingdetaill-8uo .vector-wgD {
+  margin-right: 2.1rem;
+  width: 1.9rem;
+  height: 2.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-UqF .expenseheadingdetaill-8uo .vector-eKj {
+  margin-bottom: 0.1rem;
+  width: 2.2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-hoo {
+  box-sizing: border-box;
+  padding: 1.5rem 1.4rem 0.6rem 1.6rem;
+  width: 100%;
+  height: 4.4rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-hoo .expenseheadingdetaill-Pgd {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-hoo .expenseheadingdetaill-Pgd .item-25-05-2003-VUm {
+  margin: 0rem 3rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-hoo .expenseheadingdetaill-Pgd .item-132416-jtu {
+  margin: 0rem 4.4rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-hoo .expenseheadingdetaill-Pgd .insparkdevs-cC1 {
+  margin: 0rem 3.7rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-hoo .expenseheadingdetaill-Pgd .expenses-tvD {
+  margin: 0rem 6rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-hoo .expenseheadingdetaill-Pgd .cash-x9P {
+  margin: 0rem 14.9rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-hoo .expenseheadingdetaill-Pgd .item-23233232-SKT {
+  margin: 0.2rem 3.7rem 0rem 0rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-hoo .expenseheadingdetaill-Pgd .done-i25 {
+  margin: 0rem 2.1rem 0.2rem 0rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-hoo .expenseheadingdetaill-Pgd .vector-mm3 {
+  margin-right: 2.1rem;
+  width: 1.9rem;
+  height: 2.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-hoo .expenseheadingdetaill-Pgd .vector-VS9 {
+  margin-bottom: 0.1rem;
+  width: 2.2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-9mb {
+  box-sizing: border-box;
+  padding: 1.5rem 1.4rem 0.6rem 1.6rem;
+  width: 100%;
+  height: 4.4rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-9mb .expenseheadingdetaill-Eo3 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-9mb .expenseheadingdetaill-Eo3 .item-25-05-2003-wSZ {
+  margin: 0rem 3rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-9mb .expenseheadingdetaill-Eo3 .item-132416-1xD {
+  margin: 0rem 4.4rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-9mb .expenseheadingdetaill-Eo3 .insparkdevs-G7T {
+  margin: 0rem 3.7rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-9mb .expenseheadingdetaill-Eo3 .expenses-jmj {
+  margin: 0rem 6rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-9mb .expenseheadingdetaill-Eo3 .cash-Dwo {
+  margin: 0rem 14.9rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-9mb .expenseheadingdetaill-Eo3 .item-23233232-HAy {
+  margin: 0.2rem 3.7rem 0rem 0rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-9mb .expenseheadingdetaill-Eo3 .done-9DB {
+  margin: 0rem 2.1rem 0.2rem 0rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-9mb .expenseheadingdetaill-Eo3 .vector-du3 {
+  margin-right: 2.1rem;
+  width: 1.9rem;
+  height: 2.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-9mb .expenseheadingdetaill-Eo3 .vector-857 {
+  margin-bottom: 0.1rem;
+  width: 2.2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-2AV {
+  box-sizing: border-box;
+  padding: 1.5rem 1.4rem 0.6rem 1.6rem;
+  width: 100%;
+  height: 4.4rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-2AV .expenseheadingdetaill-Jth {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-2AV .expenseheadingdetaill-Jth .item-25-05-2003-mnH {
+  margin: 0rem 3rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-2AV .expenseheadingdetaill-Jth .item-132416-ebB {
+  margin: 0rem 4.4rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-2AV .expenseheadingdetaill-Jth .insparkdevs-KhK {
+  margin: 0rem 3.7rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-2AV .expenseheadingdetaill-Jth .expenses-a7T {
+  margin: 0rem 6rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-2AV .expenseheadingdetaill-Jth .cash-4oK {
+  margin: 0rem 14.9rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-2AV .expenseheadingdetaill-Jth .item-23233232-MGd {
+  margin: 0.2rem 3.7rem 0rem 0rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-2AV .expenseheadingdetaill-Jth .done-o8d {
+  margin: 0rem 2.1rem 0.2rem 0rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-2AV .expenseheadingdetaill-Jth .vector-tA5 {
+  margin-right: 2.1rem;
+  width: 1.9rem;
+  height: 2.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-2AV .expenseheadingdetaill-Jth .vector-baH {
+  margin-bottom: 0.1rem;
+  width: 2.2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-1e1 {
+  box-sizing: border-box;
+  padding: 1.5rem 1.4rem 0.6rem 1.6rem;
+  width: 100%;
+  height: 4.4rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-1e1 .expenseheadingdetaill-HrR {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-1e1 .expenseheadingdetaill-HrR .item-25-05-2003-8s3 {
+  margin: 0rem 3rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-1e1 .expenseheadingdetaill-HrR .item-132416-nRo {
+  margin: 0rem 4.4rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-1e1 .expenseheadingdetaill-HrR .insparkdevs-o61 {
+  margin: 0rem 3.7rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-1e1 .expenseheadingdetaill-HrR .expenses-s5s {
+  margin: 0rem 6rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-1e1 .expenseheadingdetaill-HrR .cash-9JH {
+  margin: 0rem 14.9rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-1e1 .expenseheadingdetaill-HrR .item-23233232-nMF {
+  margin: 0.2rem 3.7rem 0rem 0rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-1e1 .expenseheadingdetaill-HrR .done-rM7 {
+  margin: 0rem 2.1rem 0.2rem 0rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-1e1 .expenseheadingdetaill-HrR .vector-WAm {
+  margin-right: 2.1rem;
+  width: 1.9rem;
+  height: 2.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-1e1 .expenseheadingdetaill-HrR .vector-cDo {
+  margin-bottom: 0.1rem;
+  width: 2.2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-J6d {
+  box-sizing: border-box;
+  padding: 1.5rem 1.4rem 0.6rem 1.6rem;
+  width: 100%;
+  height: 4.4rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-J6d .expenseheadingdetaill-xS5 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-J6d .expenseheadingdetaill-xS5 .item-25-05-2003-Fg5 {
+  margin: 0rem 3rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-J6d .expenseheadingdetaill-xS5 .item-132416-Kvq {
+  margin: 0rem 4.4rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-J6d .expenseheadingdetaill-xS5 .insparkdevs-xyo {
+  margin: 0rem 3.7rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-J6d .expenseheadingdetaill-xS5 .expenses-T9s {
+  margin: 0rem 6rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-J6d .expenseheadingdetaill-xS5 .cash-wKw {
+  margin: 0rem 14.9rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-J6d .expenseheadingdetaill-xS5 .item-23233232-bvH {
+  margin: 0.2rem 3.7rem 0rem 0rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-J6d .expenseheadingdetaill-xS5 .done-UjB {
+  margin: 0rem 2.1rem 0.2rem 0rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-J6d .expenseheadingdetaill-xS5 .vector-B7o {
+  margin-right: 2.1rem;
+  width: 1.9rem;
+  height: 2.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-J6d .expenseheadingdetaill-xS5 .vector-4Bb {
+  margin-bottom: 0.1rem;
+  width: 2.2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-9iq {
+  box-sizing: border-box;
+  padding: 1.5rem 1.4rem 0.6rem 1.6rem;
+  width: 100%;
+  height: 4.4rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-9iq .expenseheadingdetaill-457 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-9iq .expenseheadingdetaill-457 .item-25-05-2003-84y {
+  margin: 0rem 3rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-9iq .expenseheadingdetaill-457 .item-132416-nfK {
+  margin: 0rem 4.4rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-9iq .expenseheadingdetaill-457 .insparkdevs-58d {
+  margin: 0rem 3.7rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-9iq .expenseheadingdetaill-457 .expenses-XFX {
+  margin: 0rem 6rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-9iq .expenseheadingdetaill-457 .cash-cXs {
+  margin: 0rem 14.9rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-9iq .expenseheadingdetaill-457 .item-23233232-u1B {
+  margin: 0.2rem 3.7rem 0rem 0rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-9iq .expenseheadingdetaill-457 .done-kGh {
+  margin: 0rem 2.1rem 0.2rem 0rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-9iq .expenseheadingdetaill-457 .vector-qZ3 {
+  margin-right: 2.1rem;
+  width: 1.9rem;
+  height: 2.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-9iq .expenseheadingdetaill-457 .vector-YiM {
+  margin-bottom: 0.1rem;
+  width: 2.2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-cCR {
+  box-sizing: border-box;
+  padding: 1.5rem 1.4rem 0.6rem 1.6rem;
+  width: 100%;
+  height: 4.4rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-cCR .expenseheadingdetaill-WHo {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-cCR .expenseheadingdetaill-WHo .item-25-05-2003-bq3 {
+  margin: 0rem 3rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-cCR .expenseheadingdetaill-WHo .item-132416-t3T {
+  margin: 0rem 4.4rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-cCR .expenseheadingdetaill-WHo .insparkdevs-vVw {
+  margin: 0rem 3.7rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-cCR .expenseheadingdetaill-WHo .expenses-p5X {
+  margin: 0rem 6rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-cCR .expenseheadingdetaill-WHo .cash-JFb {
+  margin: 0rem 14.9rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-cCR .expenseheadingdetaill-WHo .item-23233232-xb3 {
+  margin: 0.2rem 3.7rem 0rem 0rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-cCR .expenseheadingdetaill-WHo .done-EoT {
+  margin: 0rem 2.1rem 0.2rem 0rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-cCR .expenseheadingdetaill-WHo .vector-Lbb {
+  margin-right: 2.1rem;
+  width: 1.9rem;
+  height: 2.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-cCR .expenseheadingdetaill-WHo .vector-Cdo {
+  margin-bottom: 0.1rem;
+  width: 2.2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-Jgq {
+  box-sizing: border-box;
+  padding: 1.5rem 1.4rem 0.6rem 1.6rem;
+  width: 100%;
+  height: 4.4rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-Jgq .expenseheadingdetaill-D37 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-Jgq .expenseheadingdetaill-D37 .item-25-05-2003-H2y {
+  margin: 0rem 3rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-Jgq .expenseheadingdetaill-D37 .item-132416-xQ1 {
+  margin: 0rem 4.4rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-Jgq .expenseheadingdetaill-D37 .insparkdevs-3RT {
+  margin: 0rem 3.7rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-Jgq .expenseheadingdetaill-D37 .expenses-J6V {
+  margin: 0rem 6rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-Jgq .expenseheadingdetaill-D37 .cash-aph {
+  margin: 0rem 14.9rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-Jgq .expenseheadingdetaill-D37 .item-23233232-Tdb {
+  margin: 0.2rem 3.7rem 0rem 0rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-Jgq .expenseheadingdetaill-D37 .done-uEh {
+  margin: 0rem 2.1rem 0.2rem 0rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-Jgq .expenseheadingdetaill-D37 .vector-ard {
+  margin-right: 2.1rem;
+  width: 1.9rem;
+  height: 2.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-Jgq .expenseheadingdetaill-D37 .vector-75s {
+  margin-bottom: 0.1rem;
+  width: 2.2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-aVF {
+  box-sizing: border-box;
+  padding: 1.5rem 1.4rem 0.6rem 1.6rem;
+  width: 100%;
+  height: 4.4rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-aVF .expenseheadingdetaill-Uad {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-aVF .expenseheadingdetaill-Uad .item-25-05-2003-ynH {
+  margin: 0rem 3rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-aVF .expenseheadingdetaill-Uad .item-132416-RuB {
+  margin: 0rem 4.4rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-aVF .expenseheadingdetaill-Uad .insparkdevs-idP {
+  margin: 0rem 3.7rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-aVF .expenseheadingdetaill-Uad .expenses-1cV {
+  margin: 0rem 6rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-aVF .expenseheadingdetaill-Uad .cash-UW5 {
+  margin: 0rem 14.9rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-aVF .expenseheadingdetaill-Uad .item-23233232-NbT {
+  margin: 0.2rem 3.7rem 0rem 0rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-aVF .expenseheadingdetaill-Uad .done-SrD {
+  margin: 0rem 2.1rem 0.2rem 0rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-aVF .expenseheadingdetaill-Uad .vector-Wr5 {
+  margin-right: 2.1rem;
+  width: 1.9rem;
+  height: 2.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-aVF .expenseheadingdetaill-Uad .vector-dfo {
+  margin-bottom: 0.1rem;
+  width: 2.2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-XFP {
+  box-sizing: border-box;
+  padding: 1.5rem 1.4rem 0.6rem 1.6rem;
+  width: 100%;
+  height: 4.4rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-XFP .expenseheadingdetaill-Baq {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-XFP .expenseheadingdetaill-Baq .item-25-05-2003-siZ {
+  margin: 0rem 3rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-XFP .expenseheadingdetaill-Baq .item-132416-xED {
+  margin: 0rem 4.4rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-XFP .expenseheadingdetaill-Baq .insparkdevs-oEq {
+  margin: 0rem 3.7rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-XFP .expenseheadingdetaill-Baq .expenses-V7f {
+  margin: 0rem 6rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-XFP .expenseheadingdetaill-Baq .cash-a97 {
+  margin: 0rem 14.9rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-XFP .expenseheadingdetaill-Baq .item-23233232-EDf {
+  margin: 0.2rem 3.7rem 0rem 0rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-XFP .expenseheadingdetaill-Baq .done-6mf {
+  margin: 0rem 2.1rem 0.2rem 0rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-XFP .expenseheadingdetaill-Baq .vector-aRw {
+  margin-right: 2.1rem;
+  width: 1.9rem;
+  height: 2.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-XFP .expenseheadingdetaill-Baq .vector-fTP {
+  margin-bottom: 0.1rem;
+  width: 2.2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-sZT {
+  box-sizing: border-box;
+  padding: 1.5rem 1.4rem 0.6rem 1.6rem;
+  width: 100%;
+  height: 4.4rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-sZT .expenseheadingdetaill-m93 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-sZT .expenseheadingdetaill-m93 .item-25-05-2003-53F {
+  margin: 0rem 3rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-sZT .expenseheadingdetaill-m93 .item-132416-XR3 {
+  margin: 0rem 4.4rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-sZT .expenseheadingdetaill-m93 .insparkdevs-Ayo {
+  margin: 0rem 3.7rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-sZT .expenseheadingdetaill-m93 .expenses-Pbf {
+  margin: 0rem 6rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-sZT .expenseheadingdetaill-m93 .cash-Fds {
+  margin: 0rem 14.9rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-sZT .expenseheadingdetaill-m93 .item-23233232-X5b {
+  margin: 0.2rem 3.7rem 0rem 0rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-sZT .expenseheadingdetaill-m93 .done-96y {
+  margin: 0rem 2.1rem 0.2rem 0rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-sZT .expenseheadingdetaill-m93 .vector-DsX {
+  margin-right: 2.1rem;
+  width: 1.9rem;
+  height: 2.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-sZT .expenseheadingdetaill-m93 .vector-iZP {
+  margin-bottom: 0.1rem;
+  width: 2.2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-Za1 {
+  box-sizing: border-box;
+  padding: 1.5rem 1.4rem 0.6rem 1.6rem;
+  width: 100%;
+  height: 4.4rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-Za1 .expenseheadingdetaill-3VB {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-Za1 .expenseheadingdetaill-3VB .item-25-05-2003-Xv9 {
+  margin: 0rem 3rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-Za1 .expenseheadingdetaill-3VB .item-132416-knu {
+  margin: 0rem 4.4rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-Za1 .expenseheadingdetaill-3VB .insparkdevs-p25 {
+  margin: 0rem 3.7rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-Za1 .expenseheadingdetaill-3VB .expenses-Guf {
+  margin: 0rem 6rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-Za1 .expenseheadingdetaill-3VB .cash-Xah {
+  margin: 0rem 14.9rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-Za1 .expenseheadingdetaill-3VB .item-23233232-1Ey {
+  margin: 0.2rem 3.7rem 0rem 0rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-Za1 .expenseheadingdetaill-3VB .done-HCV {
+  margin: 0rem 2.1rem 0.2rem 0rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-Za1 .expenseheadingdetaill-3VB .vector-Key {
+  margin-right: 2.1rem;
+  width: 1.9rem;
+  height: 2.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-Za1 .expenseheadingdetaill-3VB .vector-23b {
+  margin-bottom: 0.1rem;
+  width: 2.2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-VSy {
+  box-sizing: border-box;
+  padding: 1.5rem 1.4rem 0.6rem 1.6rem;
+  width: 100%;
+  height: 4.4rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-VSy .expenseheadingdetaill-yN9 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-VSy .expenseheadingdetaill-yN9 .item-25-05-2003-2bK {
+  margin: 0rem 3rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-VSy .expenseheadingdetaill-yN9 .item-132416-tNd {
+  margin: 0rem 4.4rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-VSy .expenseheadingdetaill-yN9 .insparkdevs-9ZT {
+  margin: 0rem 3.7rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-VSy .expenseheadingdetaill-yN9 .expenses-8gH {
+  margin: 0rem 6rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-VSy .expenseheadingdetaill-yN9 .cash-CRF {
+  margin: 0rem 14.9rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-VSy .expenseheadingdetaill-yN9 .item-23233232-E73 {
+  margin: 0.2rem 3.7rem 0rem 0rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-VSy .expenseheadingdetaill-yN9 .done-4Ly {
+  margin: 0rem 2.1rem 0.2rem 0rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-VSy .expenseheadingdetaill-yN9 .vector-tau {
+  margin-right: 2.1rem;
+  width: 1.9rem;
+  height: 2.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1default-bqb .recentfranstable-gXb .auto-group-n6x1-Ccy .transactiondetail-VSy .expenseheadingdetaill-yN9 .vector-z89 {
+  margin-bottom: 0.1rem;
+  width: 2.2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recenttransframe-D9K {
+  margin: 0rem 0.005rem 1.1rem 0rem;
+  box-sizing: border-box;
+  padding: 0.3rem 1.7rem 0.2rem 3.7rem;
+  width: calc(100% - 0.0055rem);
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #cad0f4;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recenttransframe-D9K .recent-transactions-yGu {
+  margin-right: 6.1rem;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.7025;
+  letter-spacing: 0.396rem;
+  color: #000000;
+  font-family: Harmattan, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recenttransframe-D9K .your-key-stats-for-the-last-7-days-oWq {
+  margin: 0rem 8.4rem 0.1rem 0rem;
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.6636132327;
+  letter-spacing: 0.066rem;
+  color: rgba(0, 0, 0, 0.6200000048);
+  font-family: Harmattan, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recenttransframe-D9K .your-key-stats-for-the-last-7-days-oWq .your-key-stats-for-the-last-7-days-oWq-sub-0 {
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.6636132327;
+  letter-spacing: 0.066rem;
+  color: rgba(0, 0, 0, 0.6200000048);
+  font-family: Carrois Gothic, 'Source Sans Pro';
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recenttransframe-D9K .your-key-stats-for-the-last-7-days-oWq .your-key-stats-for-the-last-7-days-oWq-sub-1 {
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.6636132327;
+  letter-spacing: 0.066rem;
+  color: #0f41f3;
+  font-family: Carrois Gothic, 'Source Sans Pro';
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recenttransframe-D9K .vector-fso {
+  margin-bottom: 0.1rem;
+  width: 4.9rem;
+  height: 2.7rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o {
+  box-sizing: border-box;
+  padding-top: 0.4rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .expenseheadingdetaill-adP {
+  margin: 0rem 9.705rem 1.35rem 5.42rem;
+  width: calc(100% - 15.125rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .expenseheadingdetaill-adP .date-P53 {
+  margin-right: 6.5922rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .expenseheadingdetaill-adP .xid-Ged {
+  margin-right: 7.5rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .expenseheadingdetaill-adP .name-79T {
+  margin-right: 4.5rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .expenseheadingdetaill-adP .pmt-type-o2H {
+  margin-right: 4.1rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .expenseheadingdetaill-adP .pmt-mode-Hy3 {
+  margin-right: 10.2883rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .expenseheadingdetaill-adP .amount-8im {
+  margin-right: 4.6rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .expenseheadingdetaill-adP .status-dfX {
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-zpuz-6JD {
+  box-sizing: border-box;
+  padding: 0rem 0.003rem 0rem 0.002rem;
+  width: 100%;
+  height: 4.4rem;
+  border-top: solid 0.1rem #000000;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-zpuz-6JD .transactiondetail-ZSh {
+  box-sizing: border-box;
+  padding: 1.5rem 1.4rem 0.6rem 1.6rem;
+  width: 100%;
+  height: 100%;
+  background-color: #d9d9d9;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-zpuz-6JD .transactiondetail-ZSh .expenseheadingdetaill-ej3 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-zpuz-6JD .transactiondetail-ZSh .expenseheadingdetaill-ej3 .item-25-05-2003-YJd {
+  margin: 0rem 3rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-zpuz-6JD .transactiondetail-ZSh .expenseheadingdetaill-ej3 .item-132416-ZDj {
+  margin: 0rem 4.4rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-zpuz-6JD .transactiondetail-ZSh .expenseheadingdetaill-ej3 .insparkdevs-DJH {
+  margin: 0rem 3.7rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-zpuz-6JD .transactiondetail-ZSh .expenseheadingdetaill-ej3 .expenses-hDT {
+  margin: 0rem 6rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-zpuz-6JD .transactiondetail-ZSh .expenseheadingdetaill-ej3 .cash-M37 {
+  margin: 0rem 14.9rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-zpuz-6JD .transactiondetail-ZSh .expenseheadingdetaill-ej3 .item-23233232-qU5 {
+  margin: 0.2rem 3.7rem 0rem 0rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-zpuz-6JD .transactiondetail-ZSh .expenseheadingdetaill-ej3 .done-hmB {
+  margin: 0rem 2.1rem 0.2rem 0rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-zpuz-6JD .transactiondetail-ZSh .expenseheadingdetaill-ej3 .vector-9dB {
+  margin-right: 2.1rem;
+  width: 1.9rem;
+  height: 2.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-zpuz-6JD .transactiondetail-ZSh .expenseheadingdetaill-ej3 .vector-FRK {
+  margin-bottom: 0.1rem;
+  width: 2.2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF {
+  box-sizing: border-box;
+  padding: 0rem 0.003rem 0rem 0.002rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-gf3 {
+  box-sizing: border-box;
+  padding: 1.5rem 1.4rem 0.6rem 1.6rem;
+  width: 100%;
+  height: 4.4rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-gf3 .expenseheadingdetaill-NXs {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-gf3 .expenseheadingdetaill-NXs .item-25-05-2003-dCu {
+  margin: 0rem 3rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-gf3 .expenseheadingdetaill-NXs .item-132416-VF7 {
+  margin: 0rem 4.4rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-gf3 .expenseheadingdetaill-NXs .insparkdevs-xuP {
+  margin: 0rem 3.7rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-gf3 .expenseheadingdetaill-NXs .expenses-bxM {
+  margin: 0rem 6rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-gf3 .expenseheadingdetaill-NXs .cash-5sX {
+  margin: 0rem 14.9rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-gf3 .expenseheadingdetaill-NXs .item-23233232-xwK {
+  margin: 0.2rem 3.7rem 0rem 0rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-gf3 .expenseheadingdetaill-NXs .done-hXX {
+  margin: 0rem 2.1rem 0.2rem 0rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-gf3 .expenseheadingdetaill-NXs .vector-Avu {
+  margin-right: 2.1rem;
+  width: 1.9rem;
+  height: 2.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-gf3 .expenseheadingdetaill-NXs .vector-Hkd {
+  margin-bottom: 0.1rem;
+  width: 2.2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-YwT {
+  box-sizing: border-box;
+  padding: 1.5rem 1.4rem 0.6rem 1.6rem;
+  width: 100%;
+  height: 4.4rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-YwT .expenseheadingdetaill-qvZ {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-YwT .expenseheadingdetaill-qvZ .item-25-05-2003-wih {
+  margin: 0rem 3rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-YwT .expenseheadingdetaill-qvZ .item-132416-1yT {
+  margin: 0rem 4.4rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-YwT .expenseheadingdetaill-qvZ .insparkdevs-fHK {
+  margin: 0rem 3.7rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-YwT .expenseheadingdetaill-qvZ .expenses-LuF {
+  margin: 0rem 6rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-YwT .expenseheadingdetaill-qvZ .cash-qLD {
+  margin: 0rem 14.9rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-YwT .expenseheadingdetaill-qvZ .item-23233232-6G9 {
+  margin: 0.2rem 3.7rem 0rem 0rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-YwT .expenseheadingdetaill-qvZ .done-y53 {
+  margin: 0rem 2.1rem 0.2rem 0rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-YwT .expenseheadingdetaill-qvZ .vector-ruX {
+  margin-right: 2.1rem;
+  width: 1.9rem;
+  height: 2.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-YwT .expenseheadingdetaill-qvZ .vector-ro3 {
+  margin-bottom: 0.1rem;
+  width: 2.2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-Mjo {
+  box-sizing: border-box;
+  padding: 1.5rem 1.4rem 0.6rem 1.6rem;
+  width: 100%;
+  height: 4.4rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-Mjo .expenseheadingdetaill-T29 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-Mjo .expenseheadingdetaill-T29 .item-25-05-2003-88H {
+  margin: 0rem 3rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-Mjo .expenseheadingdetaill-T29 .item-132416-oVK {
+  margin: 0rem 4.4rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-Mjo .expenseheadingdetaill-T29 .insparkdevs-gJD {
+  margin: 0rem 3.7rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-Mjo .expenseheadingdetaill-T29 .expenses-7uK {
+  margin: 0rem 6rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-Mjo .expenseheadingdetaill-T29 .cash-oGM {
+  margin: 0rem 14.9rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-Mjo .expenseheadingdetaill-T29 .item-23233232-V9B {
+  margin: 0.2rem 3.7rem 0rem 0rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-Mjo .expenseheadingdetaill-T29 .done-L9o {
+  margin: 0rem 2.1rem 0.2rem 0rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-Mjo .expenseheadingdetaill-T29 .vector-1mj {
+  margin-right: 2.1rem;
+  width: 1.9rem;
+  height: 2.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-Mjo .expenseheadingdetaill-T29 .vector-iAM {
+  margin-bottom: 0.1rem;
+  width: 2.2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-B3w {
+  box-sizing: border-box;
+  padding: 1.5rem 1.4rem 0.6rem 1.6rem;
+  width: 100%;
+  height: 4.4rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-B3w .expenseheadingdetaill-fjo {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-B3w .expenseheadingdetaill-fjo .item-25-05-2003-N8R {
+  margin: 0rem 3rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-B3w .expenseheadingdetaill-fjo .item-132416-oUd {
+  margin: 0rem 4.4rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-B3w .expenseheadingdetaill-fjo .insparkdevs-gHX {
+  margin: 0rem 3.7rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-B3w .expenseheadingdetaill-fjo .expenses-Z6R {
+  margin: 0rem 6rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-B3w .expenseheadingdetaill-fjo .cash-p2M {
+  margin: 0rem 14.9rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-B3w .expenseheadingdetaill-fjo .item-23233232-tnu {
+  margin: 0.2rem 3.7rem 0rem 0rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-B3w .expenseheadingdetaill-fjo .done-NCH {
+  margin: 0rem 2.1rem 0.2rem 0rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-B3w .expenseheadingdetaill-fjo .vector-RRT {
+  margin-right: 2.1rem;
+  width: 1.9rem;
+  height: 2.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-B3w .expenseheadingdetaill-fjo .vector-w8u {
+  margin-bottom: 0.1rem;
+  width: 2.2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-1eZ {
+  box-sizing: border-box;
+  padding: 1.5rem 1.4rem 0.6rem 1.6rem;
+  width: 100%;
+  height: 4.4rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-1eZ .expenseheadingdetaill-GaV {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-1eZ .expenseheadingdetaill-GaV .item-25-05-2003-NdX {
+  margin: 0rem 3rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-1eZ .expenseheadingdetaill-GaV .item-132416-SdP {
+  margin: 0rem 4.4rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-1eZ .expenseheadingdetaill-GaV .insparkdevs-5gM {
+  margin: 0rem 3.7rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-1eZ .expenseheadingdetaill-GaV .expenses-AC1 {
+  margin: 0rem 6rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-1eZ .expenseheadingdetaill-GaV .cash-EBs {
+  margin: 0rem 14.9rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-1eZ .expenseheadingdetaill-GaV .item-23233232-ryw {
+  margin: 0.2rem 3.7rem 0rem 0rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-1eZ .expenseheadingdetaill-GaV .done-8Rf {
+  margin: 0rem 2.1rem 0.2rem 0rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-1eZ .expenseheadingdetaill-GaV .vector-Qty {
+  margin-right: 2.1rem;
+  width: 1.9rem;
+  height: 2.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-1eZ .expenseheadingdetaill-GaV .vector-tZF {
+  margin-bottom: 0.1rem;
+  width: 2.2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-ZfP {
+  box-sizing: border-box;
+  padding: 1.5rem 1.4rem 0.6rem 1.6rem;
+  width: 100%;
+  height: 4.4rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-ZfP .expenseheadingdetaill-3qT {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-ZfP .expenseheadingdetaill-3qT .item-25-05-2003-7KX {
+  margin: 0rem 3rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-ZfP .expenseheadingdetaill-3qT .item-132416-P29 {
+  margin: 0rem 4.4rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-ZfP .expenseheadingdetaill-3qT .insparkdevs-eyf {
+  margin: 0rem 3.7rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-ZfP .expenseheadingdetaill-3qT .expenses-6am {
+  margin: 0rem 6rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-ZfP .expenseheadingdetaill-3qT .cash-BcD {
+  margin: 0rem 14.9rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-ZfP .expenseheadingdetaill-3qT .item-23233232-g3B {
+  margin: 0.2rem 3.7rem 0rem 0rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-ZfP .expenseheadingdetaill-3qT .done-uwX {
+  margin: 0rem 2.1rem 0.2rem 0rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-ZfP .expenseheadingdetaill-3qT .vector-oX7 {
+  margin-right: 2.1rem;
+  width: 1.9rem;
+  height: 2.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-ZfP .expenseheadingdetaill-3qT .vector-KEZ {
+  margin-bottom: 0.1rem;
+  width: 2.2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-BnZ {
+  box-sizing: border-box;
+  padding: 1.5rem 1.4rem 0.6rem 1.6rem;
+  width: 100%;
+  height: 4.4rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-BnZ .expenseheadingdetaill-fhj {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-BnZ .expenseheadingdetaill-fhj .item-25-05-2003-NMF {
+  margin: 0rem 3rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-BnZ .expenseheadingdetaill-fhj .item-132416-QYq {
+  margin: 0rem 4.4rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-BnZ .expenseheadingdetaill-fhj .insparkdevs-HMj {
+  margin: 0rem 3.7rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-BnZ .expenseheadingdetaill-fhj .expenses-NPB {
+  margin: 0rem 6rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-BnZ .expenseheadingdetaill-fhj .cash-R6Z {
+  margin: 0rem 14.9rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-BnZ .expenseheadingdetaill-fhj .item-23233232-7EH {
+  margin: 0.2rem 3.7rem 0rem 0rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-BnZ .expenseheadingdetaill-fhj .done-ynH {
+  margin: 0rem 2.1rem 0.2rem 0rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-BnZ .expenseheadingdetaill-fhj .vector-G97 {
+  margin-right: 2.1rem;
+  width: 1.9rem;
+  height: 2.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-BnZ .expenseheadingdetaill-fhj .vector-y3X {
+  margin-bottom: 0.1rem;
+  width: 2.2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-4qf {
+  box-sizing: border-box;
+  padding: 1.5rem 1.4rem 0.6rem 1.6rem;
+  width: 100%;
+  height: 4.4rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-4qf .expenseheadingdetaill-ZGd {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-4qf .expenseheadingdetaill-ZGd .item-25-05-2003-2AD {
+  margin: 0rem 3rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-4qf .expenseheadingdetaill-ZGd .item-132416-ty7 {
+  margin: 0rem 4.4rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-4qf .expenseheadingdetaill-ZGd .insparkdevs-Avd {
+  margin: 0rem 3.7rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-4qf .expenseheadingdetaill-ZGd .expenses-d3X {
+  margin: 0rem 6rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-4qf .expenseheadingdetaill-ZGd .cash-7Db {
+  margin: 0rem 14.9rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-4qf .expenseheadingdetaill-ZGd .item-23233232-Pwo {
+  margin: 0.2rem 3.7rem 0rem 0rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-4qf .expenseheadingdetaill-ZGd .done-2zm {
+  margin: 0rem 2.1rem 0.2rem 0rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-4qf .expenseheadingdetaill-ZGd .vector-XAq {
+  margin-right: 2.1rem;
+  width: 1.9rem;
+  height: 2.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-4qf .expenseheadingdetaill-ZGd .vector-Eqw {
+  margin-bottom: 0.1rem;
+  width: 2.2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-793 {
+  box-sizing: border-box;
+  padding: 1.5rem 1.4rem 0.6rem 1.6rem;
+  width: 100%;
+  height: 4.4rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-793 .expenseheadingdetaill-oGm {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-793 .expenseheadingdetaill-oGm .item-25-05-2003-Hhj {
+  margin: 0rem 3rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-793 .expenseheadingdetaill-oGm .item-132416-XMB {
+  margin: 0rem 4.4rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-793 .expenseheadingdetaill-oGm .insparkdevs-CiD {
+  margin: 0rem 3.7rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-793 .expenseheadingdetaill-oGm .expenses-Ufj {
+  margin: 0rem 6rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-793 .expenseheadingdetaill-oGm .cash-jbf {
+  margin: 0rem 14.9rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-793 .expenseheadingdetaill-oGm .item-23233232-24y {
+  margin: 0.2rem 3.7rem 0rem 0rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-793 .expenseheadingdetaill-oGm .done-VUM {
+  margin: 0rem 2.1rem 0.2rem 0rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-793 .expenseheadingdetaill-oGm .vector-Lzm {
+  margin-right: 2.1rem;
+  width: 1.9rem;
+  height: 2.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-793 .expenseheadingdetaill-oGm .vector-TZb {
+  margin-bottom: 0.1rem;
+  width: 2.2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-LdP {
+  box-sizing: border-box;
+  padding: 1.5rem 1.4rem 0.6rem 1.6rem;
+  width: 100%;
+  height: 4.4rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-LdP .expenseheadingdetaill-mih {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-LdP .expenseheadingdetaill-mih .item-25-05-2003-fJH {
+  margin: 0rem 3rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-LdP .expenseheadingdetaill-mih .item-132416-8hf {
+  margin: 0rem 4.4rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-LdP .expenseheadingdetaill-mih .insparkdevs-xRo {
+  margin: 0rem 3.7rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-LdP .expenseheadingdetaill-mih .expenses-dXw {
+  margin: 0rem 6rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-LdP .expenseheadingdetaill-mih .cash-KQm {
+  margin: 0rem 14.9rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-LdP .expenseheadingdetaill-mih .item-23233232-mGm {
+  margin: 0.2rem 3.7rem 0rem 0rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-LdP .expenseheadingdetaill-mih .done-2iV {
+  margin: 0rem 2.1rem 0.2rem 0rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-LdP .expenseheadingdetaill-mih .vector-vJ5 {
+  margin-right: 2.1rem;
+  width: 1.9rem;
+  height: 2.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-LdP .expenseheadingdetaill-mih .vector-oMs {
+  margin-bottom: 0.1rem;
+  width: 2.2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-Hnq {
+  box-sizing: border-box;
+  padding: 1.5rem 1.4rem 0.6rem 1.6rem;
+  width: 100%;
+  height: 4.4rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-Hnq .expenseheadingdetaill-BtD {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-Hnq .expenseheadingdetaill-BtD .item-25-05-2003-3fX {
+  margin: 0rem 3rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-Hnq .expenseheadingdetaill-BtD .item-132416-7QV {
+  margin: 0rem 4.4rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-Hnq .expenseheadingdetaill-BtD .insparkdevs-b4m {
+  margin: 0rem 3.7rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-Hnq .expenseheadingdetaill-BtD .expenses-RZb {
+  margin: 0rem 6rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-Hnq .expenseheadingdetaill-BtD .cash-K9B {
+  margin: 0rem 14.9rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-Hnq .expenseheadingdetaill-BtD .item-23233232-yDj {
+  margin: 0.2rem 3.7rem 0rem 0rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-Hnq .expenseheadingdetaill-BtD .done-bku {
+  margin: 0rem 2.1rem 0.2rem 0rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-Hnq .expenseheadingdetaill-BtD .vector-syK {
+  margin-right: 2.1rem;
+  width: 1.9rem;
+  height: 2.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-Hnq .expenseheadingdetaill-BtD .vector-BDK {
+  margin-bottom: 0.1rem;
+  width: 2.2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-RtM {
+  box-sizing: border-box;
+  padding: 1.5rem 1.4rem 0.6rem 1.6rem;
+  width: 100%;
+  height: 4.4rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-RtM .expenseheadingdetaill-KD3 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-RtM .expenseheadingdetaill-KD3 .item-25-05-2003-15s {
+  margin: 0rem 3rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-RtM .expenseheadingdetaill-KD3 .item-132416-pZ7 {
+  margin: 0rem 4.4rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-RtM .expenseheadingdetaill-KD3 .insparkdevs-g5X {
+  margin: 0rem 3.7rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-RtM .expenseheadingdetaill-KD3 .expenses-xHw {
+  margin: 0rem 6rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-RtM .expenseheadingdetaill-KD3 .cash-Pu3 {
+  margin: 0rem 14.9rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-RtM .expenseheadingdetaill-KD3 .item-23233232-spD {
+  margin: 0.2rem 3.7rem 0rem 0rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-RtM .expenseheadingdetaill-KD3 .done-Lho {
+  margin: 0rem 2.1rem 0.2rem 0rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-RtM .expenseheadingdetaill-KD3 .vector-6iu {
+  margin-right: 2.1rem;
+  width: 1.9rem;
+  height: 2.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-RtM .expenseheadingdetaill-KD3 .vector-K5s {
+  margin-bottom: 0.1rem;
+  width: 2.2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-Xxd {
+  box-sizing: border-box;
+  padding: 1.5rem 1.4rem 0.6rem 1.6rem;
+  width: 100%;
+  height: 4.4rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-Xxd .expenseheadingdetaill-tXb {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-Xxd .expenseheadingdetaill-tXb .item-25-05-2003-wVs {
+  margin: 0rem 3rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-Xxd .expenseheadingdetaill-tXb .item-132416-1kd {
+  margin: 0rem 4.4rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-Xxd .expenseheadingdetaill-tXb .insparkdevs-iuw {
+  margin: 0rem 3.7rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-Xxd .expenseheadingdetaill-tXb .expenses-qDs {
+  margin: 0rem 6rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-Xxd .expenseheadingdetaill-tXb .cash-Yty {
+  margin: 0rem 14.9rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-Xxd .expenseheadingdetaill-tXb .item-23233232-UXj {
+  margin: 0.2rem 3.7rem 0rem 0rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-Xxd .expenseheadingdetaill-tXb .done-aKs {
+  margin: 0rem 2.1rem 0.2rem 0rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-Xxd .expenseheadingdetaill-tXb .vector-Vhj {
+  margin-right: 2.1rem;
+  width: 1.9rem;
+  height: 2.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-Xxd .expenseheadingdetaill-tXb .vector-qFo {
+  margin-bottom: 0.1rem;
+  width: 2.2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-x5X {
+  box-sizing: border-box;
+  padding: 1.5rem 1.4rem 0.6rem 1.6rem;
+  width: 100%;
+  height: 4.4rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-x5X .expenseheadingdetaill-fkd {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-x5X .expenseheadingdetaill-fkd .item-25-05-2003-zY1 {
+  margin: 0rem 3rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-x5X .expenseheadingdetaill-fkd .item-132416-uQ5 {
+  margin: 0rem 4.4rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-x5X .expenseheadingdetaill-fkd .insparkdevs-1i1 {
+  margin: 0rem 3.7rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-x5X .expenseheadingdetaill-fkd .expenses-wLm {
+  margin: 0rem 6rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-x5X .expenseheadingdetaill-fkd .cash-Tpu {
+  margin: 0rem 14.9rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-x5X .expenseheadingdetaill-fkd .item-23233232-PTf {
+  margin: 0.2rem 3.7rem 0rem 0rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-x5X .expenseheadingdetaill-fkd .done-7Pf {
+  margin: 0rem 2.1rem 0.2rem 0rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-x5X .expenseheadingdetaill-fkd .vector-3YD {
+  margin-right: 2.1rem;
+  width: 1.9rem;
+  height: 2.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-x5X .expenseheadingdetaill-fkd .vector-BuK {
+  margin-bottom: 0.1rem;
+  width: 2.2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-Wwb {
+  box-sizing: border-box;
+  padding: 1.5rem 1.4rem 0.6rem 1.6rem;
+  width: 100%;
+  height: 4.4rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-Wwb .expenseheadingdetaill-FPP {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-Wwb .expenseheadingdetaill-FPP .item-25-05-2003-z65 {
+  margin: 0rem 3rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-Wwb .expenseheadingdetaill-FPP .item-132416-hWH {
+  margin: 0rem 4.4rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-Wwb .expenseheadingdetaill-FPP .insparkdevs-pau {
+  margin: 0rem 3.7rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-Wwb .expenseheadingdetaill-FPP .expenses-M53 {
+  margin: 0rem 6rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-Wwb .expenseheadingdetaill-FPP .cash-5Wq {
+  margin: 0rem 14.9rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-Wwb .expenseheadingdetaill-FPP .item-23233232-oxd {
+  margin: 0.2rem 3.7rem 0rem 0rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-Wwb .expenseheadingdetaill-FPP .done-w3F {
+  margin: 0rem 2.1rem 0.2rem 0rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-Wwb .expenseheadingdetaill-FPP .vector-4tZ {
+  margin-right: 2.1rem;
+  width: 1.9rem;
+  height: 2.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-Wwb .expenseheadingdetaill-FPP .vector-pcq {
+  margin-bottom: 0.1rem;
+  width: 2.2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-9v1 {
+  box-sizing: border-box;
+  padding: 1.5rem 1.4rem 0.6rem 1.6rem;
+  width: 100%;
+  height: 4.4rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-9v1 .expenseheadingdetaill-tMo {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-9v1 .expenseheadingdetaill-tMo .item-25-05-2003-Dus {
+  margin: 0rem 3rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-9v1 .expenseheadingdetaill-tMo .item-132416-LzV {
+  margin: 0rem 4.4rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-9v1 .expenseheadingdetaill-tMo .insparkdevs-UL1 {
+  margin: 0rem 3.7rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-9v1 .expenseheadingdetaill-tMo .expenses-153 {
+  margin: 0rem 6rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-9v1 .expenseheadingdetaill-tMo .cash-Y4y {
+  margin: 0rem 14.9rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-9v1 .expenseheadingdetaill-tMo .item-23233232-GWm {
+  margin: 0.2rem 3.7rem 0rem 0rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-9v1 .expenseheadingdetaill-tMo .done-nzu {
+  margin: 0rem 2.1rem 0.2rem 0rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-9v1 .expenseheadingdetaill-tMo .vector-Wg1 {
+  margin-right: 2.1rem;
+  width: 1.9rem;
+  height: 2.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-9v1 .expenseheadingdetaill-tMo .vector-1sf {
+  margin-bottom: 0.1rem;
+  width: 2.2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-Luw {
+  box-sizing: border-box;
+  padding: 1.5rem 1.4rem 0.6rem 1.6rem;
+  width: 100%;
+  height: 4.4rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-Luw .expenseheadingdetaill-Gob {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-Luw .expenseheadingdetaill-Gob .item-25-05-2003-oHj {
+  margin: 0rem 3rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-Luw .expenseheadingdetaill-Gob .item-132416-JVP {
+  margin: 0rem 4.4rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-Luw .expenseheadingdetaill-Gob .insparkdevs-pTj {
+  margin: 0rem 3.7rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-Luw .expenseheadingdetaill-Gob .expenses-k6V {
+  margin: 0rem 6rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-Luw .expenseheadingdetaill-Gob .cash-GKj {
+  margin: 0rem 14.9rem 0.2rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-Luw .expenseheadingdetaill-Gob .item-23233232-Bhb {
+  margin: 0.2rem 3.7rem 0rem 0rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-Luw .expenseheadingdetaill-Gob .done-6Zf {
+  margin: 0rem 2.1rem 0.2rem 0rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.7799999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-Luw .expenseheadingdetaill-Gob .vector-Rbw {
+  margin-right: 2.1rem;
+  width: 1.9rem;
+  height: 2.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.completerecenttransa-cCy .property-1variant2-7ry .recentfranstable-h3o .auto-group-lxxp-WMF .transactiondetail-Luw .expenseheadingdetaill-Gob .vector-mA1 {
+  margin-bottom: 0.1rem;
+  width: 2.2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}

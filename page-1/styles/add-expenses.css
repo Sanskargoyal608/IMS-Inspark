@@ -1,0 +1,118 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 41.4rem;
+}.add-expenses-7sw {
+  width: 100%;
+  height: 18.2rem;
+}
+.add-expenses-7sw .transfer-goods-5pm {
+  box-sizing: border-box;
+  padding: 0.779rem 1.5rem 0.7rem 1.233rem;
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem #000000;
+  background-color: #ffffff;
+  border-radius: 2rem;
+}
+.add-expenses-7sw .transfer-goods-5pm .expense-zwj {
+  margin: 0rem 28.167rem 0.621rem 0rem;
+  font-size: 2.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.add-expenses-7sw .transfer-goods-5pm .transfer-goods-uYu {
+  margin: 0rem 0rem 1.3rem 0.267rem;
+  box-sizing: border-box;
+  padding: 2.5rem 0.6rem 4rem 0.4rem;
+  height: 9rem;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #000000;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #cad0f4;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.add-expenses-7sw .transfer-goods-5pm .transfer-goods-uYu .auto-group-rbud-169 {
+  margin-right: 2.1rem;
+  box-sizing: border-box;
+  padding: 0.5rem 0.6rem 0.6rem 0.6rem;
+  width: 9.8rem;
+  height: 100%;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.add-expenses-7sw .transfer-goods-5pm .transfer-goods-uYu .auto-group-e9m3-67b {
+  margin-right: 1.5rem;
+  box-sizing: border-box;
+  padding: 0.5rem 0.9rem 0.6rem 0.9rem;
+  width: 12rem;
+  height: 100%;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.add-expenses-7sw .transfer-goods-5pm .transfer-goods-uYu .auto-group-bi3t-xvV {
+  box-sizing: border-box;
+  padding: 0.5rem 0.9rem 0.6rem 0.9rem;
+  width: 12rem;
+  height: 100%;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.add-expenses-7sw .transfer-goods-5pm .auto-group-ehiq-CZw {
+  margin-left: 27.0672rem;
+  width: 10.4rem;
+  height: 2.6rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #c7e4ff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}

@@ -1,0 +1,243 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.desktop-1-Mj7 {
+  width: 100%;
+  height: 102.4rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.desktop-1-Mj7 .frame-6-H6y {
+  box-sizing: border-box;
+  padding: 23.05rem 14rem 36.85rem 13.9rem;
+  width: 72rem;
+  height: 102.4rem;
+  position: absolute;
+  left: 72.4rem;
+  top: 0;
+  overflow: hidden;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem rgba(255, 255, 255, 0.1000000015);
+  background-color: #404040;
+  border-radius: 0.2rem;
+}
+.desktop-1-Mj7 .frame-6-H6y .welcome-manage-your-inventory-conveniently-YHo {
+  margin-bottom: 16rem;
+  max-width: 44.1rem;
+  display: flex;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.desktop-1-Mj7 .frame-6-H6y .auto-group-tzzb-coT {
+  margin-left: 3.5rem;
+  width: 39rem;
+  height: 15.7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-1-Mj7 .frame-6-H6y .auto-group-tzzb-coT .already-an-inventory-manager-MW9 {
+  width: 39rem;
+  height: 10.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.desktop-1-Mj7 .frame-6-H6y .auto-group-tzzb-coT .signup-f13 {
+  width: 13.1rem;
+  height: 5.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 12.9rem;
+  top: 10.3rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-Mj7 .rectangle-62-uAH {
+  width: 34.8rem;
+  height: 12.8rem;
+  position: absolute;
+  left: 3.9rem;
+  top: 30.3rem;
+  background-color: #404040;
+  border-radius: 1rem;
+}
+.desktop-1-Mj7 .username-Dgm {
+  width: 17.1rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 11.8rem;
+  top: 34.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: rgba(215, 192, 192, 0.2199999988);
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-Mj7 .password--WA5 {
+  width: 17.1rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 3.9rem;
+  top: 45rem;
+  display: flex;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #252525;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-Mj7 .rectangle-63-QWM {
+  width: 34.8rem;
+  height: 12.8rem;
+  position: absolute;
+  left: 3.7rem;
+  top: 50.4rem;
+  background-color: #404040;
+  border-radius: 1rem;
+}
+.desktop-1-Mj7 .username--imw {
+  width: 18rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 3.9rem;
+  top: 25.2rem;
+  display: flex;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #252525;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-Mj7 .password-21w {
+  width: 16.1rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 12.3rem;
+  top: 54.05rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #615c5c;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-Mj7 .rectangle-64-KFw {
+  width: 22.6rem;
+  height: 11.1rem;
+  position: absolute;
+  left: 26.9rem;
+  top: 67rem;
+  background-color: #404040;
+  border-radius: 4rem;
+}
+.desktop-1-Mj7 .login-dXX {
+  width: 10rem;
+  height: 5.4rem;
+  position: absolute;
+  left: 33.45rem;
+  top: 69.9rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-Mj7 .login-vmX {
+  width: 11.3rem;
+  height: 6rem;
+  position: absolute;
+  left: 27.7rem;
+  top: 15.7rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 4rem;
+  font-weight: 800;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-Mj7 .frame-23-RTP {
+  box-sizing: border-box;
+  padding: 1.1rem 38.4rem 1.2rem 1.9rem;
+  width: 144rem;
+  height: 11.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  background-color: #aaa4a4;
+}
+.desktop-1-Mj7 .frame-23-RTP .inspark-logo-1-86u {
+  margin-right: 29.6rem;
+  width: 10.5rem;
+  height: 9.1rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 4.9rem;
+  flex-shrink: 0;
+}
+.desktop-1-Mj7 .frame-23-RTP .inventory-management-system-eb3 {
+  margin-top: 0.1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}

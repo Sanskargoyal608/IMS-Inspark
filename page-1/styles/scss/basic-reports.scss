@@ -1,0 +1,1118 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 50.6rem;
+}.basic-reports-dTo {
+  row-gap: 2rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: dashed 0.1rem #9747ff;
+  box-sizing: border-box;
+  padding: 2rem;
+  overflow: hidden;
+  width: 100%;
+  position: relative;
+  border-radius: 0.5rem;
+
+  .property-1default-KrR {
+    height: 24.1rem;
+    position: relative;
+    flex-shrink: 0;
+    width: 100%;
+
+    .rectangle-722-ETb {
+      height: 24.1rem;
+      left: 0;
+      border: solid 0.1rem #000000;
+      background-color: #fffdfd;
+      width: 44.5rem;
+      position: absolute;
+      top: 0;
+      box-sizing: border-box;
+      border-radius: 2.5rem;
+    }
+    .visits-YUH {
+      height: 4.3rem;
+      position: absolute;
+      top: 0.9rem;
+      font-size: 2.5rem;
+      line-height: 1.7025;
+      font-family: Harmattan, 'Source Sans Pro';
+      width: 4.9rem;
+      left: 5rem;
+      font-weight: 400;
+      color: rgba(0, 0, 0, 0.7300000191);
+      white-space: nowrap;
+    }
+    .cities-Ec1 {
+      width: 5rem;
+      height: 4.3rem;
+      position: absolute;
+      top: 0.9rem;
+      font-family: Harmattan, 'Source Sans Pro';
+      white-space: nowrap;
+      cursor: pointer;
+      left: 17.9rem;
+      font-size: 2.5rem;
+      font-weight: 400;
+      line-height: 1.7025;
+      color: rgba(0, 0, 0, 0.7300000191);
+    }
+    .searches-jof {
+      width: 7.9rem;
+      position: absolute;
+      top: 0.9rem;
+      font-size: 2.5rem;
+      font-weight: 400;
+      line-height: 1.7025;
+      white-space: nowrap;
+      height: 4.3rem;
+      cursor: pointer;
+      left: 30.9rem;
+      color: rgba(0, 0, 0, 0.7300000191);
+      font-family: Harmattan, 'Source Sans Pro';
+    }
+    .total-visits-3JZ {
+      font-weight: 400;
+      line-height: 1.7348632812;
+      font-family: Hannari, 'Source Sans Pro';
+      white-space: nowrap;
+      width: 7rem;
+      left: 3.6rem;
+      font-size: 1.5rem;
+      color: #000000;
+      height: 2.7rem;
+      position: absolute;
+      top: 7rem;
+    }
+    .product-visits-kim {
+      white-space: nowrap;
+      height: 2.7rem;
+      top: 11rem;
+      left: 3.6rem;
+      font-size: 1.5rem;
+      font-weight: 400;
+      line-height: 1.7348632812;
+      color: #000000;
+      font-family: Hannari, 'Source Sans Pro';
+      width: 8.6rem;
+      position: absolute;
+    }
+    .non-product-visits-sHb {
+      font-size: 1.5rem;
+      font-weight: 400;
+      color: #000000;
+      font-family: Hannari, 'Source Sans Pro';
+      width: 11.7rem;
+      position: absolute;
+      left: 3.6rem;
+      white-space: nowrap;
+      height: 2.7rem;
+      top: 15rem;
+      line-height: 1.7348632812;
+    }
+    .returned-visits-yrR {
+      height: 2.7rem;
+      top: 19rem;
+      font-size: 1.5rem;
+      color: #000000;
+      white-space: nowrap;
+      width: 9.4rem;
+      position: absolute;
+      left: 3.6rem;
+      font-weight: 400;
+      line-height: 1.7348632812;
+      font-family: Hannari, 'Source Sans Pro';
+    }
+    .item-25000-JNu {
+      left: 19.1rem;
+      line-height: 1.7025;
+      color: #000000;
+      font-family: Harmattan, 'Source Sans Pro';
+      white-space: nowrap;
+      width: 6.1rem;
+      height: 4.3rem;
+      position: absolute;
+      top: 6.2rem;
+      font-size: 2.5rem;
+      font-weight: 400;
+    }
+    .item-5000-oqT {
+      white-space: nowrap;
+      width: 5rem;
+      height: 4.3rem;
+      font-size: 2.5rem;
+      line-height: 1.7025;
+      color: #000000;
+      font-family: Harmattan, 'Source Sans Pro';
+      position: absolute;
+      left: 19.1rem;
+      top: 14.2rem;
+      font-weight: 400;
+    }
+    .item-10000-iSd {
+      width: 6.1rem;
+      font-size: 2.5rem;
+      font-weight: 400;
+      font-family: Harmattan, 'Source Sans Pro';
+      white-space: nowrap;
+      height: 4.3rem;
+      position: absolute;
+      left: 19.1rem;
+      top: 18.2rem;
+      line-height: 1.7025;
+      color: #000000;
+    }
+    .item-10000-1wX {
+      line-height: 1.7025;
+      font-family: Harmattan, 'Source Sans Pro';
+      height: 4.3rem;
+      left: 19.1rem;
+      top: 10.2rem;
+      font-size: 2.5rem;
+      white-space: nowrap;
+      width: 6.1rem;
+      position: absolute;
+      font-weight: 400;
+      color: #000000;
+    }
+    .line-289-j6q {
+      position: absolute;
+      left: 0;
+      top: 4.5255rem;
+      background-color: rgba(0, 0, 0, 0.6499999762);
+      width: 44.6rem;
+      height: 0.1rem;
+    }
+    .line-290-rx9 {
+      width: 5.9rem;
+      height: 0.3rem;
+      position: absolute;
+      left: 4.6rem;
+      top: 4.5rem;
+      background-color: rgba(12, 37, 255, 0.7200000286);
+    }
+    .line-291-zoT {
+      width: 0.1rem;
+      height: 0.1rem;
+      position: absolute;
+      left: 30.5rem;
+      top: 7.6rem;
+      background-color: #000000;
+    }
+    .line-292-LcR {
+      width: 12.5rem;
+      height: 0.1rem;
+      position: absolute;
+      left: 30.6rem;
+      top: 19.4rem;
+      background-color: #000000;
+    }
+    .line-293-Uid {
+      width: 12.5rem;
+      height: 0.1rem;
+      position: absolute;
+      left: 30.6rem;
+      top: 18.1rem;
+      background-color: rgba(0, 0, 0, 0.2599999905);
+    }
+    .line-298-p1o {
+      width: 12.5rem;
+      height: 0.1rem;
+      position: absolute;
+      left: 30.6rem;
+      top: 13.1rem;
+      background-color: rgba(0, 0, 0, 0.2599999905);
+    }
+    .line-294-x81 {
+      position: absolute;
+      left: 30.6rem;
+      top: 16.8rem;
+      background-color: rgba(0, 0, 0, 0.2599999905);
+      width: 12.5rem;
+      height: 0.1rem;
+    }
+    .line-299-6V7 {
+      left: 30.5rem;
+      top: 10.6rem;
+      background-color: rgba(0, 0, 0, 0.2599999905);
+      width: 12.5rem;
+      height: 0.1rem;
+      position: absolute;
+    }
+    .line-295-39T {
+      width: 12.5rem;
+      height: 0.1rem;
+      position: absolute;
+      left: 30.6rem;
+      top: 15.6rem;
+      background-color: rgba(0, 0, 0, 0.2599999905);
+    }
+    .line-300-aQH {
+      top: 9.4rem;
+      background-color: rgba(0, 0, 0, 0.2599999905);
+      width: 12.5rem;
+      height: 0.1rem;
+      position: absolute;
+      left: 30.5rem;
+    }
+    .line-296-WYq {
+      width: 12.5rem;
+      height: 0.1rem;
+      position: absolute;
+      left: 30.6rem;
+      top: 14.5rem;
+      background-color: rgba(0, 0, 0, 0.2599999905);
+    }
+    .line-301-dtM {
+      width: 12.5rem;
+      height: 0.1rem;
+      position: absolute;
+      left: 30.5rem;
+      top: 8.3rem;
+      background-color: rgba(0, 0, 0, 0.2599999905);
+    }
+    .line-297-mDs {
+      width: 12.5rem;
+      height: 0.1rem;
+      position: absolute;
+      left: 30.5rem;
+      top: 12rem;
+      background-color: rgba(0, 0, 0, 0.2599999905);
+    }
+    .arrow-3-VQm {
+      left: 30.55rem;
+      top: 7.3rem;
+      object-fit: contain;
+      vertical-align: top;
+      width: 0;
+      height: 0.3rem;
+      position: absolute;
+    }
+    .arrow-4-RZK {
+      left: 43.1rem;
+      top: 19.45rem;
+      object-fit: contain;
+      vertical-align: top;
+      width: 0.7rem;
+      height: 0;
+      position: absolute;
+    }
+    .line-302-Mxm {
+      left: 28.5297rem;
+      top: 5.8503rem;
+      object-fit: contain;
+      vertical-align: top;
+      border-radius: 0.2rem;
+      width: 16.5875rem;
+      height: 15.784rem;
+      position: absolute;
+    }
+  }
+  .property-1variant2-tSu {
+    width: 100%;
+    height: 24.1rem;
+    position: relative;
+    flex-shrink: 0;
+
+    .rectangle-722-Dzy {
+      width: 44.5rem;
+      border-radius: 2.5rem;
+      box-sizing: border-box;
+      background-color: #fffdfd;
+      height: 24.1rem;
+      position: absolute;
+      left: 0;
+      top: 0;
+      border: solid 0.1rem #000000;
+    }
+    .india-wvy {
+      left: 29.1rem;
+      top: 6.7rem;
+      object-fit: contain;
+      vertical-align: top;
+      width: 12.8rem;
+      height: 13.2rem;
+      position: absolute;
+    }
+    .visits-Hjw {
+      height: 4.3rem;
+      cursor: pointer;
+      position: absolute;
+      top: 0.9rem;
+      font-size: 2.5rem;
+      font-weight: 400;
+      font-family: Harmattan, 'Source Sans Pro';
+      width: 4.9rem;
+      left: 5rem;
+      line-height: 1.7025;
+      color: rgba(0, 0, 0, 0.7300000191);
+      white-space: nowrap;
+    }
+    .cities-zeM {
+      height: 4.3rem;
+      left: 17.9rem;
+      font-size: 2.5rem;
+      font-weight: 400;
+      color: rgba(0, 0, 0, 0.7300000191);
+      width: 5rem;
+      position: absolute;
+      top: 0.9rem;
+      line-height: 1.7025;
+      font-family: Harmattan, 'Source Sans Pro';
+      white-space: nowrap;
+    }
+    .searches-uWR {
+      position: absolute;
+      left: 30.9rem;
+      font-weight: 400;
+      color: rgba(0, 0, 0, 0.7300000191);
+      font-family: Harmattan, 'Source Sans Pro';
+      white-space: nowrap;
+      width: 7.9rem;
+      height: 4.3rem;
+      cursor: pointer;
+      top: 0.9rem;
+      font-size: 2.5rem;
+      line-height: 1.7025;
+    }
+    .line-289-c9w {
+      background-color: rgba(0, 0, 0, 0.6499999762);
+      width: 44.6rem;
+      height: 0.1rem;
+      position: absolute;
+      left: 0;
+      top: 4.5255rem;
+    }
+    .line-290-wCD {
+      height: 0.3rem;
+      position: absolute;
+      left: 17.4rem;
+      top: 4.5rem;
+      background-color: rgba(12, 37, 255, 0.7200000286);
+      width: 5.9rem;
+    }
+    .table-ftu {
+      align-items: center;
+      display: flex;
+      box-sizing: border-box;
+      padding: 0rem 0.216rem 0.194rem 0.216rem;
+      width: 25.107rem;
+      position: absolute;
+      left: 0.9rem;
+      top: 5.2rem;
+      flex-direction: column;
+      background-color: #d9d9d9;
+      height: 17.7rem;
+
+      .auto-group-ehgm-sEH {
+        margin-bottom: 0.3037rem;
+        width: 100%;
+        height: 4.0667rem;
+        position: relative;
+        flex-shrink: 0;
+
+        .cities-odj {
+          line-height: 1.7348632812;
+          width: 2.4rem;
+          position: absolute;
+          top: 0.1093rem;
+          font-weight: 400;
+          color: #000000;
+          font-family: Hannari, 'Source Sans Pro';
+          white-space: nowrap;
+          height: 1.8rem;
+          left: 1.293rem;
+          font-size: 1rem;
+        }
+        .orders-tQH {
+          font-size: 1rem;
+          line-height: 1.7348632812;
+          color: #000000;
+          white-space: nowrap;
+          height: 1.8rem;
+          left: 20.0422rem;
+          top: 0;
+          font-family: Hannari, 'Source Sans Pro';
+          width: 2.9rem;
+          position: absolute;
+          font-weight: 400;
+        }
+        .rectangle-784-dmB {
+          width: 24.6758rem;
+          height: 2.1852rem;
+          position: absolute;
+          left: 0;
+          top: 1.8574rem;
+          background-color: #fffdfd;
+        }
+        .ahemdabad-mcV {
+          height: 2.1rem;
+          line-height: 1.7348632812;
+          white-space: nowrap;
+          font-weight: 400;
+          color: #000000;
+          font-family: Hannari, 'Source Sans Pro';
+          width: 6.1rem;
+          position: absolute;
+          left: 0.2156rem;
+          top: 1.9667rem;
+          font-size: 1.2rem;
+        }
+        .item-90-HKw {
+          left: 21.0125rem;
+          font-size: 1.2rem;
+          font-weight: 400;
+          line-height: 1.7348632812;
+          font-family: Hannari, 'Source Sans Pro';
+          width: 1.2rem;
+          position: absolute;
+          top: 1.9667rem;
+          color: #000000;
+          white-space: nowrap;
+          height: 2.1rem;
+        }
+        .arrow-5-Ptm {
+          left: 24.2453rem;
+          top: 0.5463rem;
+          object-fit: contain;
+          vertical-align: top;
+          width: 0;
+          height: 0.7648rem;
+          position: absolute;
+        }
+      }
+      .auto-group-xmw7-w9b {
+        flex-shrink: 0;
+        margin-bottom: 0.5223rem;
+        width: 100%;
+        height: 2.2092rem;
+        position: relative;
+
+        .rectangle-785-g7B {
+          top: 0;
+          background-color: #fffdfd;
+          width: 24.6758rem;
+          height: 2.1852rem;
+          position: absolute;
+          left: 0;
+        }
+        .indore-Dcu {
+          font-weight: 400;
+          white-space: nowrap;
+          height: 2.1rem;
+          font-size: 1.2rem;
+          left: 0.2156rem;
+          top: 0.1092rem;
+          line-height: 1.7348632812;
+          color: #000000;
+          font-family: Hannari, 'Source Sans Pro';
+          width: 3.3rem;
+          position: absolute;
+        }
+        .item-70-Xdb {
+          top: 0.1092rem;
+          font-weight: 400;
+          line-height: 1.7348632812;
+          width: 1.2rem;
+          height: 2.1rem;
+          left: 21.0125rem;
+          font-family: Hannari, 'Source Sans Pro';
+          white-space: nowrap;
+          position: absolute;
+          font-size: 1.2rem;
+          color: #000000;
+        }
+      }
+      .auto-group-ohjy-2qF {
+        margin-bottom: 0.5222rem;
+        width: 100%;
+        height: 2.2093rem;
+        position: relative;
+        flex-shrink: 0;
+
+        .rectangle-786-yVb {
+          left: 0;
+          top: 0;
+          background-color: #fffdfd;
+          width: 24.6758rem;
+          height: 2.1852rem;
+          position: absolute;
+        }
+        .mandsaur-WkR {
+          top: 0.1093rem;
+          color: #000000;
+          white-space: nowrap;
+          width: 5rem;
+          height: 2.1rem;
+          position: absolute;
+          line-height: 1.7348632812;
+          font-family: Hannari, 'Source Sans Pro';
+          left: 0.2156rem;
+          font-size: 1.2rem;
+          font-weight: 400;
+        }
+        .item-50-cHf {
+          top: 0.1093rem;
+          font-weight: 400;
+          font-size: 1.2rem;
+          line-height: 1.7348632812;
+          color: #000000;
+          font-family: Hannari, 'Source Sans Pro';
+          width: 1.2rem;
+          height: 2.1rem;
+          position: absolute;
+          left: 21.0125rem;
+          white-space: nowrap;
+        }
+      }
+      .auto-group-c1vs-7kD {
+        height: 2.2093rem;
+        position: relative;
+        flex-shrink: 0;
+        margin-bottom: 0.5223rem;
+        width: 100%;
+
+        .rectangle-787-TZB {
+          width: 24.6758rem;
+          height: 2.1852rem;
+          position: absolute;
+          left: 0;
+          top: 0;
+          background-color: #fffdfd;
+        }
+        .delhi-od3 {
+          font-weight: 400;
+          line-height: 1.7348632812;
+          color: #000000;
+          font-family: Hannari, 'Source Sans Pro';
+          white-space: nowrap;
+          width: 2.6rem;
+          height: 2.1rem;
+          position: absolute;
+          left: 0.2156rem;
+          top: 0.1093rem;
+          font-size: 1.2rem;
+        }
+        .item-40-7dj {
+          position: absolute;
+          top: 0.1093rem;
+          color: #000000;
+          white-space: nowrap;
+          width: 1.2rem;
+          height: 2.1rem;
+          left: 21.0125rem;
+          font-size: 1.2rem;
+          font-weight: 400;
+          line-height: 1.7348632812;
+          font-family: Hannari, 'Source Sans Pro';
+        }
+      }
+      .auto-group-jyeu-dMB {
+        margin-bottom: 0.5222rem;
+        width: 100%;
+        height: 2.2093rem;
+        position: relative;
+        flex-shrink: 0;
+
+        .rectangle-788-NZf {
+          width: 24.6758rem;
+          height: 2.1852rem;
+          position: absolute;
+          left: 0;
+          top: 0;
+          background-color: #fffdfd;
+        }
+        .kolkata-Kjo {
+          line-height: 1.7348632812;
+          color: #000000;
+          font-family: Hannari, 'Source Sans Pro';
+          width: 3.8rem;
+          height: 2.1rem;
+          position: absolute;
+          font-size: 1.2rem;
+          left: 0.2156rem;
+          top: 0.1093rem;
+          font-weight: 400;
+          white-space: nowrap;
+        }
+        .item-30-F7f {
+          width: 1.2rem;
+          height: 2.1rem;
+          position: absolute;
+          left: 21.0125rem;
+          font-weight: 400;
+          white-space: nowrap;
+          top: 0.1093rem;
+          font-size: 1.2rem;
+          line-height: 1.7348632812;
+          color: #000000;
+          font-family: Hannari, 'Source Sans Pro';
+        }
+      }
+      .auto-group-bsy5-9yj {
+        width: 100%;
+        height: 2.2093rem;
+        position: relative;
+        flex-shrink: 0;
+
+        .rectangle-789-WJV {
+          width: 24.6758rem;
+          height: 2.1852rem;
+          position: absolute;
+          left: 0;
+          top: 0;
+          background-color: #fffdfd;
+        }
+        .vadodra-Fms {
+          font-weight: 400;
+          color: #000000;
+          white-space: nowrap;
+          width: 4.2rem;
+          position: absolute;
+          top: 0.1093rem;
+          font-size: 1.2rem;
+          line-height: 1.7348632812;
+          font-family: Hannari, 'Source Sans Pro';
+          height: 2.1rem;
+          left: 0.2156rem;
+        }
+        .item-20-yhs {
+          left: 21.0125rem;
+          font-size: 1.2rem;
+          line-height: 1.7348632812;
+          color: #000000;
+          font-family: Hannari, 'Source Sans Pro';
+          height: 2.1rem;
+          position: absolute;
+          font-weight: 400;
+          white-space: nowrap;
+          width: 1.2rem;
+          top: 0.1093rem;
+        }
+      }
+    }
+    .total-cities-reached-5F7 {
+      width: 10.3rem;
+      font-size: 1.2rem;
+      font-weight: 400;
+      color: #000000;
+      white-space: nowrap;
+      height: 2.1rem;
+      position: absolute;
+      left: 27.8rem;
+      top: 20.8rem;
+      line-height: 1.7348632812;
+      font-family: Hannari, 'Source Sans Pro';
+    }
+    .item-50-PFo {
+      font-weight: 400;
+      line-height: 1.7025;
+      font-family: Harmattan, 'Source Sans Pro';
+      position: absolute;
+      font-size: 2rem;
+      left: 40.1rem;
+      top: 20.2rem;
+      color: #000000;
+      white-space: nowrap;
+      width: 1.8rem;
+      height: 3.5rem;
+    }
+  }
+  .property-1variant3-hGV {
+    width: 100%;
+    height: 24.1rem;
+    position: relative;
+    flex-shrink: 0;
+
+    .rectangle-722-qdb {
+      width: 44.5rem;
+      left: 0;
+      box-sizing: border-box;
+      background-color: #fffdfd;
+      border-radius: 2.5rem;
+      height: 24.1rem;
+      position: absolute;
+      top: 0;
+      border: solid 0.1rem #000000;
+    }
+    .visits-xiD {
+      cursor: pointer;
+      position: absolute;
+      left: 5rem;
+      top: 0.9rem;
+      line-height: 1.7025;
+      color: rgba(0, 0, 0, 0.7300000191);
+      white-space: nowrap;
+      width: 4.9rem;
+      height: 4.3rem;
+      font-size: 2.5rem;
+      font-weight: 400;
+      font-family: Harmattan, 'Source Sans Pro';
+    }
+    .cities-f6q {
+      height: 4.3rem;
+      left: 17.9rem;
+      font-size: 2.5rem;
+      font-weight: 400;
+      white-space: nowrap;
+      font-family: Harmattan, 'Source Sans Pro';
+      width: 5rem;
+      cursor: pointer;
+      position: absolute;
+      top: 0.9rem;
+      line-height: 1.7025;
+      color: rgba(0, 0, 0, 0.7300000191);
+    }
+    .searches-ApH {
+      left: 30.9rem;
+      top: 0.9rem;
+      font-size: 2.5rem;
+      line-height: 1.7025;
+      font-family: Harmattan, 'Source Sans Pro';
+      height: 4.3rem;
+      position: absolute;
+      color: rgba(0, 0, 0, 0.7300000191);
+      white-space: nowrap;
+      width: 7.9rem;
+      font-weight: 400;
+    }
+    .line-289-gXj {
+      width: 44.6rem;
+      height: 0.1rem;
+      position: absolute;
+      left: 0;
+      top: 4.5255rem;
+      background-color: rgba(0, 0, 0, 0.6499999762);
+    }
+    .line-290-25o {
+      width: 10.2rem;
+      height: 0.3rem;
+      position: absolute;
+      left: 30rem;
+      top: 4.5rem;
+      background-color: rgba(12, 37, 255, 0.7200000286);
+    }
+    .table-wyT {
+      padding: 0.105rem 0.483rem 0.479rem 0.366rem;
+      width: 42.7rem;
+      height: 17.5rem;
+      position: absolute;
+      left: 0.7rem;
+      box-sizing: border-box;
+      top: 5.4rem;
+      align-items: center;
+      display: flex;
+      flex-direction: column;
+      background-color: #d9d9d9;
+      border-radius: 0.5rem;
+
+      .auto-group-pnws-drH {
+        margin-bottom: 0.1805rem;
+        width: 100%;
+        height: 3.9288rem;
+        position: relative;
+        flex-shrink: 0;
+
+        .searched-queries-ALR {
+          width: 7.4rem;
+          position: absolute;
+          left: 2.1922rem;
+          top: 0;
+          font-weight: 400;
+          font-family: Hannari, 'Source Sans Pro';
+          white-space: nowrap;
+          height: 1.8rem;
+          font-size: 1rem;
+          line-height: 1.7348632812;
+          color: #000000;
+        }
+        .clicks-g3s {
+          top: 0.0788rem;
+          font-size: 1rem;
+          font-weight: 400;
+          line-height: 1.7348632812;
+          color: #000000;
+          font-family: Hannari, 'Source Sans Pro';
+          height: 1.8rem;
+          left: 34.6242rem;
+          white-space: nowrap;
+          width: 2.5rem;
+          position: absolute;
+        }
+        .rectangle-784-zaM {
+          top: 1.6858rem;
+          background-color: #fffdfd;
+          border-radius: 0.5rem;
+          width: 41.8508rem;
+          height: 2.1072rem;
+          position: absolute;
+          left: 0;
+        }
+        .this-is-a-query-XaH {
+          height: 2.1rem;
+          position: absolute;
+          font-size: 1.2rem;
+          line-height: 1.7348632812;
+          font-family: Hannari, 'Source Sans Pro';
+          width: 7.8rem;
+          left: 1.7094rem;
+          top: 1.8288rem;
+          font-weight: 400;
+          color: #000000;
+          white-space: nowrap;
+        }
+        .item-90-Di1 {
+          height: 2.1rem;
+          top: 1.7912rem;
+          font-size: 1.2rem;
+          font-weight: 400;
+          line-height: 1.7348632812;
+          white-space: nowrap;
+          width: 1.2rem;
+          position: absolute;
+          left: 35.6367rem;
+          color: #000000;
+          font-family: Hannari, 'Source Sans Pro';
+        }
+        .arrow-5-Xih {
+          vertical-align: top;
+          border-radius: 0.5rem;
+          width: 0;
+          height: 0.7375rem;
+          position: absolute;
+          left: 38.3859rem;
+          top: 0.5688rem;
+          object-fit: contain;
+        }
+      }
+      .auto-group-3gc9-rFB {
+        position: relative;
+        flex-shrink: 0;
+        margin-bottom: 0.4197rem;
+        width: 100%;
+        height: 2.2143rem;
+
+        .rectangle-785-bCm {
+          position: absolute;
+          left: 0;
+          top: 0;
+          background-color: #fffdfd;
+          border-radius: 0.5rem;
+          width: 41.8508rem;
+          height: 2.1072rem;
+        }
+        .this-is-a-query-vkq {
+          height: 2.1rem;
+          position: absolute;
+          left: 1.7094rem;
+          top: 0.1143rem;
+          font-size: 1.2rem;
+          font-weight: 400;
+          font-family: Hannari, 'Source Sans Pro';
+          width: 7.8rem;
+          line-height: 1.7348632812;
+          color: #000000;
+          white-space: nowrap;
+        }
+        .item-70-EmX {
+          height: 2.1rem;
+          font-weight: 400;
+          color: #000000;
+          white-space: nowrap;
+          width: 1.2rem;
+          position: absolute;
+          left: 35.6367rem;
+          top: 0.1052rem;
+          font-size: 1.2rem;
+          line-height: 1.7348632812;
+          font-family: Hannari, 'Source Sans Pro';
+        }
+      }
+      .auto-group-hber-9db {
+        margin-bottom: 0.3827rem;
+        width: 100%;
+        height: 2.2514rem;
+        position: relative;
+        flex-shrink: 0;
+
+        .rectangle-786-Hzh {
+          border-radius: 0.5rem;
+          width: 41.8508rem;
+          height: 2.1072rem;
+          position: absolute;
+          left: 0;
+          top: 0;
+          background-color: #fffdfd;
+        }
+        .this-is-a-query-dof {
+          color: #000000;
+          font-family: Hannari, 'Source Sans Pro';
+          width: 7.8rem;
+          position: absolute;
+          left: 1.7094rem;
+          font-weight: 400;
+          line-height: 1.7348632812;
+          white-space: nowrap;
+          height: 2.1rem;
+          top: 0.1514rem;
+          font-size: 1.2rem;
+        }
+        .item-50-Xe9 {
+          width: 1.2rem;
+          height: 2.1rem;
+          position: absolute;
+          left: 35.6367rem;
+          top: 0.1053rem;
+          font-size: 1.2rem;
+          font-weight: 400;
+          line-height: 1.7348632812;
+          color: #000000;
+          font-family: Hannari, 'Source Sans Pro';
+          white-space: nowrap;
+        }
+      }
+      .auto-group-rjeq-SFK {
+        margin-bottom: 0.4288rem;
+        width: 100%;
+        height: 2.2053rem;
+        position: relative;
+        flex-shrink: 0;
+
+        .rectangle-787-na5 {
+          width: 41.8508rem;
+          height: 2.1072rem;
+          position: absolute;
+          left: 0;
+          top: 0;
+          background-color: #fffdfd;
+          border-radius: 0.5rem;
+        }
+        .this-is-a-query-jVK {
+          width: 7.8rem;
+          left: 1.7094rem;
+          top: 0.0962rem;
+          font-size: 1.2rem;
+          font-weight: 400;
+          color: #000000;
+          font-family: Hannari, 'Source Sans Pro';
+          height: 2.1rem;
+          position: absolute;
+          line-height: 1.7348632812;
+          white-space: nowrap;
+        }
+        .item-40-SPj {
+          width: 1.2rem;
+          height: 2.1rem;
+          left: 35.6367rem;
+          font-weight: 400;
+          color: #000000;
+          position: absolute;
+          top: 0.1053rem;
+          font-size: 1.2rem;
+          line-height: 1.7348632812;
+          font-family: Hannari, 'Source Sans Pro';
+          white-space: nowrap;
+        }
+      }
+      .auto-group-kfpp-MWh {
+        height: 2.2053rem;
+        position: relative;
+        flex-shrink: 0;
+        margin-bottom: 0.4288rem;
+        width: 100%;
+
+        .rectangle-788-JRw {
+          border-radius: 0.5rem;
+          width: 41.8508rem;
+          height: 2.1072rem;
+          position: absolute;
+          left: 0;
+          top: 0;
+          background-color: #fffdfd;
+        }
+        .this-is-a-query-qwf {
+          position: absolute;
+          left: 1.7094rem;
+          font-size: 1.2rem;
+          font-family: Hannari, 'Source Sans Pro';
+          white-space: nowrap;
+          width: 7.8rem;
+          height: 2.1rem;
+          top: 0.0411rem;
+          font-weight: 400;
+          line-height: 1.7348632812;
+          color: #000000;
+        }
+        .item-30-m4d {
+          position: absolute;
+          left: 35.6367rem;
+          font-size: 1.2rem;
+          font-family: Hannari, 'Source Sans Pro';
+          white-space: nowrap;
+          color: #000000;
+          width: 1.2rem;
+          height: 2.1rem;
+          top: 0.1053rem;
+          font-weight: 400;
+          line-height: 1.7348632812;
+        }
+      }
+      .auto-group-jovb-stM {
+        width: 100%;
+        height: 2.2702rem;
+        position: relative;
+        flex-shrink: 0;
+
+        .rectangle-789-2WM {
+          position: absolute;
+          left: 0;
+          top: 0;
+          background-color: #fffdfd;
+          border-radius: 0.5rem;
+          width: 41.8508rem;
+          height: 2.1072rem;
+        }
+        .this-is-a-query-yAh {
+          width: 7.8rem;
+          height: 2.1rem;
+          color: #000000;
+          font-family: Hannari, 'Source Sans Pro';
+          white-space: nowrap;
+          position: absolute;
+          left: 1.7094rem;
+          top: 0.1702rem;
+          font-size: 1.2rem;
+          font-weight: 400;
+          line-height: 1.7348632812;
+        }
+        .item-20-5zR {
+          height: 2.1rem;
+          left: 35.6367rem;
+          top: 0.1054rem;
+          font-size: 1.2rem;
+          font-weight: 400;
+          line-height: 1.7348632812;
+          font-family: Hannari, 'Source Sans Pro';
+          width: 1.2rem;
+          position: absolute;
+          color: #000000;
+          white-space: nowrap;
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,220 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 30rem;
+}.ob-forms-warehouse-location-dSq {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border-radius: 0.5rem;
+}
+.ob-forms-warehouse-location-dSq .property-1default-knM {
+  width: 100%;
+  height: 8.4rem;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.ob-forms-warehouse-location-dSq .property-1default-knM .warehouse-location-6rD {
+  width: 13.7rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 0;
+  top: 0.1rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 2;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.ob-forms-warehouse-location-dSq .property-1default-knM .frame-CuF {
+  box-sizing: border-box;
+  padding: 1rem 1.5rem;
+  width: 30rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 0;
+  top: 2.8rem;
+  overflow: hidden;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 2;
+  color: #d2d2d2;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #e2e1e5;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+}
+.ob-forms-warehouse-location-dSq .property-1error-4Rf {
+  width: 100%;
+  height: 8.4rem;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.ob-forms-warehouse-location-dSq .property-1error-4Rf .warehouse-location-1bo {
+  width: 13.7rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 0;
+  top: 0.1rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 2;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.ob-forms-warehouse-location-dSq .property-1error-4Rf .frame-j21 {
+  box-sizing: border-box;
+  padding: 1rem 1.5rem;
+  width: 30rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 0;
+  top: 2.8rem;
+  overflow: hidden;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 2;
+  color: #d2d2d2;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #f14668;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+}
+.ob-forms-warehouse-location-dSq .property-1focus-PsF {
+  width: 100%;
+  height: 8.4rem;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.ob-forms-warehouse-location-dSq .property-1focus-PsF .warehouse-location-kC1 {
+  width: 13.7rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 0;
+  top: 0.1rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 2;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.ob-forms-warehouse-location-dSq .property-1focus-PsF .frame-s1j {
+  box-sizing: border-box;
+  padding: 1rem 1.5rem;
+  width: 30rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 0;
+  top: 2.8rem;
+  overflow: hidden;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 2;
+  color: #d2d2d2;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #222222;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+}
+.ob-forms-warehouse-location-dSq .property-1disabled-8yF {
+  width: 100%;
+  height: 8.4rem;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.ob-forms-warehouse-location-dSq .property-1disabled-8yF .warehouse-location-tSd {
+  width: 13.7rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 0;
+  top: 0.1rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 2;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.ob-forms-warehouse-location-dSq .property-1disabled-8yF .frame-1GM {
+  box-sizing: border-box;
+  padding: 1rem 1.5rem;
+  width: 30rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 0;
+  top: 2.8rem;
+  overflow: hidden;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 2;
+  color: #d2d2d2;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #e2e1e5;
+  background-color: #d8d8d8;
+  border-radius: 0.5rem;
+}
+.ob-forms-warehouse-location-dSq .property-1hover-t5F {
+  width: 100%;
+  height: 8.4rem;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.ob-forms-warehouse-location-dSq .property-1hover-t5F .warehouse-location-doX {
+  width: 13.7rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 0;
+  top: 0.1rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 2;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.ob-forms-warehouse-location-dSq .property-1hover-t5F .frame-A2m {
+  box-sizing: border-box;
+  padding: 1rem 1.5rem;
+  width: 30rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 0;
+  top: 2.8rem;
+  overflow: hidden;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 2;
+  color: #d2d2d2;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #222222;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+}
