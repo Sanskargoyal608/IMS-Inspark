@@ -12,6 +12,7 @@
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Harmattan%3A400"/>
   <link rel="stylesheet" href="./styles/supplier.css"/>
   <link rel="stylesheet" href="./styles/dashboard.css"/>
+  <link rel="stylesheet" href="./styles/supplier-filter.css"/>
 </head>
 <body>
 <div class="supplier-KE9">
@@ -122,10 +123,84 @@
             <p class="item-15-GgR">(15)</p>
             <img class="polygon-7-zcR" src="./assets/polygon-7-w8V.png"/>
           </div>
-          <div class="filter-VZB">
+          <div id="myBtn" class="filter-VZB">
             <img class="group-nYH" src="./assets/group-iFs.png"/>
             <p class="filter-JmX">Filter</p>
           </div>
+          <!-- filter star -->
+          <div id="myModal" class="supplier-filter-J1o modal">
+            <div class="group-115-qnR modal-content">
+              <div class="frame-121-ZyK">
+                <div class="topheader-XQM">
+                  <p class="filter-supplier-qA9">Filter Supplier</p>
+                  <img class="close-box-outline-8f3 close" src="./assets/close-box-outline-iph.png"/>
+                </div>
+                <div class="scrollablefilter-3n1">
+                  <div class="categories-aG9">
+                    <p class="supplier-id-u3X">Supplier ID</p>
+                    <div class="searchbar-E5o">
+                      <img class="vector-kK3" src="./assets/vector-c5X.png"/>
+                      <p class="search-by-supplier-id-681">Search by Supplier ID</p>
+                    </div>
+                  </div>
+                  <div class="inventoryfilter-weR">
+                    <p class="order-type-3xM">Order Type</p>
+                    <div class="auto-group-ousr-n9F">
+                      <div class="ellipse-133-Key">
+                      </div>
+                      <p class="online-35B">Online</p>
+                    </div>
+                    <div class="auto-group-zsx9-aL1">
+                      <div class="ellipse-134-WzM">
+                      </div>
+                      <p class="offline-ajK">Offline</p>
+                    </div>
+                    <div class="auto-group-nbeq-uFo">
+                      <div class="ellipse-135-FaZ">
+                      </div>
+                      <p class="hybrid-Zr9">Hybrid</p>
+                    </div>
+                  </div>
+                  <div class="categories-VE1">
+                    <p class="item-id-R7f">Item ID</p>
+                    <div class="searchbar-kQq">
+                      <img class="vector-wkD" src="./assets/vector-kf3.png"/>
+                      <p class="search-by-item-id-sds">Search by Item ID</p>
+                    </div>
+                  </div>
+                  <div class="inventoryfilter-Kkm">
+                    <p class="purchase-rEu">Purchase</p>
+                    <div class="auto-group-xmd3-nPT">
+                      <div class="ellipse-137-uiy">
+                      </div>
+                      <p class="high-to-low-qMj">High to low</p>
+                    </div>
+                    <div class="auto-group-8kez-BRb">
+                      <div class="ellipse-138-XVT">
+                      </div>
+                      <p class="low-to-high-2x1">low to high</p>
+                    </div>
+                  </div>
+                  <div class="pricerange-wp5">
+                    <p class="purchase-range-sSq">Purchase Range</p>
+                    <img class="slider-nph" src="./assets/slider-aPK.png"/>
+                    <div class="auto-group-mojq-X1b">
+                      <div class="startingprice-FiH">₹0</div>
+                      <div class="endingrange-ibs">₹55,000</div>
+                    </div>
+                  </div>
+                  <div class="wharehouse-a8H">
+                    <p class="location-WXj">location</p>
+                    <div class="searchbar-FER">
+                      <img class="vector-mCm" src="./assets/vector-ikH.png"/>
+                      <p class="search-by-location-uJy">Search by Location</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- filter end -->
           <div class="searchbar-1vq">
             <img class="vector-Kgd" src="./assets/vector-BjX.png"/>
             <p class="search-supplier-TH3">Search Supplier</p>
@@ -325,4 +400,5 @@
     </div>
   </div>
 </div>
+<script src="./JS/newcustomerpopup.js"></script>
 </body>
