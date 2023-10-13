@@ -12,9 +12,11 @@
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Harmattan%3A400%2C700"/>
   <link rel="stylesheet" href="./styles/warehouse.css"/>
   <link rel="stylesheet" href="./styles/dashboard.css"/>
+  <link rel="stylesheet" href="./styles/newwarehouse.css"/>
+  <link rel="stylesheet" href="./styles/transferwarehouse.css"/>
 </head>
 <body>
-<div class="warehouse-Tgu">
+<div  class="warehouse-Tgu">
   <div class="frame-117-rXB">
     <img class="rectangle-728-MD3" src="./assets/rectangle-728.png"/>
     <div class="searchbar-fzR">
@@ -177,14 +179,92 @@
           </div>
         </div>
         <div class="auto-group-fwrd-JxH">
-          <div class="addwarehousebutton-dzZ">
+          <div  id="myBtn" class="addwarehousebutton-dzZ">
             <p class="add-warehouse-9T7">Add Warehouse </p>
             <p class="item--pp9">+</p>
           </div>
-          <div class="transferb-wwarehousebutton-ied">
+          <!-- new warehouse -->
+          <div  id="myModal" class="newwarehouse-pBb modal">
+            <div class="transfer-goods-mm3 modal-content">
+              <p class="create-warehouse-heh">Create Warehouse</p>
+              <span class="close"> &times; </span>
+              <div class="transfer-goods-QZ7">
+                <div class="auto-group-c62m-5fF">
+                  <p class="warehouse-name-RUD">WareHouse Name</p>
+                  <p class="operator-name-Z4d">Operator Name</p>
+                </div>
+                <div class="auto-group-ydnh-JH7">
+                  <div class="rectangle-519-rJd">
+                  </div>
+                  <div class="rectangle-519-Wty">
+                  </div>
+                </div>
+                <div class="auto-group-mwch-cx1">
+                  <p class="warehouse-location-wUV">WareHouse Location</p>
+                  <p class="capacity-r5f">Capacity</p>
+                </div>
+                <div class="auto-group-lech-AMF">
+                  <div class="rectangle-519-XBo">
+                  </div>
+                  <div class="rectangle-519-dEq">
+                  </div>
+                </div>
+                <div class="auto-group-hm2r-LQ9">
+                  <p class="contact-info-HKP">Contact Info</p>
+                  <p class="no-of-bins-bay">No of Bins</p>
+                </div>
+                <div class="auto-group-phrs-i9o">
+                  <div class="rectangle-519-4zM">
+                  </div>
+                  <div class="rectangle-519-m85">
+                  </div>
+                </div>
+                <div class="auto-group-sd4d-F3F">
+                  <p class="maintainance-cost-nYy">Maintainance Cost</p>
+                  <p class="functionalities-hR3">Functionalities</p>
+                </div>
+                <div class="auto-group-4mrj-DeH">
+                  <div class="rectangle-519-y7f">
+                  </div>
+                  <div class="rectangle-519-G6m">
+                  </div>
+                </div>
+              </div>
+              <div class="creationwarehouse-Jp9">Create Warehouse</div>
+            </div>
+          </div>
+          <!-- new warehouse end -->
+          <div id ="open" class="transferb-wwarehousebutton-ied">
             <p class="transfer-b-w-warehouse-3S1">Transfer B/W Warehouse</p>
             <img class="vector-AFj" src="./assets/vector-7LM.png"/>
           </div>
+          <!-- transfer b/w warehouse -->
+          <div id ="mywarehouse" class="transferwarehouse-jvh box">
+            <div class="transfer-goods-u4V box2">
+              <p class="transfer-b-w-warehouse-bi1">Transfer b/w Warehouse</p>
+              <span class="cross"> &times; </span>
+              <div class="transfer-goods-Wpy">
+                <div class="auto-group-dpe9-2oK">
+                  <p class="transfer-from-kjK">Transfer From</p>
+                  <p class="transfer-to-62V">Transfer To</p>
+                </div>
+                <div class="auto-group-pxbf-bzq">
+                  <div class="select-warehouse-ZAy">
+                    <img class="polygon-9-Yob" src="./assets/polygon-9-3ah.png"/>
+                  </div>
+                  <div class="select-warehouse-RMb">
+                    <img class="polygon-9-xMX" src="./assets/polygon-9.png"/>
+                  </div>
+                </div>
+                <p class="select-product-qty-f13">Select Product &amp; Qty.</p>
+                <div class="select-warehouse-yGd">
+                  <img class="polygon-9-uRB" src="./assets/polygon-9-N3j.png"/>
+                </div>
+              </div>
+              <div class="creationwarehouse-Aru">Transfer Now</div>
+            </div>
+          </div>
+          <!-- transfer b/w warehouse -->
         </div>
       </div>
       <div class="auto-group-s1qk-sA9">
@@ -333,4 +413,6 @@
     </div>
   </div>
 </div>
+<script src="./JS/newcustomerpopup.js"></script>
+<script src="./JS/transferwarehouse.js"></script>
 </body>
