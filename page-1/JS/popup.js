@@ -1,4 +1,4 @@
-var odal = document.getElementById("modal");
+var odal = document.getElementById("todal");
         
 // Get the button that opens the modal
 var tn = document.getElementById("btn");

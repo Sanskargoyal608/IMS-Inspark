@@ -1,30 +1,12 @@
 
-html {
-	font-size:62.5%;
-}
-* {
-	margin: 0;
-	padding: 0;
-}
-ul, li {
-	list-style: none;
-}
-input {
-	border: none;
-}
-body {
-  width: 55.6rem;
-}.customer-filter-cLq {
-  width: 100%;
-  height: 94.8rem;
-}
 .customer-filter-cLq .customerfilter-mDj {
   box-sizing: border-box;
   padding: 1.7rem 0rem 2.1rem 0rem;
-  width: 100%;
+  width: 25%;
   height: 100%;
   background-color: #cad0f4;
   border-radius: 1.5rem;
+  margin-right: 0;
 }
 .customer-filter-cLq .customerfilter-mDj .filtercustomer-JUZ {
   width: 100%;
@@ -43,7 +25,7 @@ body {
   flex-shrink: 0;
 }
 .customer-filter-cLq .customerfilter-mDj .filtercustomer-JUZ .topheader-rW5 .filter-customer-krM {
-  margin: 0rem 25.288rem 0.525rem 0rem;
+  margin: 0rem 13.288rem 0.525rem 0rem;
   font-size: 2.9rem;
   font-weight: 400;
   line-height: 1.2575;
@@ -62,13 +44,17 @@ body {
 }
 .customer-filter-cLq .customerfilter-mDj .filtercustomer-JUZ .scrollablefilter-7qK {
   width: 100%;
-  height: 85.1rem;
+  margin-left: 1rem;
+  height: 60.1rem;
   overflow: hidden;
   position: relative;
   align-items: center;
   display: flex;
   flex-direction: column;
   flex-shrink: 0;
+  overflow-y: scroll;
+}.scrollablefilter-7qK::-webkit-scrollbar{
+  visibility: hidden;
 }
 .customer-filter-cLq .customerfilter-mDj .filtercustomer-JUZ .scrollablefilter-7qK .categories-T8V {
   box-sizing: border-box;
@@ -363,7 +349,7 @@ body {
 }
 .customer-filter-cLq .customerfilter-mDj .filtercustomer-JUZ .scrollablefilter-7qK .pricerange-tnm .slider-9Cu {
   margin: 0rem 0rem 0.7rem 2.4rem;
-  width: 50.6rem;
+  width: 28.6rem;
   height: 2.5rem;
   position: relative;
   object-fit: contain;
@@ -379,7 +365,7 @@ body {
   flex-shrink: 0;
 }
 .customer-filter-cLq .customerfilter-mDj .filtercustomer-JUZ .scrollablefilter-7qK .pricerange-tnm .auto-group-byzw-sPo .startingprice-QPj {
-  margin-right: 33.6rem;
+  margin-right: 13.6rem;
   width: 9.7rem;
   height: 100%;
   font-size: 1.8rem;
@@ -465,4 +451,42 @@ body {
   font-family: Inter, 'Source Sans Pro';
   white-space: nowrap;
   flex-shrink: 0;
+}.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+/* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
 }
+
+/* Modal Content */
+.modal-content {
+  background-color: rgb(255, 255, 255); 
+  height: 100%;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid #888;
+  width: 100%;
+}
+
+/* The Close Button */
+.close {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+
