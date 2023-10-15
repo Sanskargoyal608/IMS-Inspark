@@ -787,7 +787,7 @@ body {
   box-sizing: border-box;
   padding: 1.6rem 1.3rem 1.8rem 0.9rem;
   width: 100%;
-  display: flex;
+  display: none;
   flex-direction: column;
   border: solid 0.1rem #000000;
   background-color: #cad0f4;
@@ -1493,6 +1493,7 @@ body {
   border: solid 0.1rem #000000;
   background-color: #cad0f4;
   border-radius: 2rem;
+  display: none;
 }
  .group-116-nkq .auto-group-hsid-Gg1 {
   margin: 0rem 9.5rem 1.4rem 1.4rem;
@@ -1719,6 +1720,9 @@ body {
   height: 55rem;
   overflow: hidden;
   position: relative;
+  overflow-y: scroll;
+}.frame-84-4t1::-webkit-scrollbar{
+  visibility: hidden;
 }
  .group-116-nkq .auto-group-c7jy-R53 .frame-85-JuX .frame-84-4t1 .group-113-2K3 {
   width: 100%;
