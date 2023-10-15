@@ -373,12 +373,15 @@ body {
   top: 31.6rem;
 }
 .productpage-HmK .auto-group-4cbt-g8Z .auto-group-mhso-WdP .frame-150-Ahw .frame-145-vMf .frame-144-F93 {
-  width: 35.3rem;
+  width: 38.3rem;
   height: 32.1rem;
   position: absolute;
-  left: 0;
+  left: 0.5rem;
   top: 4.2rem;
   overflow: hidden;
+  overflow-y: scroll;
+}.frame-144-F93::-webkit-scrollbar{
+  visibility: hidden;
 }
 .productpage-HmK .auto-group-4cbt-g8Z .auto-group-mhso-WdP .frame-150-Ahw .frame-145-vMf .frame-144-F93 .categories-pp-x3T {
   box-sizing: border-box;
@@ -406,266 +409,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.productpage-HmK .auto-group-4cbt-g8Z .auto-group-mhso-WdP .frame-150-Ahw .frame-145-vMf .frame-144-F93 .categories-pp-jTX {
-  box-sizing: border-box;
-  padding: 0.9rem 20.5rem 0.9rem 2.9rem;
-  width: 100%;
-  display: flex;
-  align-items: center;
-  background-color: #ffffff;
-}
-.productpage-HmK .auto-group-4cbt-g8Z .auto-group-mhso-WdP .frame-150-Ahw .frame-145-vMf .frame-144-F93 .categories-pp-jTX .rectangle-817-GTT {
-  margin: 0rem 1.9rem 0.1rem 0rem;
-  width: 1.7rem;
-  height: 1.7rem;
-  border: solid 0.1rem #23b3d3;
-  box-sizing: border-box;
-  background-color: #ffffff;
-  flex-shrink: 0;
-}
-.productpage-HmK .auto-group-4cbt-g8Z .auto-group-mhso-WdP .frame-150-Ahw .frame-145-vMf .frame-144-F93 .categories-pp-jTX .all-products-BqK {
-  font-size: 1.9rem;
-  font-weight: 300;
-  line-height: 1.2125;
-  color: #000000;
-  font-family: Inter, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-.productpage-HmK .auto-group-4cbt-g8Z .auto-group-mhso-WdP .frame-150-Ahw .frame-145-vMf .frame-144-F93 .categories-pp-7iy {
-  box-sizing: border-box;
-  padding: 0.9rem 20.5rem 0.9rem 2.9rem;
-  width: 100%;
-  display: flex;
-  align-items: center;
-  background-color: #ffffff;
-}
-.productpage-HmK .auto-group-4cbt-g8Z .auto-group-mhso-WdP .frame-150-Ahw .frame-145-vMf .frame-144-F93 .categories-pp-7iy .rectangle-817-3Mj {
-  margin: 0rem 1.9rem 0.1rem 0rem;
-  width: 1.7rem;
-  height: 1.7rem;
-  border: solid 0.1rem #23b3d3;
-  box-sizing: border-box;
-  background-color: #ffffff;
-  flex-shrink: 0;
-}
-.productpage-HmK .auto-group-4cbt-g8Z .auto-group-mhso-WdP .frame-150-Ahw .frame-145-vMf .frame-144-F93 .categories-pp-7iy .all-products-MtD {
-  font-size: 1.9rem;
-  font-weight: 300;
-  line-height: 1.2125;
-  color: #000000;
-  font-family: Inter, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-.productpage-HmK .auto-group-4cbt-g8Z .auto-group-mhso-WdP .frame-150-Ahw .frame-145-vMf .frame-144-F93 .categories-pp-hSH {
-  box-sizing: border-box;
-  padding: 0.9rem 20.5rem 0.9rem 2.9rem;
-  width: 100%;
-  display: flex;
-  align-items: center;
-  background-color: #ffffff;
-}
-.productpage-HmK .auto-group-4cbt-g8Z .auto-group-mhso-WdP .frame-150-Ahw .frame-145-vMf .frame-144-F93 .categories-pp-hSH .rectangle-817-daq {
-  margin: 0rem 1.9rem 0.1rem 0rem;
-  width: 1.7rem;
-  height: 1.7rem;
-  border: solid 0.1rem #23b3d3;
-  box-sizing: border-box;
-  background-color: #ffffff;
-  flex-shrink: 0;
-}
-.productpage-HmK .auto-group-4cbt-g8Z .auto-group-mhso-WdP .frame-150-Ahw .frame-145-vMf .frame-144-F93 .categories-pp-hSH .all-products-wrR {
-  font-size: 1.9rem;
-  font-weight: 300;
-  line-height: 1.2125;
-  color: #000000;
-  font-family: Inter, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-.productpage-HmK .auto-group-4cbt-g8Z .auto-group-mhso-WdP .frame-150-Ahw .frame-145-vMf .frame-144-F93 .categories-pp-gZ7 {
-  box-sizing: border-box;
-  padding: 0.9rem 20.5rem 0.9rem 2.9rem;
-  width: 100%;
-  display: flex;
-  align-items: center;
-  background-color: #ffffff;
-}
-.productpage-HmK .auto-group-4cbt-g8Z .auto-group-mhso-WdP .frame-150-Ahw .frame-145-vMf .frame-144-F93 .categories-pp-gZ7 .rectangle-817-p9X {
-  margin: 0rem 1.9rem 0.1rem 0rem;
-  width: 1.7rem;
-  height: 1.7rem;
-  border: solid 0.1rem #23b3d3;
-  box-sizing: border-box;
-  background-color: #ffffff;
-  flex-shrink: 0;
-}
-.productpage-HmK .auto-group-4cbt-g8Z .auto-group-mhso-WdP .frame-150-Ahw .frame-145-vMf .frame-144-F93 .categories-pp-gZ7 .all-products-XJq {
-  font-size: 1.9rem;
-  font-weight: 300;
-  line-height: 1.2125;
-  color: #000000;
-  font-family: Inter, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-.productpage-HmK .auto-group-4cbt-g8Z .auto-group-mhso-WdP .frame-150-Ahw .frame-145-vMf .frame-144-F93 .categories-pp-G1X {
-  box-sizing: border-box;
-  padding: 0.9rem 20.5rem 0.9rem 2.9rem;
-  width: 100%;
-  display: flex;
-  align-items: center;
-  background-color: #ffffff;
-}
-.productpage-HmK .auto-group-4cbt-g8Z .auto-group-mhso-WdP .frame-150-Ahw .frame-145-vMf .frame-144-F93 .categories-pp-G1X .rectangle-817-zTK {
-  margin: 0rem 1.9rem 0.1rem 0rem;
-  width: 1.7rem;
-  height: 1.7rem;
-  border: solid 0.1rem #23b3d3;
-  box-sizing: border-box;
-  background-color: #ffffff;
-  flex-shrink: 0;
-}
-.productpage-HmK .auto-group-4cbt-g8Z .auto-group-mhso-WdP .frame-150-Ahw .frame-145-vMf .frame-144-F93 .categories-pp-G1X .all-products-hsX {
-  font-size: 1.9rem;
-  font-weight: 300;
-  line-height: 1.2125;
-  color: #000000;
-  font-family: Inter, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-.productpage-HmK .auto-group-4cbt-g8Z .auto-group-mhso-WdP .frame-150-Ahw .frame-145-vMf .frame-144-F93 .categories-pp-2uo {
-  box-sizing: border-box;
-  padding: 0.9rem 20.5rem 0.9rem 2.9rem;
-  width: 100%;
-  display: flex;
-  align-items: center;
-  background-color: #ffffff;
-}
-.productpage-HmK .auto-group-4cbt-g8Z .auto-group-mhso-WdP .frame-150-Ahw .frame-145-vMf .frame-144-F93 .categories-pp-2uo .rectangle-817-xoT {
-  margin: 0rem 1.9rem 0.1rem 0rem;
-  width: 1.7rem;
-  height: 1.7rem;
-  border: solid 0.1rem #23b3d3;
-  box-sizing: border-box;
-  background-color: #ffffff;
-  flex-shrink: 0;
-}
-.productpage-HmK .auto-group-4cbt-g8Z .auto-group-mhso-WdP .frame-150-Ahw .frame-145-vMf .frame-144-F93 .categories-pp-2uo .all-products-Umo {
-  font-size: 1.9rem;
-  font-weight: 300;
-  line-height: 1.2125;
-  color: #000000;
-  font-family: Inter, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-.productpage-HmK .auto-group-4cbt-g8Z .auto-group-mhso-WdP .frame-150-Ahw .frame-145-vMf .frame-144-F93 .categories-pp-DUV {
-  box-sizing: border-box;
-  padding: 0.9rem 20.5rem 0.9rem 2.9rem;
-  width: 100%;
-  display: flex;
-  align-items: center;
-  background-color: #ffffff;
-}
-.productpage-HmK .auto-group-4cbt-g8Z .auto-group-mhso-WdP .frame-150-Ahw .frame-145-vMf .frame-144-F93 .categories-pp-DUV .rectangle-817-MKo {
-  margin: 0rem 1.9rem 0.1rem 0rem;
-  width: 1.7rem;
-  height: 1.7rem;
-  border: solid 0.1rem #23b3d3;
-  box-sizing: border-box;
-  background-color: #ffffff;
-  flex-shrink: 0;
-}
-.productpage-HmK .auto-group-4cbt-g8Z .auto-group-mhso-WdP .frame-150-Ahw .frame-145-vMf .frame-144-F93 .categories-pp-DUV .all-products-T7w {
-  font-size: 1.9rem;
-  font-weight: 300;
-  line-height: 1.2125;
-  color: #000000;
-  font-family: Inter, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-.productpage-HmK .auto-group-4cbt-g8Z .auto-group-mhso-WdP .frame-150-Ahw .frame-145-vMf .frame-144-F93 .categories-pp-Bpd {
-  box-sizing: border-box;
-  padding: 0.9rem 20.5rem 0.9rem 2.9rem;
-  width: 100%;
-  display: flex;
-  align-items: center;
-  background-color: #ffffff;
-}
-.productpage-HmK .auto-group-4cbt-g8Z .auto-group-mhso-WdP .frame-150-Ahw .frame-145-vMf .frame-144-F93 .categories-pp-Bpd .rectangle-817-Wru {
-  margin: 0rem 1.9rem 0.1rem 0rem;
-  width: 1.7rem;
-  height: 1.7rem;
-  border: solid 0.1rem #23b3d3;
-  box-sizing: border-box;
-  background-color: #ffffff;
-  flex-shrink: 0;
-}
-.productpage-HmK .auto-group-4cbt-g8Z .auto-group-mhso-WdP .frame-150-Ahw .frame-145-vMf .frame-144-F93 .categories-pp-Bpd .all-products-q8V {
-  font-size: 1.9rem;
-  font-weight: 300;
-  line-height: 1.2125;
-  color: #000000;
-  font-family: Inter, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-.productpage-HmK .auto-group-4cbt-g8Z .auto-group-mhso-WdP .frame-150-Ahw .frame-145-vMf .frame-144-F93 .categories-pp-AwT {
-  box-sizing: border-box;
-  padding: 0.9rem 20.5rem 0.9rem 2.9rem;
-  width: 100%;
-  display: flex;
-  align-items: center;
-  background-color: #ffffff;
-}
-.productpage-HmK .auto-group-4cbt-g8Z .auto-group-mhso-WdP .frame-150-Ahw .frame-145-vMf .frame-144-F93 .categories-pp-AwT .rectangle-817-JXs {
-  margin: 0rem 1.9rem 0.1rem 0rem;
-  width: 1.7rem;
-  height: 1.7rem;
-  border: solid 0.1rem #23b3d3;
-  box-sizing: border-box;
-  background-color: #ffffff;
-  flex-shrink: 0;
-}
-.productpage-HmK .auto-group-4cbt-g8Z .auto-group-mhso-WdP .frame-150-Ahw .frame-145-vMf .frame-144-F93 .categories-pp-AwT .all-products-R6h {
-  font-size: 1.9rem;
-  font-weight: 300;
-  line-height: 1.2125;
-  color: #000000;
-  font-family: Inter, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-.productpage-HmK .auto-group-4cbt-g8Z .auto-group-mhso-WdP .frame-150-Ahw .frame-145-vMf .frame-144-F93 .categories-pp-kPs {
-  box-sizing: border-box;
-  padding: 0.9rem 20.5rem 0.9rem 2.9rem;
-  width: 100%;
-  display: flex;
-  align-items: center;
-  background-color: #ffffff;
-}
-.productpage-HmK .auto-group-4cbt-g8Z .auto-group-mhso-WdP .frame-150-Ahw .frame-145-vMf .frame-144-F93 .categories-pp-kPs .rectangle-817-Uqf {
-  margin: 0rem 1.9rem 0.1rem 0rem;
-  width: 1.7rem;
-  height: 1.7rem;
-  border: solid 0.1rem #23b3d3;
-  box-sizing: border-box;
-  background-color: #ffffff;
-  flex-shrink: 0;
-}
-.productpage-HmK .auto-group-4cbt-g8Z .auto-group-mhso-WdP .frame-150-Ahw .frame-145-vMf .frame-144-F93 .categories-pp-kPs .all-products-Cmf {
-  font-size: 1.9rem;
-  font-weight: 300;
-  line-height: 1.2125;
-  color: #000000;
-  font-family: Inter, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
-}
+
 .productpage-HmK .auto-group-4cbt-g8Z .auto-group-mhso-WdP .frame-150-Ahw .frame-145-vMf .group-122-wUM {
   box-sizing: border-box;
   padding: 0rem 0.4rem 0rem 0.5rem;
@@ -692,10 +436,13 @@ body {
 }
 .productpage-HmK .auto-group-4cbt-g8Z .auto-group-mhso-WdP .frame-150-Ahw .frame-147-VPP {
   width: 85.6rem;
-  height: 161.1rem;
+  height: 84.1rem;
   position: absolute;
   left: 1.3rem;
   top: 13.3rem;
+  overflow-y: scroll;
+}.frame-147-VPP::-webkit-scrollbar{
+  visibility: hidden;
 }
 .productpage-HmK .auto-group-4cbt-g8Z .auto-group-mhso-WdP .frame-150-Ahw .frame-147-VPP .frame-143-oey {
   margin-bottom: 2.6rem;
