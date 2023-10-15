@@ -24,32 +24,30 @@ body {
   flex-direction: column;
   background-color: #ffffff;
 }
-.customerprofiles-SFs .frame-122-KKf {
-  margin-bottom: 1.4rem;
+/* header */
+.customerprofiles-SFs .frame-117-rXB {
   box-sizing: border-box;
-  padding: 0.8rem 4.7rem 0.3rem 0rem;
-  width: 146.2rem;
-  height: 11rem;
-  overflow: hidden;
-  position: relative;
+  padding: 0.3rem 10.8rem 0rem 0rem;
+  width: 100%;
+  height: 10.2rem;
   display: flex;
   align-items: center;
   background-color: #ffffff;
   flex-shrink: 0;
 }
-.customerprofiles-SFs .frame-122-KKf .rectangle-728-1TP {
+.customerprofiles-SFs .frame-117-rXB .rectangle-728-MD3 {
   margin-right: 2.6rem;
-  width: 9.9rem;
-  height: 9.9rem;
+  width: 7.9rem;
+  height: 7.9rem;
   object-fit: cover;
   vertical-align: top;
   flex-shrink: 0;
 }
-.customerprofiles-SFs .frame-122-KKf .searchbar-kA5 {
-  margin: 2.1rem 53.1rem 2.4rem 0rem;
+.customerprofiles-SFs .frame-117-rXB .searchbar-fzR {
+  margin: 1rem 45.7rem 1rem 2rem;
   box-sizing: border-box;
-  padding: 1.1rem 30rem 0.826rem 1.6rem;
-  height: calc(100% - 4.5rem);
+  padding: 1.1rem 8rem 1rem 1.6rem;
+  height: calc(100% - 5.5rem);
   display: flex;
   align-items: center;
   border: solid 0.1rem #000000;
@@ -58,47 +56,41 @@ body {
   border-radius: 2.5rem;
   flex-shrink: 0;
 }
-.customerprofiles-SFs .frame-122-KKf .searchbar-kA5 .vector-2dP {
-  margin: 0.463rem 3.4rem 0rem 0rem;
+.customerprofiles-SFs .frame-117-rXB .searchbar-fzR .vector-a5o {
+  margin: 0.2rem 3.4rem 0rem 0rem;
   width: 3.4rem;
-  height: 3.0102rem;
+  height: 2.9rem;
   object-fit: contain;
   vertical-align: top;
   flex-shrink: 0;
 }
-.customerprofiles-SFs .frame-122-KKf .searchbar-kA5 .search-mL5 {
-  margin-bottom: 0.1735rem;
+.customerprofiles-SFs .frame-117-rXB .searchbar-fzR .search-RcD {
+  max-width: 100%;
+  max-height: 100%;
   font-size: 2.7rem;
   font-weight: 400;
-  line-height: 1.2125;
+  line-height: 0.75;
   color: rgba(0, 0, 0, 0.5299999714);
   font-family: Inter, 'Source Sans Pro';
   white-space: nowrap;
   flex-shrink: 0;
 }
-.customerprofiles-SFs .frame-122-KKf .group-36-DC5 {
-  margin: 2rem 0rem 2.1rem 0rem;
-  height: calc(100% - 4.1rem);
+
+.customerprofiles-SFs .frame-117-rXB .group-34-fWZ {
+  margin: 2rem 0rem 2.2rem 0rem;
+  height: calc(100% - 4.2rem);
   display: flex;
-  align-items: flex-start;
+  align-items: center;
   flex-shrink: 0;
 }
-.customerprofiles-SFs .frame-122-KKf .group-36-DC5 .group-34-MJH {
-  margin: 0.1rem 1.4rem 0rem 0rem;
-  height: 5.7rem;
-  display: flex;
-  align-items: flex-start;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .frame-122-KKf .group-36-DC5 .group-34-MJH .auto-group-yrob-VQV {
-  margin-right: 4.2rem;
+.customerprofiles-SFs .frame-117-rXB .group-34-fWZ .auto-group-ubfw-HH3 {
   height: 100%;
   align-items: center;
   display: flex;
   flex-direction: column;
   flex-shrink: 0;
 }
-.customerprofiles-SFs .frame-122-KKf .group-36-DC5 .group-34-MJH .auto-group-yrob-VQV .hello-inspark-DbP {
+.customerprofiles-SFs .frame-117-rXB .group-34-fWZ .auto-group-ubfw-HH3 .hello-inspark-R8M {
   margin-bottom: 0.1rem;
   font-size: 2.2rem;
   font-weight: 400;
@@ -108,34 +100,39 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.customerprofiles-SFs .frame-122-KKf .group-36-DC5 .group-34-MJH .auto-group-yrob-VQV .owner-Y7s {
-  margin-right: 0.7rem;
-  font-size: 2.2rem;
-  font-weight: 400;
-  line-height: 1.2575;
-  color: rgba(0, 0, 0, 0.7900000215);
-  font-family: Hannari, 'Source Sans Pro';
-  white-space: nowrap;
+.customerprofiles-SFs .auto-group-jyxf-h2h {
+  margin-right: 3rem;
+  width: calc(100% - 3rem);
+  display: flex;
+  align-items: flex-start;
   flex-shrink: 0;
 }
-.customerprofiles-SFs .frame-122-KKf .group-36-DC5 .group-34-MJH .auto-group-qd7w-Fny {
-  margin-bottom: 0.3rem;
+.customerprofiles-SFs .frame-117-rXB .group-34-fWZ .auto-group-mgsv-UMX {
   box-sizing: border-box;
-  padding: 1.468rem 1.1rem 1.233rem 1.1rem;
+  padding-left: 4.2rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.customerprofiles-SFs .frame-117-rXB .group-34-fWZ .auto-group-mgsv-UMX .auto-group-8xe1-cid {
+  margin: 0rem 2.6rem 0.3rem 0rem;
+  box-sizing: border-box;
+  padding: 1.3rem 1.1rem 1.5rem 1.1rem;
   border: solid 0.1rem #000000;
   box-shadow: 0 0.4rem 0.4rem #98a0da;
   background-color: #ffffff;
   border-radius: 2.7rem;
   flex-shrink: 0;
 }
-.customerprofiles-SFs .frame-122-KKf .group-36-DC5 .group-34-MJH .auto-group-qd7w-Fny .vector-o3o {
+.customerprofiles-SFs .frame-117-rXB .group-34-fWZ .auto-group-mgsv-UMX .auto-group-8xe1-cid .vector-jYM {
   width: 3.2rem;
-  height: 2.6988rem;
+  height: 2.6rem;
   object-fit: contain;
   vertical-align: top;
 }
-.customerprofiles-SFs .frame-122-KKf .group-36-DC5 .notification-tqw {
-  margin-bottom: 0.4rem;
+.customerprofiles-SFs .frame-117-rXB .group-34-fWZ .auto-group-mgsv-UMX .notification-21f {
+  margin-bottom: 0.3rem;
   box-sizing: border-box;
   padding: 1.559rem 1.2rem 1.025rem 1.2rem;
   cursor: pointer;
@@ -145,25 +142,142 @@ body {
   border-radius: 2.7rem;
   flex-shrink: 0;
 }
-.customerprofiles-SFs .frame-122-KKf .group-36-DC5 .notification-tqw .vector-qWH {
+.customerprofiles-SFs .frame-117-rXB .group-34-fWZ .auto-group-mgsv-UMX .notification-21f .vector-M3w {
   width: 3rem;
   height: 2.816rem;
   object-fit: contain;
   vertical-align: top;
 }
-.customerprofiles-SFs .auto-group-jyxf-h2h {
-  margin-right: 3rem;
-  width: calc(100% - 3rem);
-  display: flex;
-  align-items: flex-start;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .slidingmenu-F4D {
-  margin: 0.1rem 2.6rem 0rem 0rem;
+
+/* menu start */
+
+.customerprofiles-SFs .auto-group-jyxf-h2h .slidingmenu-sLm {
+  margin: 2rem 1.3rem 2rem 0rem;
   width: 11.7rem;
-  height: 93rem;
+  height: calc(100% - 5rem);
   cursor: pointer;
   position: relative;
+  flex-shrink: 0;
+}
+.customerprofiles-SFs .auto-group-jyxf-h2h .slidingmenu-sLm .group-114-Unm {
+  box-sizing: border-box;
+  padding: 2.258rem 0.6rem 3.044rem 0.6rem;
+  width: 11.7rem;
+  height: 77.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #cad0f4;
+  border-radius: 1.5rem;
+}
+.customerprofiles-SFs .auto-group-jyxf-h2h .slidingmenu-sLm .group-114-Unm .rectangle-765-Puj {
+  width: 9.5rem;
+  height: 74.0976rem;
+  background-color: #ffffff;
+  border-radius: 1.5rem;
+}
+.slidingmenu-sLm .property-1variant2-tWm {
+  width: 33.6rem;
+  height: 94.1rem;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+
+.customerprofiles-SFs .auto-group-jyxf-h2h .slidingmenu-sLm .frame-127-hQd {
+  box-sizing: border-box;
+  padding: 0.317rem 0.383rem 2.75rem 0.384rem;
+  width: 4.6rem;
+  height: 68.3rem;
+  position: absolute;
+  left: 2.5rem;
+  top: 5.2rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.customerprofiles-SFs .auto-group-jyxf-h2h .slidingmenu-sLm .frame-127-hQd .monitor-dashboard-P2Z {
+  margin-bottom: 2.9667rem;
+  width: 3.7586rem;
+  height: 3.1667rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.customerprofiles-SFs .auto-group-jyxf-h2h .slidingmenu-sLm .frame-127-hQd .cart-plus-WN5 {
+  margin: 0rem 0.295rem 3.238rem 0rem;
+  width: 3.0984rem;
+  height: 3.15rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.customerprofiles-SFs .auto-group-jyxf-h2h .slidingmenu-sLm .frame-127-hQd .chart-line-2bK {
+  margin: 0rem 0.001rem 3.254rem 0rem;
+  width: 3.25rem;
+  height: 2.625rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.customerprofiles-SFs .auto-group-jyxf-h2h .slidingmenu-sLm .frame-127-hQd .package-variant-plus-YZf {
+  margin: 0rem 0rem 3.158rem 0.07rem;
+  width: 3.3211rem;
+  height: 3.325rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.customerprofiles-SFs .auto-group-jyxf-h2h .slidingmenu-sLm .frame-127-hQd .account-tie-TwX {
+  margin: 0rem 0.001rem 3.275rem 0rem;
+  width: 2.6rem;
+  height: 3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.customerprofiles-SFs .auto-group-jyxf-h2h .slidingmenu-sLm .frame-127-hQd .human-dolly-C8R {
+  margin: 0rem 0.008rem 3.646rem 0rem;
+  width: 2.8352rem;
+  height: 2.75rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.customerprofiles-SFs .auto-group-jyxf-h2h .slidingmenu-sLm .frame-127-hQd .account-group-VdK {
+  margin: 0rem 0.001rem 3.683rem 0rem;
+  width: 3.5rem;
+  height: 2.2958rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.customerprofiles-SFs .auto-group-jyxf-h2h .slidingmenu-sLm .frame-127-hQd .warehouse-cC9 {
+  margin: 0rem 0.002rem 3.783rem 0rem;
+  width: 3.4164rem;
+  height: 3.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.customerprofiles-SFs .auto-group-jyxf-h2h .slidingmenu-sLm .frame-127-hQd .store-check-X4D {
+  margin: 0rem 0rem 3.217rem 0.255rem;
+  width: 3.3313rem;
+  height: 3.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.customerprofiles-SFs .auto-group-jyxf-h2h .slidingmenu-sLm .frame-127-hQd .source-branch-plus-Sws {
+  margin: 0rem 0rem 3.6rem 0.341rem;
+  width: 3.075rem;
+  height: 3.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.customerprofiles-SFs .auto-group-jyxf-h2h .slidingmenu-sLm .frame-127-hQd .bank-transfer-xvD {
+  width: 3.8336rem;
+  height: 3rem;
   object-fit: contain;
   vertical-align: top;
   flex-shrink: 0;
@@ -427,10 +541,11 @@ body {
 }
 .customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 {
   width: 100%;
-  height: 119rem;
+  height: 38rem;
   align-items: center;
   display: flex;
   flex-direction: column;
+  overflow-y: scroll;
 }
 .customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-B13 {
   box-sizing: border-box;
@@ -516,1214 +631,5 @@ body {
   height: 3.7625rem;
   object-fit: contain;
   vertical-align: top;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-U41 {
-  box-sizing: border-box;
-  padding: 1.5rem 18.509rem 1.2rem 1.757rem;
-  width: 100%;
-  height: 8.5rem;
-  display: flex;
-  align-items: center;
-  border: solid 0.1rem rgba(0, 0, 0, 0.6499999762);
-  background-color: #ffffff;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-U41 .rectangle-771-xzm {
-  margin: 0rem 1.759rem 0.3rem 0rem;
-  width: 2.5844rem;
-  height: 2.5rem;
-  background-color: #d9d9d9;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-U41 .rectangle-772-4Y1 {
-  margin: 0rem 1.758rem 0.1rem 0rem;
-  width: 6.2031rem;
-  height: 5.7rem;
-  object-fit: cover;
-  vertical-align: top;
-  border-radius: 1rem;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-U41 .auto-group-zf21-Zjf {
-  margin-right: 6.5289rem;
-  height: 100%;
-  display: flex;
-  flex-direction: column;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-U41 .auto-group-zf21-Zjf .stylish-shoes-825 {
-  margin-bottom: 0.7rem;
-  font-size: 2.5rem;
-  font-weight: 300;
-  line-height: 1.2125;
-  color: rgba(0, 0, 0, 0.8299999833);
-  font-family: Inter, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-U41 .auto-group-zf21-Zjf .variant-ryf {
-  font-size: 1.6rem;
-  font-weight: 300;
-  line-height: 1.2125;
-  color: rgba(0, 0, 0, 0.6000000238);
-  font-family: Inter, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-U41 .item-4535-bgM {
-  margin: 0.3rem 10.103rem 0rem 0rem;
-  font-size: 2.5rem;
-  font-weight: 300;
-  line-height: 1.2125;
-  color: rgba(0, 0, 0, 0.8299999833);
-  font-family: Inter, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-U41 .yk-industries-Vmj {
-  margin: 0.3rem 12.712rem 0rem 0rem;
-  font-size: 2.5rem;
-  font-weight: 300;
-  line-height: 1.2125;
-  color: rgba(0, 0, 0, 0.8299999833);
-  font-family: Inter, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-U41 .item-25-dN9 {
-  margin: 0.3rem 14.787rem 0rem 0rem;
-  font-size: 2.5rem;
-  font-weight: 300;
-  line-height: 1.2125;
-  color: rgba(0, 0, 0, 0.8299999833);
-  font-family: Inter, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-U41 .item-56425-xvD {
-  margin-bottom: 0.3rem;
-  font-size: 2.5rem;
-  font-weight: 300;
-  line-height: 1.2125;
-  color: rgba(0, 0, 0, 0.8299999833);
-  font-family: Inter, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-UNm {
-  box-sizing: border-box;
-  padding: 1.5rem 18.509rem 1.2rem 1.757rem;
-  width: 100%;
-  height: 8.5rem;
-  display: flex;
-  align-items: center;
-  border: solid 0.1rem rgba(0, 0, 0, 0.6499999762);
-  background-color: #ffffff;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-UNm .rectangle-771-B2H {
-  margin: 0rem 1.759rem 0.3rem 0rem;
-  width: 2.5844rem;
-  height: 2.5rem;
-  background-color: #d9d9d9;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-UNm .rectangle-772-nXs {
-  margin: 0rem 1.758rem 0.1rem 0rem;
-  width: 6.2031rem;
-  height: 5.7rem;
-  object-fit: cover;
-  vertical-align: top;
-  border-radius: 1rem;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-UNm .auto-group-zgxb-KGu {
-  margin-right: 6.5289rem;
-  height: 100%;
-  display: flex;
-  flex-direction: column;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-UNm .auto-group-zgxb-KGu .stylish-shoes-TP7 {
-  margin-bottom: 0.7rem;
-  font-size: 2.5rem;
-  font-weight: 300;
-  line-height: 1.2125;
-  color: rgba(0, 0, 0, 0.8299999833);
-  font-family: Inter, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-UNm .auto-group-zgxb-KGu .variant-mub {
-  font-size: 1.6rem;
-  font-weight: 300;
-  line-height: 1.2125;
-  color: rgba(0, 0, 0, 0.6000000238);
-  font-family: Inter, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-UNm .item-4535-Jed {
-  margin: 0.3rem 10.103rem 0rem 0rem;
-  font-size: 2.5rem;
-  font-weight: 300;
-  line-height: 1.2125;
-  color: rgba(0, 0, 0, 0.8299999833);
-  font-family: Inter, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-UNm .yk-industries-q8m {
-  margin: 0.3rem 12.712rem 0rem 0rem;
-  font-size: 2.5rem;
-  font-weight: 300;
-  line-height: 1.2125;
-  color: rgba(0, 0, 0, 0.8299999833);
-  font-family: Inter, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-UNm .item-25-Agq {
-  margin: 0.3rem 14.787rem 0rem 0rem;
-  font-size: 2.5rem;
-  font-weight: 300;
-  line-height: 1.2125;
-  color: rgba(0, 0, 0, 0.8299999833);
-  font-family: Inter, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-UNm .item-56425-Vz1 {
-  margin-bottom: 0.3rem;
-  font-size: 2.5rem;
-  font-weight: 300;
-  line-height: 1.2125;
-  color: rgba(0, 0, 0, 0.8299999833);
-  font-family: Inter, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-niD {
-  box-sizing: border-box;
-  padding: 1.5rem 18.509rem 1.2rem 1.757rem;
-  width: 100%;
-  height: 8.5rem;
-  display: flex;
-  align-items: center;
-  border: solid 0.1rem rgba(0, 0, 0, 0.6499999762);
-  background-color: #ffffff;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-niD .rectangle-771-VMj {
-  margin: 0rem 1.759rem 0.3rem 0rem;
-  width: 2.5844rem;
-  height: 2.5rem;
-  background-color: #d9d9d9;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-niD .rectangle-772-EKK {
-  margin: 0rem 1.758rem 0.1rem 0rem;
-  width: 6.2031rem;
-  height: 5.7rem;
-  object-fit: cover;
-  vertical-align: top;
-  border-radius: 1rem;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-niD .auto-group-zsxp-8vV {
-  margin-right: 6.5289rem;
-  height: 100%;
-  display: flex;
-  flex-direction: column;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-niD .auto-group-zsxp-8vV .stylish-shoes-6cR {
-  margin-bottom: 0.7rem;
-  font-size: 2.5rem;
-  font-weight: 300;
-  line-height: 1.2125;
-  color: rgba(0, 0, 0, 0.8299999833);
-  font-family: Inter, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-niD .auto-group-zsxp-8vV .variant-qpu {
-  font-size: 1.6rem;
-  font-weight: 300;
-  line-height: 1.2125;
-  color: rgba(0, 0, 0, 0.6000000238);
-  font-family: Inter, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-niD .item-4535-yw7 {
-  margin: 0.3rem 10.103rem 0rem 0rem;
-  font-size: 2.5rem;
-  font-weight: 300;
-  line-height: 1.2125;
-  color: rgba(0, 0, 0, 0.8299999833);
-  font-family: Inter, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-niD .yk-industries-6Vw {
-  margin: 0.3rem 12.712rem 0rem 0rem;
-  font-size: 2.5rem;
-  font-weight: 300;
-  line-height: 1.2125;
-  color: rgba(0, 0, 0, 0.8299999833);
-  font-family: Inter, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-niD .item-25-dVs {
-  margin: 0.3rem 14.787rem 0rem 0rem;
-  font-size: 2.5rem;
-  font-weight: 300;
-  line-height: 1.2125;
-  color: rgba(0, 0, 0, 0.8299999833);
-  font-family: Inter, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-niD .item-56425-wWZ {
-  margin-bottom: 0.3rem;
-  font-size: 2.5rem;
-  font-weight: 300;
-  line-height: 1.2125;
-  color: rgba(0, 0, 0, 0.8299999833);
-  font-family: Inter, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-33o {
-  box-sizing: border-box;
-  padding: 1.5rem 18.509rem 1.2rem 1.757rem;
-  width: 100%;
-  height: 8.5rem;
-  display: flex;
-  align-items: center;
-  border: solid 0.1rem rgba(0, 0, 0, 0.6499999762);
-  background-color: #ffffff;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-33o .rectangle-771-N65 {
-  margin: 0rem 1.759rem 0.3rem 0rem;
-  width: 2.5844rem;
-  height: 2.5rem;
-  background-color: #d9d9d9;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-33o .rectangle-772-WCH {
-  margin: 0rem 1.758rem 0.1rem 0rem;
-  width: 6.2031rem;
-  height: 5.7rem;
-  object-fit: cover;
-  vertical-align: top;
-  border-radius: 1rem;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-33o .auto-group-x7wx-qVT {
-  margin-right: 6.5289rem;
-  height: 100%;
-  display: flex;
-  flex-direction: column;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-33o .auto-group-x7wx-qVT .stylish-shoes-KvR {
-  margin-bottom: 0.7rem;
-  font-size: 2.5rem;
-  font-weight: 300;
-  line-height: 1.2125;
-  color: rgba(0, 0, 0, 0.8299999833);
-  font-family: Inter, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-33o .auto-group-x7wx-qVT .variant-wwo {
-  font-size: 1.6rem;
-  font-weight: 300;
-  line-height: 1.2125;
-  color: rgba(0, 0, 0, 0.6000000238);
-  font-family: Inter, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-33o .item-4535-fso {
-  margin: 0.3rem 10.103rem 0rem 0rem;
-  font-size: 2.5rem;
-  font-weight: 300;
-  line-height: 1.2125;
-  color: rgba(0, 0, 0, 0.8299999833);
-  font-family: Inter, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-33o .yk-industries-oUD {
-  margin: 0.3rem 12.712rem 0rem 0rem;
-  font-size: 2.5rem;
-  font-weight: 300;
-  line-height: 1.2125;
-  color: rgba(0, 0, 0, 0.8299999833);
-  font-family: Inter, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-33o .item-25-8mP {
-  margin: 0.3rem 14.787rem 0rem 0rem;
-  font-size: 2.5rem;
-  font-weight: 300;
-  line-height: 1.2125;
-  color: rgba(0, 0, 0, 0.8299999833);
-  font-family: Inter, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-33o .item-56425-UKT {
-  margin-bottom: 0.3rem;
-  font-size: 2.5rem;
-  font-weight: 300;
-  line-height: 1.2125;
-  color: rgba(0, 0, 0, 0.8299999833);
-  font-family: Inter, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-nb3 {
-  box-sizing: border-box;
-  padding: 1.5rem 18.509rem 1.2rem 1.757rem;
-  width: 100%;
-  height: 8.5rem;
-  display: flex;
-  align-items: center;
-  border: solid 0.1rem rgba(0, 0, 0, 0.6499999762);
-  background-color: #ffffff;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-nb3 .rectangle-771-VVT {
-  margin: 0rem 1.759rem 0.3rem 0rem;
-  width: 2.5844rem;
-  height: 2.5rem;
-  background-color: #d9d9d9;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-nb3 .rectangle-772-31B {
-  margin: 0rem 1.758rem 0.1rem 0rem;
-  width: 6.2031rem;
-  height: 5.7rem;
-  object-fit: cover;
-  vertical-align: top;
-  border-radius: 1rem;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-nb3 .auto-group-va4r-ZkD {
-  margin-right: 6.5289rem;
-  height: 100%;
-  display: flex;
-  flex-direction: column;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-nb3 .auto-group-va4r-ZkD .stylish-shoes-uZB {
-  margin-bottom: 0.7rem;
-  font-size: 2.5rem;
-  font-weight: 300;
-  line-height: 1.2125;
-  color: rgba(0, 0, 0, 0.8299999833);
-  font-family: Inter, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-nb3 .auto-group-va4r-ZkD .variant-dk5 {
-  font-size: 1.6rem;
-  font-weight: 300;
-  line-height: 1.2125;
-  color: rgba(0, 0, 0, 0.6000000238);
-  font-family: Inter, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-nb3 .item-4535-LeV {
-  margin: 0.3rem 10.103rem 0rem 0rem;
-  font-size: 2.5rem;
-  font-weight: 300;
-  line-height: 1.2125;
-  color: rgba(0, 0, 0, 0.8299999833);
-  font-family: Inter, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-nb3 .yk-industries-t3j {
-  margin: 0.3rem 12.712rem 0rem 0rem;
-  font-size: 2.5rem;
-  font-weight: 300;
-  line-height: 1.2125;
-  color: rgba(0, 0, 0, 0.8299999833);
-  font-family: Inter, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-nb3 .item-25-1e9 {
-  margin: 0.3rem 14.787rem 0rem 0rem;
-  font-size: 2.5rem;
-  font-weight: 300;
-  line-height: 1.2125;
-  color: rgba(0, 0, 0, 0.8299999833);
-  font-family: Inter, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-nb3 .item-56425-hWy {
-  margin-bottom: 0.3rem;
-  font-size: 2.5rem;
-  font-weight: 300;
-  line-height: 1.2125;
-  color: rgba(0, 0, 0, 0.8299999833);
-  font-family: Inter, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-opu {
-  box-sizing: border-box;
-  padding: 1.5rem 18.509rem 1.2rem 1.757rem;
-  width: 100%;
-  height: 8.5rem;
-  display: flex;
-  align-items: center;
-  border: solid 0.1rem rgba(0, 0, 0, 0.6499999762);
-  background-color: #ffffff;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-opu .rectangle-771-vuX {
-  margin: 0rem 1.759rem 0.3rem 0rem;
-  width: 2.5844rem;
-  height: 2.5rem;
-  background-color: #d9d9d9;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-opu .rectangle-772-sJy {
-  margin: 0rem 1.758rem 0.1rem 0rem;
-  width: 6.2031rem;
-  height: 5.7rem;
-  object-fit: cover;
-  vertical-align: top;
-  border-radius: 1rem;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-opu .auto-group-pohs-NFj {
-  margin-right: 6.5289rem;
-  height: 100%;
-  display: flex;
-  flex-direction: column;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-opu .auto-group-pohs-NFj .stylish-shoes-UpZ {
-  margin-bottom: 0.7rem;
-  font-size: 2.5rem;
-  font-weight: 300;
-  line-height: 1.2125;
-  color: rgba(0, 0, 0, 0.8299999833);
-  font-family: Inter, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-opu .auto-group-pohs-NFj .variant-Dn9 {
-  font-size: 1.6rem;
-  font-weight: 300;
-  line-height: 1.2125;
-  color: rgba(0, 0, 0, 0.6000000238);
-  font-family: Inter, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-opu .item-4535-xzd {
-  margin: 0.3rem 10.103rem 0rem 0rem;
-  font-size: 2.5rem;
-  font-weight: 300;
-  line-height: 1.2125;
-  color: rgba(0, 0, 0, 0.8299999833);
-  font-family: Inter, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-opu .yk-industries-srh {
-  margin: 0.3rem 12.712rem 0rem 0rem;
-  font-size: 2.5rem;
-  font-weight: 300;
-  line-height: 1.2125;
-  color: rgba(0, 0, 0, 0.8299999833);
-  font-family: Inter, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-opu .item-25-M1B {
-  margin: 0.3rem 14.787rem 0rem 0rem;
-  font-size: 2.5rem;
-  font-weight: 300;
-  line-height: 1.2125;
-  color: rgba(0, 0, 0, 0.8299999833);
-  font-family: Inter, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-opu .item-56425-HQd {
-  margin-bottom: 0.3rem;
-  font-size: 2.5rem;
-  font-weight: 300;
-  line-height: 1.2125;
-  color: rgba(0, 0, 0, 0.8299999833);
-  font-family: Inter, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-CGh {
-  box-sizing: border-box;
-  padding: 1.5rem 18.509rem 1.2rem 1.757rem;
-  width: 100%;
-  height: 8.5rem;
-  display: flex;
-  align-items: center;
-  border: solid 0.1rem rgba(0, 0, 0, 0.6499999762);
-  background-color: #ffffff;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-CGh .rectangle-771-tvD {
-  margin: 0rem 1.759rem 0.3rem 0rem;
-  width: 2.5844rem;
-  height: 2.5rem;
-  background-color: #d9d9d9;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-CGh .rectangle-772-dso {
-  margin: 0rem 1.758rem 0.1rem 0rem;
-  width: 6.2031rem;
-  height: 5.7rem;
-  object-fit: cover;
-  vertical-align: top;
-  border-radius: 1rem;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-CGh .auto-group-3qut-Asj {
-  margin-right: 6.5289rem;
-  height: 100%;
-  display: flex;
-  flex-direction: column;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-CGh .auto-group-3qut-Asj .stylish-shoes-XiH {
-  margin-bottom: 0.7rem;
-  font-size: 2.5rem;
-  font-weight: 300;
-  line-height: 1.2125;
-  color: rgba(0, 0, 0, 0.8299999833);
-  font-family: Inter, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-CGh .auto-group-3qut-Asj .variant-Gvm {
-  font-size: 1.6rem;
-  font-weight: 300;
-  line-height: 1.2125;
-  color: rgba(0, 0, 0, 0.6000000238);
-  font-family: Inter, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-CGh .item-4535-29F {
-  margin: 0.3rem 10.103rem 0rem 0rem;
-  font-size: 2.5rem;
-  font-weight: 300;
-  line-height: 1.2125;
-  color: rgba(0, 0, 0, 0.8299999833);
-  font-family: Inter, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-CGh .yk-industries-w1K {
-  margin: 0.3rem 12.712rem 0rem 0rem;
-  font-size: 2.5rem;
-  font-weight: 300;
-  line-height: 1.2125;
-  color: rgba(0, 0, 0, 0.8299999833);
-  font-family: Inter, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-CGh .item-25-4bj {
-  margin: 0.3rem 14.787rem 0rem 0rem;
-  font-size: 2.5rem;
-  font-weight: 300;
-  line-height: 1.2125;
-  color: rgba(0, 0, 0, 0.8299999833);
-  font-family: Inter, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-CGh .item-56425-Auf {
-  margin-bottom: 0.3rem;
-  font-size: 2.5rem;
-  font-weight: 300;
-  line-height: 1.2125;
-  color: rgba(0, 0, 0, 0.8299999833);
-  font-family: Inter, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-sJH {
-  box-sizing: border-box;
-  padding: 1.5rem 18.509rem 1.2rem 1.757rem;
-  width: 100%;
-  height: 8.5rem;
-  display: flex;
-  align-items: center;
-  border: solid 0.1rem rgba(0, 0, 0, 0.6499999762);
-  background-color: #ffffff;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-sJH .rectangle-771-zdo {
-  margin: 0rem 1.759rem 0.3rem 0rem;
-  width: 2.5844rem;
-  height: 2.5rem;
-  background-color: #d9d9d9;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-sJH .rectangle-772-iZo {
-  margin: 0rem 1.758rem 0.1rem 0rem;
-  width: 6.2031rem;
-  height: 5.7rem;
-  object-fit: cover;
-  vertical-align: top;
-  border-radius: 1rem;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-sJH .auto-group-dgzm-2qP {
-  margin-right: 6.5289rem;
-  height: 100%;
-  display: flex;
-  flex-direction: column;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-sJH .auto-group-dgzm-2qP .stylish-shoes-a6D {
-  margin-bottom: 0.7rem;
-  font-size: 2.5rem;
-  font-weight: 300;
-  line-height: 1.2125;
-  color: rgba(0, 0, 0, 0.8299999833);
-  font-family: Inter, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-sJH .auto-group-dgzm-2qP .variant-iTK {
-  font-size: 1.6rem;
-  font-weight: 300;
-  line-height: 1.2125;
-  color: rgba(0, 0, 0, 0.6000000238);
-  font-family: Inter, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-sJH .item-4535-e65 {
-  margin: 0.3rem 10.103rem 0rem 0rem;
-  font-size: 2.5rem;
-  font-weight: 300;
-  line-height: 1.2125;
-  color: rgba(0, 0, 0, 0.8299999833);
-  font-family: Inter, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-sJH .yk-industries-aEd {
-  margin: 0.3rem 12.712rem 0rem 0rem;
-  font-size: 2.5rem;
-  font-weight: 300;
-  line-height: 1.2125;
-  color: rgba(0, 0, 0, 0.8299999833);
-  font-family: Inter, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-sJH .item-25-tWD {
-  margin: 0.3rem 14.787rem 0rem 0rem;
-  font-size: 2.5rem;
-  font-weight: 300;
-  line-height: 1.2125;
-  color: rgba(0, 0, 0, 0.8299999833);
-  font-family: Inter, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-sJH .item-56425-ch7 {
-  margin-bottom: 0.3rem;
-  font-size: 2.5rem;
-  font-weight: 300;
-  line-height: 1.2125;
-  color: rgba(0, 0, 0, 0.8299999833);
-  font-family: Inter, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-7ds {
-  box-sizing: border-box;
-  padding: 1.5rem 18.509rem 1.2rem 1.757rem;
-  width: 100%;
-  height: 8.5rem;
-  display: flex;
-  align-items: center;
-  border: solid 0.1rem rgba(0, 0, 0, 0.6499999762);
-  background-color: #ffffff;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-7ds .rectangle-771-zxZ {
-  margin: 0rem 1.759rem 0.3rem 0rem;
-  width: 2.5844rem;
-  height: 2.5rem;
-  background-color: #d9d9d9;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-7ds .rectangle-772-jv9 {
-  margin: 0rem 1.758rem 0.1rem 0rem;
-  width: 6.2031rem;
-  height: 5.7rem;
-  object-fit: cover;
-  vertical-align: top;
-  border-radius: 1rem;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-7ds .auto-group-ci65-GfB {
-  margin-right: 6.5289rem;
-  height: 100%;
-  display: flex;
-  flex-direction: column;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-7ds .auto-group-ci65-GfB .stylish-shoes-EM7 {
-  margin-bottom: 0.7rem;
-  font-size: 2.5rem;
-  font-weight: 300;
-  line-height: 1.2125;
-  color: rgba(0, 0, 0, 0.8299999833);
-  font-family: Inter, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-7ds .auto-group-ci65-GfB .variant-9iy {
-  font-size: 1.6rem;
-  font-weight: 300;
-  line-height: 1.2125;
-  color: rgba(0, 0, 0, 0.6000000238);
-  font-family: Inter, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-7ds .item-4535-Vnq {
-  margin: 0.3rem 10.103rem 0rem 0rem;
-  font-size: 2.5rem;
-  font-weight: 300;
-  line-height: 1.2125;
-  color: rgba(0, 0, 0, 0.8299999833);
-  font-family: Inter, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-7ds .yk-industries-zjb {
-  margin: 0.3rem 12.712rem 0rem 0rem;
-  font-size: 2.5rem;
-  font-weight: 300;
-  line-height: 1.2125;
-  color: rgba(0, 0, 0, 0.8299999833);
-  font-family: Inter, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-7ds .item-25-8au {
-  margin: 0.3rem 14.787rem 0rem 0rem;
-  font-size: 2.5rem;
-  font-weight: 300;
-  line-height: 1.2125;
-  color: rgba(0, 0, 0, 0.8299999833);
-  font-family: Inter, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-7ds .item-56425-faq {
-  margin-bottom: 0.3rem;
-  font-size: 2.5rem;
-  font-weight: 300;
-  line-height: 1.2125;
-  color: rgba(0, 0, 0, 0.8299999833);
-  font-family: Inter, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-ZAR {
-  box-sizing: border-box;
-  padding: 1.5rem 18.509rem 1.2rem 1.757rem;
-  width: 100%;
-  height: 8.5rem;
-  display: flex;
-  align-items: center;
-  border: solid 0.1rem rgba(0, 0, 0, 0.6499999762);
-  background-color: #ffffff;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-ZAR .rectangle-771-4ss {
-  margin: 0rem 1.759rem 0.3rem 0rem;
-  width: 2.5844rem;
-  height: 2.5rem;
-  background-color: #d9d9d9;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-ZAR .rectangle-772-arD {
-  margin: 0rem 1.758rem 0.1rem 0rem;
-  width: 6.2031rem;
-  height: 5.7rem;
-  object-fit: cover;
-  vertical-align: top;
-  border-radius: 1rem;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-ZAR .auto-group-hmeq-63s {
-  margin-right: 6.5289rem;
-  height: 100%;
-  display: flex;
-  flex-direction: column;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-ZAR .auto-group-hmeq-63s .stylish-shoes-EA5 {
-  margin-bottom: 0.7rem;
-  font-size: 2.5rem;
-  font-weight: 300;
-  line-height: 1.2125;
-  color: rgba(0, 0, 0, 0.8299999833);
-  font-family: Inter, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-ZAR .auto-group-hmeq-63s .variant-Zy3 {
-  font-size: 1.6rem;
-  font-weight: 300;
-  line-height: 1.2125;
-  color: rgba(0, 0, 0, 0.6000000238);
-  font-family: Inter, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-ZAR .item-4535-WNV {
-  margin: 0.3rem 10.103rem 0rem 0rem;
-  font-size: 2.5rem;
-  font-weight: 300;
-  line-height: 1.2125;
-  color: rgba(0, 0, 0, 0.8299999833);
-  font-family: Inter, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-ZAR .yk-industries-3NR {
-  margin: 0.3rem 12.712rem 0rem 0rem;
-  font-size: 2.5rem;
-  font-weight: 300;
-  line-height: 1.2125;
-  color: rgba(0, 0, 0, 0.8299999833);
-  font-family: Inter, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-ZAR .item-25-NvV {
-  margin: 0.3rem 14.787rem 0rem 0rem;
-  font-size: 2.5rem;
-  font-weight: 300;
-  line-height: 1.2125;
-  color: rgba(0, 0, 0, 0.8299999833);
-  font-family: Inter, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-ZAR .item-56425-Gky {
-  margin-bottom: 0.3rem;
-  font-size: 2.5rem;
-  font-weight: 300;
-  line-height: 1.2125;
-  color: rgba(0, 0, 0, 0.8299999833);
-  font-family: Inter, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-zS5 {
-  box-sizing: border-box;
-  padding: 1.5rem 18.509rem 1.2rem 1.757rem;
-  width: 100%;
-  height: 8.5rem;
-  display: flex;
-  align-items: center;
-  border: solid 0.1rem rgba(0, 0, 0, 0.6499999762);
-  background-color: #ffffff;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-zS5 .rectangle-771-tnM {
-  margin: 0rem 1.759rem 0.3rem 0rem;
-  width: 2.5844rem;
-  height: 2.5rem;
-  background-color: #d9d9d9;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-zS5 .rectangle-772-1c5 {
-  margin: 0rem 1.758rem 0.1rem 0rem;
-  width: 6.2031rem;
-  height: 5.7rem;
-  object-fit: cover;
-  vertical-align: top;
-  border-radius: 1rem;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-zS5 .auto-group-iq7k-8Au {
-  margin-right: 6.5289rem;
-  height: 100%;
-  display: flex;
-  flex-direction: column;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-zS5 .auto-group-iq7k-8Au .stylish-shoes-5rq {
-  margin-bottom: 0.7rem;
-  font-size: 2.5rem;
-  font-weight: 300;
-  line-height: 1.2125;
-  color: rgba(0, 0, 0, 0.8299999833);
-  font-family: Inter, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-zS5 .auto-group-iq7k-8Au .variant-1kV {
-  font-size: 1.6rem;
-  font-weight: 300;
-  line-height: 1.2125;
-  color: rgba(0, 0, 0, 0.6000000238);
-  font-family: Inter, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-zS5 .item-4535-MpM {
-  margin: 0.3rem 10.103rem 0rem 0rem;
-  font-size: 2.5rem;
-  font-weight: 300;
-  line-height: 1.2125;
-  color: rgba(0, 0, 0, 0.8299999833);
-  font-family: Inter, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-zS5 .yk-industries-2vV {
-  margin: 0.3rem 12.712rem 0rem 0rem;
-  font-size: 2.5rem;
-  font-weight: 300;
-  line-height: 1.2125;
-  color: rgba(0, 0, 0, 0.8299999833);
-  font-family: Inter, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-zS5 .item-25-Amo {
-  margin: 0.3rem 14.787rem 0rem 0rem;
-  font-size: 2.5rem;
-  font-weight: 300;
-  line-height: 1.2125;
-  color: rgba(0, 0, 0, 0.8299999833);
-  font-family: Inter, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-zS5 .item-56425-uUV {
-  margin-bottom: 0.3rem;
-  font-size: 2.5rem;
-  font-weight: 300;
-  line-height: 1.2125;
-  color: rgba(0, 0, 0, 0.8299999833);
-  font-family: Inter, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-Dk5 {
-  box-sizing: border-box;
-  padding: 1.5rem 18.509rem 1.2rem 1.757rem;
-  width: 100%;
-  height: 8.5rem;
-  display: flex;
-  align-items: center;
-  border: solid 0.1rem rgba(0, 0, 0, 0.6499999762);
-  background-color: #ffffff;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-Dk5 .rectangle-771-iRw {
-  margin: 0rem 1.759rem 0.3rem 0rem;
-  width: 2.5844rem;
-  height: 2.5rem;
-  background-color: #d9d9d9;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-Dk5 .rectangle-772-QJm {
-  margin: 0rem 1.758rem 0.1rem 0rem;
-  width: 6.2031rem;
-  height: 5.7rem;
-  object-fit: cover;
-  vertical-align: top;
-  border-radius: 1rem;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-Dk5 .auto-group-spgq-Eob {
-  margin-right: 6.5289rem;
-  height: 100%;
-  display: flex;
-  flex-direction: column;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-Dk5 .auto-group-spgq-Eob .stylish-shoes-53X {
-  margin-bottom: 0.7rem;
-  font-size: 2.5rem;
-  font-weight: 300;
-  line-height: 1.2125;
-  color: rgba(0, 0, 0, 0.8299999833);
-  font-family: Inter, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-Dk5 .auto-group-spgq-Eob .variant-LVF {
-  font-size: 1.6rem;
-  font-weight: 300;
-  line-height: 1.2125;
-  color: rgba(0, 0, 0, 0.6000000238);
-  font-family: Inter, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-Dk5 .item-4535-FcD {
-  margin: 0.3rem 10.103rem 0rem 0rem;
-  font-size: 2.5rem;
-  font-weight: 300;
-  line-height: 1.2125;
-  color: rgba(0, 0, 0, 0.8299999833);
-  font-family: Inter, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-Dk5 .yk-industries-wE9 {
-  margin: 0.3rem 12.712rem 0rem 0rem;
-  font-size: 2.5rem;
-  font-weight: 300;
-  line-height: 1.2125;
-  color: rgba(0, 0, 0, 0.8299999833);
-  font-family: Inter, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-Dk5 .item-25-DhT {
-  margin: 0.3rem 14.787rem 0rem 0rem;
-  font-size: 2.5rem;
-  font-weight: 300;
-  line-height: 1.2125;
-  color: rgba(0, 0, 0, 0.8299999833);
-  font-family: Inter, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-Dk5 .item-56425-7nq {
-  margin-bottom: 0.3rem;
-  font-size: 2.5rem;
-  font-weight: 300;
-  line-height: 1.2125;
-  color: rgba(0, 0, 0, 0.8299999833);
-  font-family: Inter, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-zbj {
-  box-sizing: border-box;
-  padding: 1.5rem 18.509rem 1.2rem 1.757rem;
-  width: 100%;
-  height: 8.5rem;
-  display: flex;
-  align-items: center;
-  border: solid 0.1rem rgba(0, 0, 0, 0.6499999762);
-  background-color: #ffffff;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-zbj .rectangle-771-TER {
-  margin: 0rem 1.759rem 0.3rem 0rem;
-  width: 2.5844rem;
-  height: 2.5rem;
-  background-color: #d9d9d9;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-zbj .rectangle-772-xgy {
-  margin: 0rem 1.758rem 0.1rem 0rem;
-  width: 6.2031rem;
-  height: 5.7rem;
-  object-fit: cover;
-  vertical-align: top;
-  border-radius: 1rem;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-zbj .auto-group-vsy7-Fvy {
-  margin-right: 6.5289rem;
-  height: 100%;
-  display: flex;
-  flex-direction: column;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-zbj .auto-group-vsy7-Fvy .stylish-shoes-nvu {
-  margin-bottom: 0.7rem;
-  font-size: 2.5rem;
-  font-weight: 300;
-  line-height: 1.2125;
-  color: rgba(0, 0, 0, 0.8299999833);
-  font-family: Inter, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-zbj .auto-group-vsy7-Fvy .variant-7TP {
-  font-size: 1.6rem;
-  font-weight: 300;
-  line-height: 1.2125;
-  color: rgba(0, 0, 0, 0.6000000238);
-  font-family: Inter, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-zbj .item-4535-CUq {
-  margin: 0.3rem 10.103rem 0rem 0rem;
-  font-size: 2.5rem;
-  font-weight: 300;
-  line-height: 1.2125;
-  color: rgba(0, 0, 0, 0.8299999833);
-  font-family: Inter, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-zbj .yk-industries-zvV {
-  margin: 0.3rem 12.712rem 0rem 0rem;
-  font-size: 2.5rem;
-  font-weight: 300;
-  line-height: 1.2125;
-  color: rgba(0, 0, 0, 0.8299999833);
-  font-family: Inter, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-zbj .item-25-f13 {
-  margin: 0.3rem 14.787rem 0rem 0rem;
-  font-size: 2.5rem;
-  font-weight: 300;
-  line-height: 1.2125;
-  color: rgba(0, 0, 0, 0.8299999833);
-  font-family: Inter, 'Source Sans Pro';
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-.customerprofiles-SFs .auto-group-jyxf-h2h .auto-group-x2p3-yW1 .purchaseordersupplierlist-VKF .frame-119-JC9 .itemslist-e17 .itemlistitem-zbj .item-56425-Lss {
-  margin-bottom: 0.3rem;
-  font-size: 2.5rem;
-  font-weight: 300;
-  line-height: 1.2125;
-  color: rgba(0, 0, 0, 0.8299999833);
-  font-family: Inter, 'Source Sans Pro';
-  white-space: nowrap;
   flex-shrink: 0;
 }
